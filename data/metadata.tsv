@@ -1,0 +1,13 @@
+donor	status	sample_id	outcome	name
+1	super	01-044-A	success	fmt01044A
+1	super	01-090-A	success	fmt01090A
+1	super	01-093-A	success	fmt01093A
+1	super	01-092-A	success	fmt01092A
+5	normal	05-042-G	failure	fmt05042G
+5	normal	05-053-B	failure	fmt05053B
+5	normal	05-098-A	success	fmt05098A
+5	normal	05-080-M	success	fmt05080M
+28	normal	28-043-C	success	fmt28043C
+28	normal	28-045-A	failure	fmt28045A
+28	normal	28-045-D	success	fmt28045D
+28	normal	28-047-D	failure	fmt28047D

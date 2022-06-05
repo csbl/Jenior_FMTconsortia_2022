@@ -1,0 +1,1982 @@
+id	shadow_prices	metabolite	name
+cpd00067_e	1.4328382765141066	cpd00067	H+
+cpd00201_c_Eubacteriumrectale	2.878488539814515	cpd00201	10-Formyltetrahydrofolate
+cpd00001_c_Eubacteriumrectale	1.2925913205318345	cpd00001	H2O
+cpd01502_c_Eubacteriumrectale	3.606379832495184	cpd01502	Citraconate
+cpd03593_c_Eubacteriumrectale	5.898971153027018	cpd03593	D-Erythro-3-Methylmalate
+cpd02693_c_Eubacteriumrectale	1.0007192132456366	cpd02693	3-Isopropylmalate
+cpd01700_c_Eubacteriumrectale	5.898971153027018	cpd01700	D-Citramalate
+cpd00067_c_Eubacteriumrectale	1.1828382765141066	cpd00067	H+
+cpd00956_c_Eubacteriumrectale	3.0619192234597783	cpd00956	1-(2-Carboxyphenylamino)-1-Deoxyribulose 5-Phosphate
+cpd02210_c_Eubacteriumrectale	2.516892153238863	cpd02210	Indoleglycerol Phosphate
+cpd00347_c_Eubacteriumrectale	1.768735495796787	cpd00347	5-10-Methenyltetrahydrofolate
+cpd00022_c_Eubacteriumrectale	1.1293805332747897	cpd00022	Acetyl-Coa
+cpd00123_c_Eubacteriumrectale	1.9816171552738604	cpd00123	3-Methyl-2-Oxobutanoate
+cpd00005_c_Eubacteriumrectale	1.0557001267361397	cpd00005	Nadph
+cpd00668_c_Eubacteriumrectale	2.852588247712421	cpd00668	Alctt
+cpd02498_c_Eubacteriumrectale	3.559639638071081	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd19047_c_Eubacteriumrectale	2.852588247712421	cpd19047	(S)-2-Acetolactate
+cpd19030_c_Eubacteriumrectale	3.559639638071081	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd02569_c_Eubacteriumrectale	1.9652418918700603	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd00498_c_Eubacteriumrectale	3.267318890592706	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd10162_c_Eubacteriumrectale	2.5337063129677837	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd02535_c_Eubacteriumrectale	3.2407577033264436	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd02229_c_Eubacteriumrectale	2.0	cpd02229	Bactoprenyl Diphosphate
+cpd00117_c_Eubacteriumrectale	1.2925913205318347	cpd00117	D-Alanine
+cpd11657_c_Eubacteriumrectale	1.7966947838214598	cpd11657	Starch
+cpd00179_c_Eubacteriumrectale	2.0892861043532944	cpd00179	Maltose
+cpd00383_c_Eubacteriumrectale	6.551238828682357	cpd00383	Shikimate
+cpd02030_c_Eubacteriumrectale	6.551238828682357	cpd02030	3-Phosphoshikimate
+cpd03426_c_Eubacteriumrectale	2.100447413473139	cpd03426	Sirohydrochlorin
+cpd10515_c_Eubacteriumrectale	2.0	cpd10515	Fe+2
+cpd00557_c_Eubacteriumrectale	2.7347708604449257	cpd00557	Siroheme
+cpd01620_c_Eubacteriumrectale	4.990337080345905	cpd01620	Precorrin 2
+cpd00616_c_Eubacteriumrectale	5.177018231990656	cpd00616	Pretyrosine
+cpd00066_c_Eubacteriumrectale	3.395253709248901	cpd00066	L-Phenylalanine
+cpd00219_c_Eubacteriumrectale	2.844378466238802	cpd00219	Prephenate
+cpd00143_c_Eubacteriumrectale	3.376870864522761	cpd00143	Phenylpyruvate
+cpd00216_c_Eubacteriumrectale	4.336911108846275	cpd00216	Chorismate
+cpd08301_c_Eubacteriumrectale	3.9256458398410543	cpd08301	2-C-Methyl-D-Erythritol2-4-Cyclodiphosphate
+cpd02904_c_Eubacteriumrectale	1.9558812833405206	cpd02904	Alpha-Ribazole 5'-Phosphate
+cpd08371_c_Eubacteriumrectale	1.7513672293758595	cpd08371	Cobalt-Precorrin 5
+cpd00156_c_Eubacteriumrectale	2.0	cpd00156	L-Valine
+cpd00322_c_Eubacteriumrectale	2.0183828447261396	cpd00322	L-Isoleucine
+cpd00508_c_Eubacteriumrectale	2.0	cpd00508	3Mop
+cpd00200_c_Eubacteriumrectale	1.0657076656285573	cpd00200	4Mop
+cpd00171_c_Eubacteriumrectale	3.611220106989011	cpd00171	D-Ribulose5-Phosphate
+cpd00834_c_Eubacteriumrectale	1.1996845564776208	cpd00834	Phosphopantetheine
+cpd02201_c_Eubacteriumrectale	2.5725663722362473	cpd02201	4-Phosphopantothenate
+cpd00052_c_Eubacteriumrectale	1.1269043808376773	cpd00052	Ctp
+cpd00241_c_Eubacteriumrectale	1.1269043808376773	cpd00241	Dgtp
+cpd00115_c_Eubacteriumrectale	1.1269043808376773	cpd00115	Datp
+cpd00932_c_Eubacteriumrectale	10.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd03389_c_Eubacteriumrectale	1.466406517952467	cpd03389	Selenocysteine
+cpd02991_c_Eubacteriumrectale	6.29381717462557	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd02843_c_Eubacteriumrectale	5.422310352478944	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd00794_c_Eubacteriumrectale	4.089286104353294	cpd00794	Trhl
+cpd00356_c_Eubacteriumrectale	1.1269043808376773	cpd00356	Dctp
+cpd00357_c_Eubacteriumrectale	1.1269043808376773	cpd00357	Ttp
+cpd00083_c_Eubacteriumrectale	1.4991576271215998	cpd00083	Gdp-Mannose
+cpd02140_c_Eubacteriumrectale	2.6734586946839953	cpd02140	Air
+cpd00504_c_Eubacteriumrectale	2.321268788636762	cpd00504	Ll-2,6-Diaminopimelate
+cpd02465_c_Eubacteriumrectale	1.8274563468646816	cpd02465	Tetrahydrodipicolinate
+cpd00202_c_Eubacteriumrectale	2.6605275349764823	cpd00202	Dmapp
+cpd12546_c_Eubacteriumrectale	1.7758769129122616	cpd12546	Trna Containing 6-Isopentenyladenosine
+cpd01775_c_Eubacteriumrectale	3.2012154674277915	cpd01775	Phosphoribosyl-Atp
+cpd01777_c_Eubacteriumrectale	3.0012258540937355	cpd01777	Phosphoribosyl-Amp
+cpd02979_c_Eubacteriumrectale	5.29381717462557	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd11735_c_Eubacteriumrectale	1.3983473919107299	cpd11735	Amylose
+cpd00125_c_Eubacteriumrectale	1.29294860964134	cpd00125	5-10-Methylenetetrahydrofolate
+cpd00299_c_Eubacteriumrectale	1.4778186954358183	cpd00299	Dump
+cpd00918_c_Eubacteriumrectale	3.0583880120500497	cpd00918	2-Acetamido-5-Oxopentanoate
+cpd12105_c_Eubacteriumrectale	3.4948868027442734	cpd12105	L-Methionyl-Trna
+cpd12285_c_Eubacteriumrectale	5.535479636956695	cpd12285	N-Formylmethionyl-Trna
+cpd19001_c_Eubacteriumrectale	2.1909387124425646	cpd19001	Alpha-D-Glucose
+cpd00076_c_Eubacteriumrectale	1.6909387124425646	cpd00076	Sucrose
+cpd00082_c_Eubacteriumrectale	1.6909387124425654	cpd00082	D-Fructose
+cpd01981_c_Eubacteriumrectale	2.016332401551163	cpd01981	5-Methylthio-D-Ribose
+cpd00042_c_Eubacteriumrectale	1.5765591107470371	cpd00042	Gsh
+cpd03049_c_Eubacteriumrectale	4.338835983264107	cpd03049	2-Hydroxyethyl-Thpp
+cpd00056_c_Eubacteriumrectale	2.0	cpd00056	Tpp
+cpd00069_c_Eubacteriumrectale	3.310535481160535	cpd00069	L-Tyrosine
+cpd12194_c_Eubacteriumrectale	3.5117748519062837	cpd12194	L-Tyrosyl-Trna(Tyr)
+cpd02775_c_Eubacteriumrectale	2.870980871827192	cpd02775	4-Amino-5-Phosphomethyl-2-Methylpyrimidine
+cpd02894_c_Eubacteriumrectale	4.053819148341298	cpd02894	4-Amino-2-Methyl-5-Diphosphomethylpyrimidine
+cpd00939_c_Eubacteriumrectale	1.6734586946839953	cpd00939	Toxopyrimidine
+cpd00062_c_Eubacteriumrectale	1.1269043808376773	cpd00062	Utp
+cpd19006_c_Eubacteriumrectale	2.1909387124425646	cpd19006	Alpha-D-Glucose 6-Phosphate
+cpd00878_c_Eubacteriumrectale	1.6771307826270265	cpd00878	Glucocerebroside
+cpd00650_c_Eubacteriumrectale	2.7777085854568155	cpd00650	Crotonyl-Coa
+cpd00842_c_Eubacteriumrectale	3.0702999059886498	cpd00842	(S)-3-Hydroxybutyryl-Coa
+cpd03396_c_Eubacteriumrectale	1.2941829501009723	cpd03396	Selenate
+cpd00485_c_Eubacteriumrectale	3.530268877616938	cpd00485	D-Mannose1-Phosphate
+cpd00072_c_Eubacteriumrectale	1.6909387124425654	cpd00072	D-Fructose-6-Phosphate
+cpd00290_c_Eubacteriumrectale	1.690938712442565	cpd00290	D-Fructose-1,6-Bisphosphate
+cpd19035_c_Eubacteriumrectale	2.115489285446608	cpd19035	Beta-D-Fructose 6-Phosphate
+cpd19036_c_Eubacteriumrectale	2.115489285446608	cpd19036	Beta-D-Fructose 1,6-Bisphosphate
+cpd00805_c_Eubacteriumrectale	2.5673168360065635	cpd00805	D-Tagatose 6-Phosphate
+cpd02371_c_Eubacteriumrectale	3.511382940330133	cpd02371	D-Tagatose 1,6-Biphosphate
+cpd00516_c_Eubacteriumrectale	3.132749464105241	cpd00516	Meso-2,6-Diaminopimelate
+cpd00355_c_Eubacteriumrectale	1.147409365631731	cpd00355	Nicotinamide Ribonucleotide
+cpd00220_c_Eubacteriumrectale	2.7679320740284163	cpd00220	Riboflavin
+cpd00050_c_Eubacteriumrectale	3.9507703505425225	cpd00050	Fmn
+cpd00015_c_Eubacteriumrectale	3.2449718390496143	cpd00015	Fad
+cpd03388_c_Eubacteriumrectale	2.6782605973608273	cpd03388	Adenylylselenate
+cpd00982_c_Eubacteriumrectale	2.0	cpd00982	Fadh2
+cpd08372_c_Eubacteriumrectale	2.0427220760423537	cpd08372	Cobalt-Precorrin 6
+cpd00517_c_Eubacteriumrectale	1.8128792906204474	cpd00517	1-Acyl-Sn-Glycerol 3-Phosphate
+cpd00060_c_Eubacteriumrectale	4.037045728916317	cpd00060	L-Methionine
+cpd03163_c_Eubacteriumrectale	5.031180261644911	cpd03163	Selenomethionine
+cpd12704_c_Eubacteriumrectale	8.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd03471_c_Eubacteriumrectale	5.145844471933993	cpd03471	Nicotinate D-Ribonucleoside
+cpd00218_c_Eubacteriumrectale	1.9630061954198867	cpd00218	Niacin
+cpd00246_c_Eubacteriumrectale	2.5647697428520004	cpd00246	Inosine
+cpd00226_c_Eubacteriumrectale	2.564769742852002	cpd00226	Hyxn
+cpd01217_c_Eubacteriumrectale	1.7929016367978194	cpd01217	Xanthosine
+cpd02016_c_Eubacteriumrectale	4.457175926301471	cpd02016	N-Ribosylnicotinamide
+cpd00133_c_Eubacteriumrectale	1.2743376497873657	cpd00133	Nicotinamide
+cpd00101_c_Eubacteriumrectale	2.671832345098617	cpd00101	Ribose-5-Phosphate
+cpd00102_c_Eubacteriumrectale	1.8454693562212825	cpd00102	Glyceraldehyde3-Phosphate
+cpd00198_c_Eubacteriumrectale	4.611220106989011	cpd00198	D-Xylulose5-Phosphate
+cpd00043_c_Eubacteriumrectale	2.163488557566178	cpd00043	Udp-Galactose
+cpd02338_c_Eubacteriumrectale	1.1634885575661782	cpd02338	Udp-D-Galacto-1,4-Furanose
+cpd00343_c_Eubacteriumrectale	1.0847131918086892	cpd00343	N-Carbamoyl-L-Aspartate
+cpd00346_c_Eubacteriumrectale	4.344981250324599	cpd00346	L-Aspartate4-Semialdehyde
+cpd02882_c_Eubacteriumrectale	9.11187338818446	cpd02882	4--1-D-Ribitylamino-5-Aminouracil
+cpd02656_c_Eubacteriumrectale	4.848483592849385	cpd02656	6-7-Dimethyl-8--1-D-Ribityllumazine
+cpd00103_c_Eubacteriumrectale	2.9999760966820426	cpd00103	Prpp
+cpd00497_c_Eubacteriumrectale	2.483135076128079	cpd00497	Xmp
+cpd00408_c_Eubacteriumrectale	5.619151046717708	cpd00408	Pantoate
+cpd00644_c_Eubacteriumrectale	2.044118716659488	cpd00644	Pan
+cpd11427_c_Eubacteriumrectale	1.2793370011842544	cpd11427	Cdp-Diacylglycerol
+cpd11455_c_Eubacteriumrectale	4.379405253573984	cpd11455	Ps_Bs
+cpd03395_c_Eubacteriumrectale	3.489379860875058	cpd03395	3'-Phosphoadenylylselenate
+cpd00251_c_Eubacteriumrectale	1.9618061101176067	cpd00251	Adpribose
+cpd12371_c_Eubacteriumrectale	1.6771307826270265	cpd12371	Mgdg
+cpd00382_c_Eubacteriumrectale	1.912155321726269	cpd00382	Melitose
+cpd00588_c_Eubacteriumrectale	3.3979901028012254	cpd00588	Sorbitol
+cpd01743_c_Eubacteriumrectale	2.0765591107470374	cpd01743	Cerebroside
+cpd00910_c_Eubacteriumrectale	1.6734297479308182	cpd00910	Galactinol
+cpd00121_c_Eubacteriumrectale	4.140613056018481	cpd00121	L-Inositol
+cpd00016_c_Eubacteriumrectale	1.7680209175777728	cpd00016	Pyridoxal Phosphate
+cpd00263_c_Eubacteriumrectale	2.0	cpd00263	Pyridoxol
+cpd00478_c_Eubacteriumrectale	2.0	cpd00478	Pyridoxine Phosphate
+cpd00259_c_Eubacteriumrectale	4.611220106989011	cpd00259	D-Lyxulose
+cpd00810_c_Eubacteriumrectale	1.187949209312106	cpd00810	Orotidylic Acid
+cpd02345_c_Eubacteriumrectale	1.1668202011369297	cpd02345	L-Glutamate1-Semialdehyde
+cpd00345_c_Eubacteriumrectale	2.0	cpd00345	5-Methyltetrahydrofolate
+cpd00358_c_Eubacteriumrectale	3.7845557747304452	cpd00358	Dutp
+cpd12507_c_Eubacteriumrectale	1.493830691277583	cpd12507	O-D-Alanyl-Poly(Ribitol Phosphate)
+cpd16494_c_Eubacteriumrectale	2.552520746579942	cpd16494	Dl-Glyceryl 1-Phosphate
+cpd12060_c_Eubacteriumrectale	1.6039227748993126	cpd12060	Gln-Trna(Gln)
+cpd03398_c_Eubacteriumrectale	2.5113214095486907	cpd03398	Selenocystathionine
+cpd03397_c_Eubacteriumrectale	2.6862376907328978	cpd03397	Selenohomocysteine
+cpd00135_c_Eubacteriumrectale	1.6921031580043033	cpd00135	Homocysteine
+cpd03495_c_Eubacteriumrectale	3.0	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd00068_c_Eubacteriumrectale	1.5949314483225425	cpd00068	Itp
+cpd00039_c_Eubacteriumrectale	3.619977030110146	cpd00039	L-Lysine
+cpd00873_c_Eubacteriumrectale	3.836077911264252	cpd00873	Nicotinate Ribonucleotide
+cpd11652_c_Eubacteriumrectale	10.625541664080778	cpd11652	Phosphatidylglycerol
+cpd12801_c_Eubacteriumrectale	19.453176577647234	cpd12801	Cardiolipin
+cpd00026_c_Eubacteriumrectale	1.1634885575661782	cpd00026	Udp-Glucose
+cpd02738_c_Eubacteriumrectale	1.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd11466_c_Eubacteriumrectale	1.6732849454651937	cpd11466	Myristoyl-Acp
+cpd11468_c_Eubacteriumrectale	2.3953346269199596	cpd11468	Dodecanoyl-Acp
+cpd12458_c_Eubacteriumrectale	1.0840474075082216	cpd12458	Stearoyl-[Acyl-Carrier Protein]
+cpd11470_c_Eubacteriumrectale	1.616132171329743	cpd11470	Octanoyl-Acp
+cpd11474_c_Eubacteriumrectale	3.031332444669367	cpd11474	Decanoyl-Acp
+cpd00113_c_Eubacteriumrectale	1.7383140859232125	cpd00113	Isopentenyldiphosphate
+cpd00350_c_Eubacteriumrectale	1.2319561064050535	cpd00350	Farnesyldiphosphate
+cpd12754_c_Eubacteriumrectale	1.2055740194576028	cpd12754	Cyanohydrin
+cpd12256_c_Eubacteriumrectale	2.219622215471888	cpd12256	L-Isoleucyl-Trna(Ile)
+cpd00086_c_Eubacteriumrectale	1.544111176155075	cpd00086	Propionyl-Coa
+cpd03455_c_Eubacteriumrectale	1.468254626605772	cpd03455	3-Mercaptolactate
+cpd00706_c_Eubacteriumrectale	1.7612032362471122	cpd00706	Mercaptopyruvate
+cpd03561_c_Eubacteriumrectale	2.635534297687259	cpd03561	2-Hydroxybutyrate
+cpd00338_c_Eubacteriumrectale	1.5895047198322279	cpd00338	5-Aminolevulinate
+cpd00868_c_Eubacteriumrectale	3.9624107946959355	cpd00868	P-Hydroxyphenylpyruvate
+cpd12452_c_Eubacteriumrectale	3.4428255587504317	cpd12452	Glcbeta1->3Acyl2Gro
+cpd12815_c_Eubacteriumrectale	3.606314116316609	cpd12815	Diglucosyl-Diacylglycerol
+cpd11423_c_Eubacteriumrectale	1.2793370011842544	cpd11423	1,2-Diacyl-Sn-Glycerol
+cpd00793_c_Eubacteriumrectale	6.109753044017728	cpd00793	Thiamine Phosphate
+cpd00305_c_Eubacteriumrectale	1.6718562484165744	cpd00305	Thiamin
+cpd00306_c_Eubacteriumrectale	4.318271497347671	cpd00306	Xylitol
+cpd30321_c_Eubacteriumrectale	1.7925913205318347	cpd30321	Beta-D-Fructose
+cpd01982_c_Eubacteriumrectale	1.294156214229572	cpd01982	5-Phosphoribosylamine
+cpd02394_c_Eubacteriumrectale	5.447208784693627	cpd02394	Gar
+cpd06227_c_Eubacteriumrectale	3.9135868691205045	cpd06227	Thf-L-Glutamate
+cpd00683_c_Eubacteriumrectale	13.450343900110067	cpd00683	Dihydropteroate
+cpd11911_c_Eubacteriumrectale	5.832822509753567	cpd11911	Trna(Gln)
+cpd00149_c_Eubacteriumrectale	1.2652291395550743	cpd00149	Co2+
+cpd00342_c_Eubacteriumrectale	1.0767708567761893	cpd00342	N-Acetylornithine
+cpd00120_c_Eubacteriumrectale	1.3498984698930943	cpd00120	Butyryl-Coa
+cpd20970_c_Eubacteriumrectale	3.3462913687107436	cpd20970	[Trna(Ile2)]-Lysidine34
+cpd00699_c_Eubacteriumrectale	6.198171853174555	cpd00699	5-Dehydroquinate
+cpd01716_c_Eubacteriumrectale	4.844187438323697	cpd01716	3-Dehydroshikimate
+cpd02678_c_Eubacteriumrectale	6.487801618906048	cpd02678	N-Formyl-Gar
+cpd00764_c_Eubacteriumrectale	3.4301138071881314	cpd00764	7-8-Diaminononanoate
+cpd01311_c_Eubacteriumrectale	2.0	cpd01311	Dethiobiotin
+cpd02857_c_Eubacteriumrectale	3.9269915071611656	cpd02857	Dahp
+cpd03392_c_Eubacteriumrectale	9.525010952922493	cpd03392	Se-Adenosylselenomethionine
+cpd00150_c_Eubacteriumrectale	1.8840809838611687	cpd00150	Hcn
+cpd00214_c_Eubacteriumrectale	4.097834205099659	cpd00214	Palmitate
+cpd00134_c_Eubacteriumrectale	1.639858124669113	cpd00134	Palmitoyl-Coa
+cpd18071_c_Eubacteriumrectale	2.6318385444299777	cpd18071	Ethylnitronate
+cpd01270_c_Eubacteriumrectale	3.714958275717692	cpd01270	Fmnh2
+cpd00075_c_Eubacteriumrectale	1.2430555555555556	cpd00075	Nitrite
+cpd11456_c_Eubacteriumrectale	4.204488972389777	cpd11456	Phosphatidylethanolamine
+cpd11485_c_Eubacteriumrectale	1.5208333333333335	cpd11485	3-Oxohexadecanoyl-Acp
+cpd11487_c_Eubacteriumrectale	1.4636805591978828	cpd11487	3-Oxodecanoyl-Acp
+cpd11489_c_Eubacteriumrectale	2.8788808325375066	cpd11489	3-Oxododecanoyl-Acp
+cpd00931_c_Eubacteriumrectale	4.328262887078761	cpd00931	5-Amino-6--5-Phosphoribosylaminouracil
+cpd02720_c_Eubacteriumrectale	7.035314277437421	cpd02720	5-Amino-6--5-Phosphoribitylaminouracil
+cpd00930_c_Eubacteriumrectale	5.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00807_c_Eubacteriumrectale	3.9644382848262296	cpd00807	L-Histidinol-Phosphate
+cpd03918_c_Eubacteriumrectale	8.415691099597248	cpd03918	Adenosyl Cobinamide
+cpd03919_c_Eubacteriumrectale	8.415691099597248	cpd03919	Adenosyl Cobinamide Phosphate
+cpd03920_c_Eubacteriumrectale	5.598529376111355	cpd03920	Adenosylcobinamide-Gdp
+cpd01029_c_Eubacteriumrectale	1.228030777425022	cpd01029	Base Q
+cpd11986_c_Eubacteriumrectale	1.5840380045242197	cpd11986	Trna Queuine
+cpd02884_c_Eubacteriumrectale	1.1901864664867388	cpd02884	Faicar
+cpd00802_c_Eubacteriumrectale	1.6909387124425779	cpd00802	D-Fructose-1-Phosphate
+cpd03914_c_Eubacteriumrectale	2.207845549798625	cpd03914	Cob(Ii)Yrinate Diamide
+cpd03832_c_Eubacteriumrectale	3.7838116211910346	cpd03832	Hydrogenobyrinate
+cpd03913_c_Eubacteriumrectale	7.99165717098966	cpd03913	Hydrogenobyrinate Diamide
+cpd00890_c_Eubacteriumrectale	4.239186499533113	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd00525_c_Eubacteriumrectale	3.1734682306171846	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd02832_c_Eubacteriumrectale	4.6652079165402345	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd16422_c_Eubacteriumrectale	4.250747846713409	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd16329_c_Eubacteriumrectale	3.8715068221466273	cpd16329	Doxifluridine
+cpd00977_c_Eubacteriumrectale	2.6479412440328334	cpd00977	Ditp
+cpd03704_c_Eubacteriumrectale	2.4479516306987774	cpd03704	Dimp
+cpd00530_c_Eubacteriumrectale	3.2829066972241785	cpd00530	Xtp
+cpd11454_c_Eubacteriumrectale	6.260082028212681	cpd11454	Phosphatidylglycerophosphate
+cpd00638_c_Eubacteriumrectale	3.9091631437606313	cpd00638	Deamido-Nad
+cpd08615_c_Eubacteriumrectale	4.498731072337433	cpd08615	1-Hydroxy-2-Methyl-2-Butenyl 4-Diphosphate
+cpd02142_c_Eubacteriumrectale	2.8250837188157933	cpd02142	Bis(3-Aminopropyl)Amine
+cpd00359_c_Eubacteriumrectale	1.6714227970175801	cpd00359	Indol
+cpd11422_c_Eubacteriumrectale	1.2793370011842544	cpd11422	1,2-Diacyl-Sn-Glycerol 3-Phosphate
+cpd00712_c_Eubacteriumrectale	4.912099656359048	cpd00712	2-Dehydropantoate
+cpd00248_c_Eubacteriumrectale	7.905223243533215	cpd00248	Quinate
+cpd12335_c_Eubacteriumrectale	3.8088944076769167	cpd12335	L-Phenylalanyl-Trna(Phe)
+cpd01326_c_Eubacteriumrectale	7.004054677370001	cpd01326	L-Lysyl-Trna
+cpd00227_c_Eubacteriumrectale	5.4675136085514415	cpd00227	L-Homoserine
+cpd03517_c_Eubacteriumrectale	1.3553038971923312	cpd03517	Biotinyl-5-Amp
+cpd00351_c_Eubacteriumrectale	3.2745836952433502	cpd00351	Saccharopine
+cpd03422_c_Eubacteriumrectale	7.320210526177703	cpd03422	Cobinamide
+cpd00635_c_Eubacteriumrectale	4.685887079205925	cpd00635	Cbl
+cpd00166_c_Eubacteriumrectale	5.7813676526254705	cpd00166	Calomide
+cpd03917_c_Eubacteriumrectale	7.415691099597249	cpd03917	Adenosylcobyric Acid
+cpd02642_c_Eubacteriumrectale	2.944482981598926	cpd02642	N-5-Phosphoribosyl-Anthranilate
+cpd03284_c_Eubacteriumrectale	1.9816171552738604	cpd03284	3-Sulfinopyruvate
+cpd00283_c_Eubacteriumrectale	4.089098963547911	cpd00283	Geranyldiphosphate
+cpd03846_c_Eubacteriumrectale	2.3549874596334472	cpd03846	Octanoate
+cpd01107_c_Eubacteriumrectale	3.7701877329730626	cpd01107	Decanoate
+cpd01741_c_Eubacteriumrectale	3.134189915223655	cpd01741	Ddca
+cpd00905_c_Eubacteriumrectale	2.109753044017727	cpd00905	Guanosine 3',5'-Bis(Diphosphate)
+cpd00808_c_Eubacteriumrectale	5.611220106989011	cpd00808	L-Ribulose-5-Phosphate
+cpd00235_c_Eubacteriumrectale	2.530268877616938	cpd00235	D-Mannose-6-Phosphate
+cpd11770_c_Eubacteriumrectale	1.1286637304993048	cpd11770	L-Alanyl-Trna
+cpd03420_c_Eubacteriumrectale	6.171938882994672	cpd03420	Precorrin 3A
+cpd03494_c_Eubacteriumrectale	4.012402405715211	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd02948_c_Eubacteriumrectale	11.458274860491231	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd03491_c_Eubacteriumrectale	12.44587245477602	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd00755_c_Eubacteriumrectale	5.520854309281303	cpd00755	Hydroxymethylbilane
+cpd03078_c_Eubacteriumrectale	4.620735072115259	cpd03078	Selenophosphate
+cpd02893_c_Eubacteriumrectale	2.94067380705547	cpd02893	5'-Phosphoribosyl-4-Carboxy-5-Aminoimidazole
+cpd02862_c_Eubacteriumrectale	10.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd02968_c_Eubacteriumrectale	5.012402405715211	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd16419_c_Eubacteriumrectale	2.6902334393302585	cpd16419	6-Methylthioinosine-5'-Monophosphate
+cpd01590_c_Eubacteriumrectale	1.974974477209976	cpd01590	Mercaptopurine
+cpd16423_c_Eubacteriumrectale	2.6902334393302585	cpd16423	6-Thioguanosine Monophosphate
+cpd02724_c_Eubacteriumrectale	1.1652807471208795	cpd02724	N-Succinyl-L-2-Amino-6-Oxopimelate
+cpd02255_c_Eubacteriumrectale	2.8250837188157933	cpd02255	3-Oxoadipate-Enol-Lactone
+cpd00978_c_Eubacteriumrectale	1.6017174982163391	cpd00978	Dudp
+cpd00822_c_Eubacteriumrectale	5.877732297714439	cpd00822	O-Succinyl-L-Homoserine
+cpd00279_c_Eubacteriumrectale	1.6025399635106838	cpd00279	Acetoacetyl-Coa
+cpd03123_c_Eubacteriumrectale	1.8230579001289884	cpd03123	3-Oxohexanoyl-Coa
+cpd00448_c_Eubacteriumrectale	1.8454693562212954	cpd00448	D-Glyceraldehyde
+cpd00992_c_Eubacteriumrectale	1.7451835301665521	cpd00992	1,2-Ethanediol
+cpd02964_c_Eubacteriumrectale	4.023362524679209	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd11920_c_Eubacteriumrectale	1.102834588955493	cpd11920	Trna(Pro)
+cpd15565_c_Eubacteriumrectale	4.009939056960116	cpd15565	L-Seryl-Trna(Sec)
+cpd11483_c_Eubacteriumrectale	2.2016721015029175	cpd11483	(R)-3-Hydroxyoctanoyl-[Acyl-Carrier Protein]
+cpd11482_c_Eubacteriumrectale	2.1707319495565427	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd11480_c_Eubacteriumrectale	2.40309394638206	cpd11480	D-3-Hydroxydodecanoyl-[Acp]
+cpd11484_c_Eubacteriumrectale	1.7670961286326532	cpd11484	Hma
+cpd11640_c_Eubacteriumrectale	1.8656765530282136	cpd11640	H2
+cpd00774_c_Eubacteriumrectale	4.444295198534266	cpd00774	Uroporphyrinogeniii
+cpd00118_c_Eubacteriumrectale	3.199684556477621	cpd00118	Putrescine
+cpd03043_c_Eubacteriumrectale	2.3095913538693438	cpd03043	3-Hydroxybutanoyl-Coa
+cpd03833_c_Eubacteriumrectale	2.001236473865342	cpd03833	Precorrin 3B
+cpd17467_c_Eubacteriumrectale	3.257474219315727	cpd17467	Trna Containing S2U
+cpd12133_c_Eubacteriumrectale	4.525040518938126	cpd12133	L-Valyl-Trna(Val)
+cpd20338_c_Eubacteriumrectale	1.168989930767152	cpd20338	Trna With A 3' Cytidine
+cpd00501_c_Eubacteriumrectale	1.6909387124425654	cpd00501	Beta-D-Glucose 1-Phosphate
+cpd03490_c_Eubacteriumrectale	11.46923497945523	cpd03490	Udp-N-Acetylmuramoyl-L-Alanyl-Gamma-D-Glutamyl-L-Lysine
+cpd15543_c_Eubacteriumrectale	6.3382313722485435	cpd15543	Phosphatidylglycerophosphate Ditetradecanoyl
+cpd15545_c_Eubacteriumrectale	6.3382313722485435	cpd15545	Phosphatidylglycerophosphate Dihexadecanoyl
+cpd15540_c_Eubacteriumrectale	6.3382313722485435	cpd15540	Phosphatidylglycerol Dioctadecanoyl
+cpd15728_c_Eubacteriumrectale	4.326977115132355	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd15729_c_Eubacteriumrectale	4.326977115132355	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd15737_c_Eubacteriumrectale	4.163488557566177	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd15738_c_Eubacteriumrectale	4.163488557566177	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd11852_c_Eubacteriumrectale	1.179978127310714	cpd11852	Lipid
+cpd23316_c_Eubacteriumrectale	1.1462956602659173	cpd23316	[N-Acetylglucosamine-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-L-Lysyl-(Gly5)-D-Alanyl-D-Alanine]2 Diphospho-Undecaprenyl
+cpd00443_c_Eubacteriumrectale	2.271715169747894	cpd00443	Abee
+cpd00030_c_Eubacteriumrectale	2.25	cpd00030	Mn2+
+cpd00254_c_Eubacteriumrectale	2.5	cpd00254	Mg
+cpd00971_c_Eubacteriumrectale	1.8750000000000002	cpd00971	Na+
+cpd00063_c_Eubacteriumrectale	2.25	cpd00063	Ca2+
+cpd00205_c_Eubacteriumrectale	2.5	cpd00205	K+
+cpd00099_c_Eubacteriumrectale	1.625	cpd00099	Cl-
+cpd15386_c_Eubacteriumrectale	2.3382313722485444	cpd15386	L-Alanine-D-Glutamate-Meso-2,6-Diaminoheptanedioate
+cpd03847_c_Eubacteriumrectale	2.397476392254144	cpd03847	Myristic Acid
+cpd17043_c_Eubacteriumrectale	12.813139202235936	cpd17043	Rna Transcription
+cpd11459_c_Eubacteriumrectale	11.065384841633076	cpd11459	Tcam
+cpd15309_c_Eubacteriumrectale	2.0	cpd15309	1,2-Diacyl-Sn-Glycerol Dihexadecanoyl
+cpd16661_c_Eubacteriumrectale	18.33953197892003	cpd16661	Generic Peptidoglycan (Mass)
+cpd24596_c_Eubacteriumrectale	3.8379753464786095	cpd24596	Prenyl-P-P-Glcnac-Mannac-P-Gro
+cpd28246_c_Eubacteriumrectale	6.1637826957183695	cpd28246	Teichoic-P-Gro
+cpd11211_c_Eubacteriumrectale	7.027679529854103	cpd11211	Dihydromonacolin L
+cpd15307_c_Eubacteriumrectale	2.0	cpd15307	1,2-Diacyl-Sn-Glycerol Ditetradecanoyl
+cpd10516_c_Eubacteriumrectale	1.9948759495815227	cpd10516	Fe+3
+cpd17042_c_Eubacteriumrectale	26.27775318826361	cpd17042	Dna Replication
+cpd28247_c_Eubacteriumrectale	6.327271253284547	cpd28247	Teichoic-P-Gro-Glc
+cpd17041_c_Eubacteriumrectale	109.0388756408071	cpd17041	Protein Biosynthesis
+cpd12894_c_Eubacteriumrectale	7.020813622992716	cpd12894	Teichoic acid
+cellwall_c_Eubacteriumrectale	28.86033864952968	cellwall	Cell Wall polymer
+cpd01080_c_Eubacteriumrectale	5.033073186644604	cpd01080	Ocdca
+cpd16880_c_Eubacteriumrectale	6.2547190319471095	cpd16880	Episterol Ester, Yeast-Specific
+cpd02967_c_Eubacteriumrectale	2.6950062737529557	cpd02967	N-Acetyl-Beta-D-Mannosaminyl-1,4-N-Acetyl-D- Glucosaminyldiphosphoundecaprenol
+cpd00067_c_Bacteroidesvulgatus	1.9406738070554697	cpd00067	H+
+cpd00006_c_Bacteroidesvulgatus	1.2969031215516285	cpd00006	Nadp
+cpd00027_c_Bacteroidesvulgatus	1.501821222040185	cpd00027	D-Glucose
+cpd00001_c_Bacteroidesvulgatus	2.0765591107470374	cpd00001	H2O
+cpd00035_c_Bacteroidesvulgatus	1.0981465043571716	cpd00035	L-Alanine
+cpd00002_c_Bacteroidesvulgatus	1.5284476555767594	cpd00002	Atp
+cpd00809_c_Bacteroidesvulgatus	2.423104585988407	cpd00809	O-Phospho-L-Homoserine
+cpd03607_c_Bacteroidesvulgatus	1.1741760855663395	cpd03607	4-(Phosphonooxy)-Threonine
+cpd01157_c_Bacteroidesvulgatus	1.7074086794681655	cpd01157	Chitobiose
+cpd02416_c_Bacteroidesvulgatus	1.3919838951076016	cpd02416	N-Acetyl-Beta-D-Glucosamine
+cpd00076_c_Bacteroidesvulgatus	2.82207656700953	cpd00076	Sucrose
+cpd00082_c_Bacteroidesvulgatus	1.8968144557163888	cpd00082	D-Fructose
+cpd19001_c_Bacteroidesvulgatus	2.0018212220401788	cpd19001	Alpha-D-Glucose
+cpd00179_c_Bacteroidesvulgatus	2.927083333333333	cpd00179	Maltose
+cpd30321_c_Bacteroidesvulgatus	1.8968144557163886	cpd30321	Beta-D-Fructose
+cpd00198_c_Bacteroidesvulgatus	2.9458462942524433	cpd00198	D-Xylulose5-Phosphate
+cpd00102_c_Bacteroidesvulgatus	1.4768548834349553	cpd00102	Glyceraldehyde3-Phosphate
+cpd00101_c_Bacteroidesvulgatus	2.671832345098617	cpd00101	Ribose-5-Phosphate
+cpd08994_c_Bacteroidesvulgatus	1.476624454198455	cpd08994	Iminoerythrose 4-Phosphate
+cpd00072_c_Bacteroidesvulgatus	2.425262111293148	cpd00072	D-Fructose-6-Phosphate
+cpd19035_c_Bacteroidesvulgatus	1.5302688776169382	cpd19035	Beta-D-Fructose 6-Phosphate
+cpd12344_c_Bacteroidesvulgatus	2.7844830619782472	cpd12344	R-S-Alanine
+cpd00003_c_Bacteroidesvulgatus	1.6133997684791348	cpd00003	Nad
+cpd00013_c_Bacteroidesvulgatus	1.129618952678987	cpd00013	Nh3
+cpd00083_c_Bacteroidesvulgatus	3.4991576271216	cpd00083	Gdp-Mannose
+cpd12407_c_Bacteroidesvulgatus	4.439831434177069	cpd12407	Dolichyl Phosphate D-Mannose
+cpd00878_c_Bacteroidesvulgatus	1.6771307826270263	cpd00878	Glucocerebroside
+cpd02016_c_Bacteroidesvulgatus	6.457175926301472	cpd02016	N-Ribosylnicotinamide
+cpd01217_c_Bacteroidesvulgatus	1.7929016367978194	cpd01217	Xanthosine
+cpd00873_c_Bacteroidesvulgatus	2.3275569736224844	cpd00873	Nicotinate Ribonucleotide
+cpd03471_c_Bacteroidesvulgatus	5.145844471933993	cpd03471	Nicotinate D-Ribonucleoside
+cpd00246_c_Bacteroidesvulgatus	2.974154256701942	cpd00246	Inosine
+cpd00311_c_Bacteroidesvulgatus	1.666763841059339	cpd00311	Guanosine
+cpd00299_c_Bacteroidesvulgatus	1.4778186954358183	cpd00299	Dump
+cpd00978_c_Bacteroidesvulgatus	1.2666495476738486	cpd00978	Dudp
+cpd00358_c_Bacteroidesvulgatus	1.7845557747304452	cpd00358	Dutp
+cpd00977_c_Bacteroidesvulgatus	1.469121462632229	cpd00977	Ditp
+cpd11652_c_Bacteroidesvulgatus	10.625541664080778	cpd11652	Phosphatidylglycerol
+cpd00100_c_Bacteroidesvulgatus	1.2264748564234227	cpd00100	Glycerol
+cpd12801_c_Bacteroidesvulgatus	19.024608471738134	cpd12801	Cardiolipin
+cpd11466_c_Bacteroidesvulgatus	1.8456358255202292	cpd11466	Myristoyl-Acp
+cpd11485_c_Bacteroidesvulgatus	3.5208333333333335	cpd11485	3-Oxohexadecanoyl-Acp
+cpd11487_c_Bacteroidesvulgatus	2.3996106907626933	cpd11487	3-Oxodecanoyl-Acp
+cpd11468_c_Bacteroidesvulgatus	2.309056882462357	cpd11468	Dodecanoyl-Acp
+cpd11491_c_Bacteroidesvulgatus	2.158917382609864	cpd11491	3-Oxotetradecanoyl-Acp
+cpd11474_c_Bacteroidesvulgatus	1.993512975474189	cpd11474	Decanoyl-Acp
+cpd11489_c_Bacteroidesvulgatus	3.843373475621696	cpd11489	3-Oxododecanoyl-Acp
+cpd14938_c_Bacteroidesvulgatus	1.6777187082291802	cpd14938	3-Oxostearoyl-[Acp]
+cpd11911_c_Bacteroidesvulgatus	5.268663745285052	cpd11911	Trna(Gln)
+cpd12060_c_Bacteroidesvulgatus	2.339811263512991	cpd12060	Gln-Trna(Gln)
+cpd02894_c_Bacteroidesvulgatus	4.671027812892984	cpd02894	4-Amino-2-Methyl-5-Diphosphomethylpyrimidine
+cpd00793_c_Bacteroidesvulgatus	6.109753044017728	cpd00793	Thiamine Phosphate
+cpd02140_c_Bacteroidesvulgatus	1.110950328791146	cpd02140	Air
+cpd01502_c_Bacteroidesvulgatus	3.606379832495184	cpd01502	Citraconate
+cpd03593_c_Bacteroidesvulgatus	4.682938943242221	cpd03593	D-Erythro-3-Methylmalate
+cpd01700_c_Bacteroidesvulgatus	4.682938943242221	cpd01700	D-Citramalate
+cpd00954_c_Bacteroidesvulgatus	15.381729988682848	cpd00954	6-Hydroxymethyl Dihydropterin
+cpd02920_c_Bacteroidesvulgatus	13.412126220190332	cpd02920	2-Amino-4-Hydroxy-6-Hydroxymethyl-7-8-Dihydropteridinediphosphate
+cpd17467_c_Bacteroidesvulgatus	1.2574742193157271	cpd17467	Trna Containing S2U
+cpd11657_c_Bacteroidesvulgatus	1.8505242225862961	cpd11657	Starch
+cpd00658_c_Bacteroidesvulgatus	3.9469401580680503	cpd00658	Isochorismate
+cpd00668_c_Bacteroidesvulgatus	3.9652418918700603	cpd00668	Alctt
+cpd03049_c_Bacteroidesvulgatus	5.177630868673424	cpd03049	2-Hydroxyethyl-Thpp
+cpd00056_c_Bacteroidesvulgatus	2.0	cpd00056	Tpp
+cpd19047_c_Bacteroidesvulgatus	2.9652418918700603	cpd19047	(S)-2-Acetolactate
+cpd00498_c_Bacteroidesvulgatus	1.2673188905927062	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd00113_c_Bacteroidesvulgatus	1.8711938115576232	cpd00113	Isopentenyldiphosphate
+cpd00350_c_Bacteroidesvulgatus	1.2319561064050535	cpd00350	Farnesyldiphosphate
+cpd12371_c_Bacteroidesvulgatus	1.6771307826270263	cpd12371	Mgdg
+cpd00382_c_Bacteroidesvulgatus	2.528550553054386	cpd00382	Melitose
+cpd00588_c_Bacteroidesvulgatus	2.4610985728422303	cpd00588	Sorbitol
+cpd01743_c_Bacteroidesvulgatus	2.0765591107470374	cpd01743	Cerebroside
+cpd00910_c_Bacteroidesvulgatus	3.673429747930822	cpd00910	Galactinol
+cpd00121_c_Bacteroidesvulgatus	4.140613056018481	cpd00121	L-Inositol
+cpd00242_c_Bacteroidesvulgatus	1.4913277491105135	cpd00242	H2Co3
+cpd14955_c_Bacteroidesvulgatus	1.4530702985658113	cpd14955	Lipoyl-Amp
+cpd14957_c_Bacteroidesvulgatus	1.0291235575988353	cpd14957	Apoprotein
+cpd00802_c_Bacteroidesvulgatus	1.6924600474998082	cpd00802	D-Fructose-1-Phosphate
+cpd00448_c_Bacteroidesvulgatus	1.880177044426867	cpd00448	D-Glyceraldehyde
+cpd19036_c_Bacteroidesvulgatus	1.0915436464921937	cpd19036	Beta-D-Fructose 1,6-Bisphosphate
+cpd21149_c_Bacteroidesvulgatus	2.4124560214770296	cpd21149	N-Acetyl-Beta-Neuraminate
+cpd00492_c_Bacteroidesvulgatus	2.3919838951076016	cpd00492	N-Acetyl-D-Mannosamine
+cpd00644_c_Bacteroidesvulgatus	2.044118716659488	cpd00644	Pan
+cpd02030_c_Bacteroidesvulgatus	6.551238828682357	cpd02030	3-Phosphoshikimate
+cpd00932_c_Bacteroidesvulgatus	8.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd00504_c_Bacteroidesvulgatus	3.2273639651659414	cpd00504	Ll-2,6-Diaminopimelate
+cpd02862_c_Bacteroidesvulgatus	10.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd02948_c_Bacteroidesvulgatus	10.938166031701922	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd02968_c_Bacteroidesvulgatus	3.0124024057152106	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd03494_c_Bacteroidesvulgatus	5.2768457762701	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd01982_c_Bacteroidesvulgatus	3.294156214229572	cpd01982	5-Phosphoribosylamine
+cpd00103_c_Bacteroidesvulgatus	4.115390194837227	cpd00103	Prpp
+cpd00022_c_Bacteroidesvulgatus	1.4699215125002953	cpd00022	Acetyl-Coa
+cpd02211_c_Bacteroidesvulgatus	1.4559452877842207	cpd02211	L-2-Amino-Acetoacetate
+cpd00171_c_Bacteroidesvulgatus	3.671832345098617	cpd00171	D-Ribulose5-Phosphate
+cpd00516_c_Bacteroidesvulgatus	2.999146177967363	cpd00516	Meso-2,6-Diaminopimelate
+cpd00039_c_Bacteroidesvulgatus	3.9108845663770793	cpd00039	L-Lysine
+cpd08449_c_Bacteroidesvulgatus	3.1460076787237288	cpd08449	3-Amino-2-Oxopropyl Phosphate
+cpd03920_c_Bacteroidesvulgatus	6.312246189993234	cpd03920	Adenosylcobinamide-Gdp
+cpd00166_c_Bacteroidesvulgatus	5.7813676526254705	cpd00166	Calomide
+cpd00817_c_Bacteroidesvulgatus	2.671832345098617	cpd00817	D-Arabinose5-Phosphate
+cpd11621_c_Bacteroidesvulgatus	1.3077471185560343	cpd11621	Oxidizedferredoxin
+cpd00214_c_Bacteroidesvulgatus	4.097834205099659	cpd00214	Palmitate
+cpd00134_c_Bacteroidesvulgatus	1.639858124669113	cpd00134	Palmitoyl-Coa
+cpd02210_c_Bacteroidesvulgatus	3.570591474349258	cpd02210	Indoleglycerol Phosphate
+cpd00359_c_Bacteroidesvulgatus	3.0937365909143026	cpd00359	Indol
+cpd00065_c_Bacteroidesvulgatus	1.934407456042889	cpd00065	L-Tryptophan
+cpd00227_c_Bacteroidesvulgatus	5.8112925055125455	cpd00227	L-Homoserine
+cpd00822_c_Bacteroidesvulgatus	5.877732297714439	cpd00822	O-Succinyl-L-Homoserine
+cpd00790_c_Bacteroidesvulgatus	1.8723616304554305	cpd00790	O-Acetyl-L-Homoserine
+cpd00638_c_Bacteroidesvulgatus	3.749049286944722	cpd00638	Deamido-Nad
+cpd08367_c_Bacteroidesvulgatus	1.3613163240771362	cpd08367	(2R)-3-Sulfolactate
+cpd00408_c_Bacteroidesvulgatus	6.539416528690786	cpd00408	Pantoate
+cpd11425_c_Bacteroidesvulgatus	2.338420878784599	cpd11425	2Dmmq7
+cpd11451_c_Bacteroidesvulgatus	2.0	cpd11451	Mql7
+cpd09410_c_Bacteroidesvulgatus	5.3564227522341525	cpd09410	Demethylphylloquinone
+cpd01401_c_Bacteroidesvulgatus	5.0180018734495535	cpd01401	Vitamin K1
+cpd00890_c_Bacteroidesvulgatus	4.239993928413066	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd00525_c_Bacteroidesvulgatus	3.1734682306171846	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd00449_c_Bacteroidesvulgatus	1.6133997684791348	cpd00449	Dihydrolipoamide
+cpd02832_c_Bacteroidesvulgatus	3.787588504445506	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd16422_c_Bacteroidesvulgatus	4.250747846713409	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd00069_c_Bacteroidesvulgatus	1.3105354811605354	cpd00069	L-Tyrosine
+cpd12194_c_Bacteroidesvulgatus	1.779656943792764	cpd12194	L-Tyrosyl-Trna(Tyr)
+cpd16423_c_Bacteroidesvulgatus	2.6902334393302585	cpd16423	6-Thioguanosine Monophosphate
+cpd00712_c_Bacteroidesvulgatus	4.768295269896937	cpd00712	2-Dehydropantoate
+cpd00406_c_Bacteroidesvulgatus	1.4622198506263429	cpd00406	Hypotaurine
+cpd03760_c_Bacteroidesvulgatus	2.0322842029881443	cpd03760	Precorrin 6B
+cpd02835_c_Bacteroidesvulgatus	4.359166309546759	cpd02835	Udp-2,3-Bis(3-Hydroxytetradecanoyl)Glucosamine
+cpd03584_c_Bacteroidesvulgatus	3.7406992309125475	cpd03584	Udp-3-O-(Beta-Hydroxymyristoyl)-D-Glucosamine
+cpd00215_c_Bacteroidesvulgatus	1.7680209175777728	cpd00215	Pyridoxal
+cpd00263_c_Bacteroidesvulgatus	2.0	cpd00263	Pyridoxol
+cpd00478_c_Bacteroidesvulgatus	1.5653471588454648	cpd00478	Pyridoxine Phosphate
+cpd00026_c_Bacteroidesvulgatus	1.4814864253776414	cpd00026	Udp-Glucose
+cpd03653_c_Bacteroidesvulgatus	3.4124560214770296	cpd03653	Gm4
+cpd11480_c_Bacteroidesvulgatus	1.6738209273600755	cpd11480	D-3-Hydroxydodecanoyl-[Acp]
+cpd11482_c_Bacteroidesvulgatus	4.170731949556543	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd14939_c_Bacteroidesvulgatus	1.4488399670230294	cpd14939	3-Hydroxystearoyl-[Acp]
+cpd00905_c_Bacteroidesvulgatus	2.109753044017727	cpd00905	Guanosine 3',5'-Bis(Diphosphate)
+cpd00156_c_Bacteroidesvulgatus	2.0	cpd00156	L-Valine
+cpd12133_c_Bacteroidesvulgatus	2.525040518938126	cpd12133	L-Valyl-Trna(Val)
+cpd00060_c_Bacteroidesvulgatus	4.037045728916317	cpd00060	L-Methionine
+cpd03163_c_Bacteroidesvulgatus	4.326147959352274	cpd03163	Selenomethionine
+cpd03392_c_Bacteroidesvulgatus	10.488532342689876	cpd03392	Se-Adenosylselenomethionine
+cpd02182_c_Bacteroidesvulgatus	2.8416845987312405	cpd02182	(R)-S-Lactoylglutathione
+cpd00042_c_Bacteroidesvulgatus	1.5765591107470374	cpd00042	Gsh
+cpd08301_c_Bacteroidesvulgatus	5.925645839841055	cpd08301	2-C-Methyl-D-Erythritol2-4-Cyclodiphosphate
+cpd02197_c_Bacteroidesvulgatus	1.3002098807426052	cpd02197	5-Formyltetrahydrofolate
+cpd00330_c_Bacteroidesvulgatus	1.1373810285570465	cpd00330	Dihydrofolate
+cpd00805_c_Bacteroidesvulgatus	3.9460357814846683	cpd00805	D-Tagatose 6-Phosphate
+cpd02371_c_Bacteroidesvulgatus	3.511382940330133	cpd02371	D-Tagatose 1,6-Biphosphate
+cpd02991_c_Bacteroidesvulgatus	8.29381717462557	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd02843_c_Bacteroidesvulgatus	6.206278142694147	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd02414_c_Bacteroidesvulgatus	4.174965077241564	cpd02414	L-2-Amino-6-Oxopimelate
+cpd01326_c_Bacteroidesvulgatus	6.320679836064778	cpd01326	L-Lysyl-Trna
+cpd00939_c_Bacteroidesvulgatus	3.6734586946839953	cpd00939	Toxopyrimidine
+cpd00309_c_Bacteroidesvulgatus	1.3014206439390046	cpd00309	Xan
+cpd00808_c_Bacteroidesvulgatus	3.611220106989011	cpd00808	L-Ribulose-5-Phosphate
+cpd03914_c_Bacteroidesvulgatus	2.316133216511492	cpd03914	Cob(Ii)Yrinate Diamide
+cpd03832_c_Bacteroidesvulgatus	2.5775915271506467	cpd03832	Hydrogenobyrinate
+cpd03913_c_Bacteroidesvulgatus	7.99165717098966	cpd03913	Hydrogenobyrinate Diamide
+cpd00722_c_Bacteroidesvulgatus	2.6766725922296404	cpd00722	O-Acetyl-L-Serine
+cpd12105_c_Bacteroidesvulgatus	4.5061671915485455	cpd12105	L-Methionyl-Trna
+cpd12704_c_Bacteroidesvulgatus	10.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd02435_c_Bacteroidesvulgatus	1.6317399864047044	cpd02435	Androstanolone
+cpd02857_c_Bacteroidesvulgatus	2.1388171456129363	cpd02857	Dahp
+cpd00699_c_Bacteroidesvulgatus	6.138817145612936	cpd00699	5-Dehydroquinate
+cpd02730_c_Bacteroidesvulgatus	7.066165997422209	cpd02730	3-Deoxy-D-Manno-Octulosonate8-Phosphate
+cpd00235_c_Bacteroidesvulgatus	2.530268877616938	cpd00235	D-Mannose-6-Phosphate
+cpd00201_c_Bacteroidesvulgatus	2.878488539814515	cpd00201	10-Formyltetrahydrofolate
+cpd01663_c_Bacteroidesvulgatus	3.125	cpd01663	Chenodiol
+cpd03245_c_Bacteroidesvulgatus	1.3763562223603825	cpd03245	Glycodeoxycholate
+cpd02733_c_Bacteroidesvulgatus	4.076559110747038	cpd02733	Deoxycholate
+cpd00526_c_Bacteroidesvulgatus	3.0765591107470374	cpd00526	Cholate
+cpd00066_c_Bacteroidesvulgatus	3.6856904828801422	cpd00066	L-Phenylalanine
+cpd12335_c_Bacteroidesvulgatus	3.8088944076769167	cpd12335	L-Phenylalanyl-Trna(Phe)
+cpd00202_c_Bacteroidesvulgatus	2.03557173006953	cpd00202	Dmapp
+cpd08615_c_Bacteroidesvulgatus	2.498731072337433	cpd08615	1-Hydroxy-2-Methyl-2-Butenyl 4-Diphosphate
+cpd00918_c_Bacteroidesvulgatus	1.2402427214260785	cpd00918	2-Acetamido-5-Oxopentanoate
+cpd02724_c_Bacteroidesvulgatus	1.1652807471208795	cpd02724	N-Succinyl-L-2-Amino-6-Oxopimelate
+cpd00345_c_Bacteroidesvulgatus	2.0	cpd00345	5-Methyltetrahydrofolate
+cpd12543_c_Bacteroidesvulgatus	1.019775404687273	cpd12543	Carboxybiotin-Carboxyl-Carrier Protein
+cpd00216_c_Bacteroidesvulgatus	2.9469401580680503	cpd00216	Chorismate
+cpd02978_c_Bacteroidesvulgatus	2.1651840322400946	cpd02978	7,8-Dihydroneopterin 3'-Triphosphate
+cpd03666_c_Bacteroidesvulgatus	3.241743142987132	cpd03666	2,5-Diamino-6-(5'-Triphosphoryl-3',4'-Trihydroxy-2'-Oxopentyl)- Amino-4-Oxopyrimidine
+cpd03519_c_Bacteroidesvulgatus	2.241743142987132	cpd03519	2,5-Diaminopyrimidine Nucleoside Triphosphate
+cpd02642_c_Bacteroidesvulgatus	2.944482981598926	cpd02642	N-5-Phosphoribosyl-Anthranilate
+cpd00956_c_Bacteroidesvulgatus	3.0619192234597783	cpd00956	1-(2-Carboxyphenylamino)-1-Deoxyribulose 5-Phosphate
+cpd00167_c_Bacteroidesvulgatus	2.751868671333885	cpd00167	Ceramide
+cpd01620_c_Bacteroidesvulgatus	6.510359761779271	cpd01620	Precorrin 2
+cpd03420_c_Bacteroidesvulgatus	6.171938882994672	cpd03420	Precorrin 3A
+cpd01029_c_Bacteroidesvulgatus	1.228030777425022	cpd01029	Base Q
+cpd02394_c_Bacteroidesvulgatus	5.458489173497899	cpd02394	Gar
+cpd02711_c_Bacteroidesvulgatus	1.2644659066315918	cpd02711	2-Keto-3-Deoxy-6-Phosphogluconate
+cpd00608_c_Bacteroidesvulgatus	1.1206778274065252	cpd00608	D-Altronate
+cpd02964_c_Bacteroidesvulgatus	3.483954750138451	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd01775_c_Bacteroidesvulgatus	5.201215467427792	cpd01775	Phosphoribosyl-Atp
+cpd00219_c_Bacteroidesvulgatus	3.9469401580680503	cpd00219	Prephenate
+cpd00149_c_Bacteroidesvulgatus	1.6471079455260786	cpd00149	Co2+
+cpd03426_c_Bacteroidesvulgatus	2.7616611049032223	cpd03426	Sirohydrochlorin
+cpd00485_c_Bacteroidesvulgatus	3.530268877616938	cpd00485	D-Mannose1-Phosphate
+cpd00383_c_Bacteroidesvulgatus	6.833379293659748	cpd00383	Shikimate
+cpd00043_c_Bacteroidesvulgatus	2.163488557566178	cpd00043	Udp-Galactose
+cpd11423_c_Bacteroidesvulgatus	2.6628323657791793	cpd11423	1,2-Diacyl-Sn-Glycerol
+cpd11422_c_Bacteroidesvulgatus	2.228179524624644	cpd11422	1,2-Diacyl-Sn-Glycerol 3-Phosphate
+cpd02021_c_Bacteroidesvulgatus	6.805640283841042	cpd02021	Succinylbenzoyl-Coa
+cpd11217_c_Bacteroidesvulgatus	7.669754980149474	cpd11217	1,4-Dihydroxy-2-Naphthoyl-Coa
+cpd01716_c_Bacteroidesvulgatus	5.0622580348658985	cpd01716	3-Dehydroshikimate
+cpd00387_c_Bacteroidesvulgatus	1.3840776472598553	cpd00387	Adpglucose
+cpd03002_c_Bacteroidesvulgatus	1.4715523444232406	cpd03002	Lipid A Disaccharide
+cpd00220_c_Bacteroidesvulgatus	2.7679320740284163	cpd00220	Riboflavin
+cpd00050_c_Bacteroidesvulgatus	3.943837016923843	cpd00050	Fmn
+cpd00015_c_Bacteroidesvulgatus	3.362046323352445	cpd00015	Fad
+cpd11421_c_Bacteroidesvulgatus	1.1093862240455352	cpd11421	Trdrd
+cpd02886_c_Bacteroidesvulgatus	2.954461273887299	cpd02886	Udp-3-O-(Beta-Hydroxymyristoyl)-N-Acetylglucosamine
+cpd11920_c_Bacteroidesvulgatus	1.5927880276103874	cpd11920	Trna(Pro)
+cpd02656_c_Bacteroidesvulgatus	5.469565827578704	cpd02656	6-7-Dimethyl-8--1-D-Ribityllumazine
+cpd02882_c_Bacteroidesvulgatus	11.11187338818446	cpd02882	4--1-D-Ribitylamino-5-Aminouracil
+cpd00764_c_Bacteroidesvulgatus	3.4301138071881314	cpd00764	7-8-Diaminononanoate
+cpd01772_c_Bacteroidesvulgatus	5.626039925062535	cpd01772	Succinylbenzoate
+cpd00840_c_Bacteroidesvulgatus	4.427048521643562	cpd00840	L-Beta-Lysine
+cpd00347_c_Bacteroidesvulgatus	1.742603236122947	cpd00347	5-10-Methenyltetrahydrofolate
+cpd00861_c_Bacteroidesvulgatus	1.3953203881976175	cpd00861	Udp-N-Acetyl-D-Mannosamine
+cpd15565_c_Bacteroidesvulgatus	3.2083728596742613	cpd15565	L-Seryl-Trna(Sec)
+cpd03388_c_Bacteroidesvulgatus	3.924032702029593	cpd03388	Adenylylselenate
+cpd03395_c_Bacteroidesvulgatus	3.489379860875058	cpd03395	3'-Phosphoadenylylselenate
+cpd00074_c_Bacteroidesvulgatus	1.5229872828638433	cpd00074	S
+cpd12546_c_Bacteroidesvulgatus	1.7758769129122618	cpd12546	Trna Containing 6-Isopentenyladenosine
+cpd00305_c_Bacteroidesvulgatus	2.028929961437046	cpd00305	Thiamin
+cpd00284_c_Bacteroidesvulgatus	1.8577222422559425	cpd00284	6-Phospho-D-Gluconate
+cpd00683_c_Bacteroidesvulgatus	14.576886047683704	cpd00683	Dihydropteroate
+cpd00931_c_Bacteroidesvulgatus	4.344370030055654	cpd00931	5-Amino-6--5-Phosphoribosylaminouracil
+cpd02720_c_Bacteroidesvulgatus	5.035314277437421	cpd02720	5-Amino-6--5-Phosphoribitylaminouracil
+cpd00118_c_Bacteroidesvulgatus	1.1996845564776208	cpd00118	Putrescine
+cpd02890_c_Bacteroidesvulgatus	2.0765591107470374	cpd02890	15(S)-Hete
+cpd00322_c_Bacteroidesvulgatus	2.308819618357381	cpd00322	L-Isoleucine
+cpd12256_c_Bacteroidesvulgatus	2.219622215471888	cpd12256	L-Isoleucyl-Trna(Ile)
+cpd11669_c_Bacteroidesvulgatus	1.6022529282708706	cpd11669	Q
+cpd11665_c_Bacteroidesvulgatus	3.494504053614545	cpd11665	Qh2
+cpd00135_c_Bacteroidesvulgatus	1.9455480162672123	cpd00135	Homocysteine
+cpd06227_c_Bacteroidesvulgatus	2.985916156591415	cpd06227	Thf-L-Glutamate
+cpd00259_c_Bacteroidesvulgatus	4.417398638675683	cpd00259	D-Lyxulose
+cpd01486_c_Bacteroidesvulgatus	4.106485186253152	cpd01486	Alpha-D-Lyxose
+cpd11427_c_Bacteroidesvulgatus	2.1953524113261462	cpd11427	Cdp-Diacylglycerol
+cpd00421_c_Bacteroidesvulgatus	2.157192939101759	cpd00421	Triphosphate
+cpd03732_c_Bacteroidesvulgatus	1.3044061549309163	cpd03732	Udp-N-Acetyl-D-Mannosaminouronate
+cpd00517_c_Bacteroidesvulgatus	3.122289053595467	cpd00517	1-Acyl-Sn-Glycerol 3-Phosphate
+cpd00143_c_Bacteroidesvulgatus	3.376870864522761	cpd00143	Phenylpyruvate
+cpd00868_c_Bacteroidesvulgatus	2.0	cpd00868	P-Hydroxyphenylpyruvate
+cpd00354_c_Bacteroidesvulgatus	1.529162674564613	cpd00354	Ndp
+cpd00523_c_Bacteroidesvulgatus	1.1241413378710612	cpd00523	Trehalose 6-Phosphate
+cpd00794_c_Bacteroidesvulgatus	5.2007004486180985	cpd00794	Trhl
+cpd00655_c_Bacteroidesvulgatus	2.2261836361236553	cpd00655	Dephospho-Coa
+cpd11455_c_Bacteroidesvulgatus	4.581703849834001	cpd11455	Ps_Bs
+cpd11456_c_Bacteroidesvulgatus	5.166935211470524	cpd11456	Phosphatidylethanolamine
+cpd02295_c_Bacteroidesvulgatus	10.095161387694763	cpd02295	1-4-Dihydroxy-2-Naphthoate
+cpd08210_c_Bacteroidesvulgatus	2.0	cpd08210	Adc
+cpd00200_c_Bacteroidesvulgatus	2.0	cpd00200	4Mop
+cpd14698_c_Bacteroidesvulgatus	4.585231361636524	cpd14698	3-Methyl-1-Hydroxybutyl-Tpp
+cpd14702_c_Bacteroidesvulgatus	5.462219850626342	cpd14702	2-Methyl-1-Hydroxybutyl-Tpp
+cpd14703_c_Bacteroidesvulgatus	1.9451889117601227	cpd14703	S-(2-Methylbutanoyl)-Dihydrolipoamide-E
+cpd00123_c_Bacteroidesvulgatus	2.6598040399168723	cpd00123	3-Methyl-2-Oxobutanoate
+cpd02700_c_Bacteroidesvulgatus	5.01194524417382	cpd02700	S-(2-Methylpropionyl)-Dihydrolipoamide
+cpd00508_c_Bacteroidesvulgatus	2.0	cpd00508	3Mop
+cpd14700_c_Bacteroidesvulgatus	7.245035401553396	cpd14700	2-Methyl-1-Hydroxypropyl-Tpp
+cpd03517_c_Bacteroidesvulgatus	1.4876787682333932	cpd03517	Biotinyl-5-Amp
+cpd00863_c_Bacteroidesvulgatus	1.425262111293148	cpd00863	Beta-D-Glucose 6-Phosphate
+cpd01914_c_Bacteroidesvulgatus	2.416585005253406	cpd01914	L-Methionine S-Oxide
+cpd03736_c_Bacteroidesvulgatus	4.9381591267483245	cpd03736	Lauroyl-Kdo2-Lipid Iv(A)
+cpd03398_c_Bacteroidesvulgatus	1.2549418500626714	cpd03398	Selenocystathionine
+cpd03397_c_Bacteroidesvulgatus	1.9812053884402605	cpd03397	Selenohomocysteine
+cpd02229_c_Bacteroidesvulgatus	2.0	cpd02229	Bactoprenyl Diphosphate
+cpd00774_c_Bacteroidesvulgatus	6.444295198534266	cpd00774	Uroporphyrinogeniii
+cpd02083_c_Bacteroidesvulgatus	8.24303342444475	cpd02083	Coproporphyrinogeniii
+cpd11986_c_Bacteroidesvulgatus	1.5840380045242197	cpd11986	Trna Queuine
+cpd03449_c_Bacteroidesvulgatus	2.989008107229033	cpd03449	2-Octaprenyl-3-Methyl-5-Hydroxy-6-Methoxy-1,4-Benzoquinone
+cpd03846_c_Bacteroidesvulgatus	2.3549874596334472	cpd03846	Octanoate
+cpd01107_c_Bacteroidesvulgatus	3.7701877329730626	cpd01107	Decanoate
+cpd01741_c_Bacteroidesvulgatus	5.074044430439892	cpd01741	Ddca
+cpd00851_c_Bacteroidesvulgatus	2.1304307073453543	cpd00851	Trans-4-Hydroxy-L-Proline
+cpd00403_c_Bacteroidesvulgatus	1.1206778274065252	cpd00403	D-Mannonate
+cpd02979_c_Bacteroidesvulgatus	7.29381717462557	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd02338_c_Bacteroidesvulgatus	1.1634885575661782	cpd02338	Udp-D-Galacto-1,4-Furanose
+cpd11463_c_Bacteroidesvulgatus	1.9587614833514584	cpd11463	Protein
+cpd03495_c_Bacteroidesvulgatus	4.7845521993441995	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd03491_c_Bacteroidesvulgatus	12.44587245477602	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd01997_c_Bacteroidesvulgatus	1.7679320740284161	cpd01997	Dimethylbenzimidazole
+cpd00218_c_Bacteroidesvulgatus	1.2051706648785245	cpd00218	Niacin
+cpd00810_c_Bacteroidesvulgatus	3.1879492093121065	cpd00810	Orotidylic Acid
+cpd10515_c_Bacteroidesvulgatus	1.8287265884721329	cpd10515	Fe+2
+cpd10516_c_Bacteroidesvulgatus	1.6028920544739211	cpd10516	Fe+3
+cpd03917_c_Bacteroidesvulgatus	8.003521149497985	cpd03917	Adenosylcobyric Acid
+cpd03919_c_Bacteroidesvulgatus	7.531968805074745	cpd03919	Adenosyl Cobinamide Phosphate
+cpd03918_c_Bacteroidesvulgatus	8.001805286694827	cpd03918	Adenosyl Cobinamide
+cpd00283_c_Bacteroidesvulgatus	2.0890989635479107	cpd00283	Geranyldiphosphate
+cpd02961_c_Bacteroidesvulgatus	14.513513750370265	cpd02961	Dihydroneopterin
+cpd02738_c_Bacteroidesvulgatus	1.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd03566_c_Bacteroidesvulgatus	3.316820233367823	cpd03566	Acetyl Adenylate
+cpd01311_c_Bacteroidesvulgatus	2.0	cpd01311	Dethiobiotin
+cpd02498_c_Bacteroidesvulgatus	3.7363631506639097	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd19030_c_Bacteroidesvulgatus	3.7363631506639097	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd02569_c_Bacteroidesvulgatus	3.9652418918700603	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd10162_c_Bacteroidesvulgatus	2.267318890592706	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd02535_c_Bacteroidesvulgatus	3.2407577033264436	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd00204_c_Bacteroidesvulgatus	1.5017894157530616	cpd00204	Co
+cpd00616_c_Bacteroidesvulgatus	3.177018231990656	cpd00616	Pretyrosine
+cpd01487_c_Bacteroidesvulgatus	4.106485186253152	cpd01487	Alpha-D-Xylose
+cpd21017_c_Bacteroidesvulgatus	2.0036677299418217	cpd21017	Alpha-D-Glucopyranosyl-Diphospho-Ditrans,Octacis-Undecaprenol
+cpd02775_c_Bacteroidesvulgatus	2.2019063502607548	cpd02775	4-Amino-5-Phosphomethyl-2-Methylpyrimidine
+cpd02678_c_Bacteroidesvulgatus	4.487801618906048	cpd02678	N-Formyl-Gar
+cpd08287_c_Bacteroidesvulgatus	1.5968687900815477	cpd08287	4--Cytidine5-Diphospho-2-C-Methyl-D-Erythritol
+cpd00755_c_Bacteroidesvulgatus	7.520854309281303	cpd00755	Hydroxymethylbilane
+cpd00530_c_Bacteroidesvulgatus	5.2829066972241785	cpd00530	Xtp
+cpd00930_c_Bacteroidesvulgatus	5.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00807_c_Bacteroidesvulgatus	3.9644382848262296	cpd00807	L-Histidinol-Phosphate
+cpd20970_c_Bacteroidesvulgatus	5.346291368710744	cpd20970	[Trna(Ile2)]-Lysidine34
+cpd00346_c_Bacteroidesvulgatus	4.197892737033411	cpd00346	L-Aspartate4-Semialdehyde
+cpd16329_c_Bacteroidesvulgatus	1.8715068221466273	cpd16329	Doxifluridine
+cpd01270_c_Bacteroidesvulgatus	3.714958275717692	cpd01270	Fmnh2
+cpd01590_c_Bacteroidesvulgatus	1.974974477209976	cpd01590	Mercaptopurine
+cpd00351_c_Bacteroidesvulgatus	2.6878718194155558	cpd00351	Saccharopine
+cpd00120_c_Bacteroidesvulgatus	3.251807327643177	cpd00120	Butyryl-Coa
+cpd03422_c_Bacteroidesvulgatus	7.630550570219826	cpd03422	Cobinamide
+cpd00635_c_Bacteroidesvulgatus	5.41011293615047	cpd00635	Cbl
+cpd00133_c_Bacteroidesvulgatus	3.2743376497873657	cpd00133	Nicotinamide
+cpd03279_c_Bacteroidesvulgatus	2.9741542567019437	cpd03279	Deoxyinosine
+cpd00786_c_Bacteroidesvulgatus	3.442953603892466	cpd00786	Ribitol 5-Phosphate
+cpd00584_c_Bacteroidesvulgatus	3.410126490593968	cpd00584	Cdp-Ribitol
+cpd21472_c_Bacteroidesvulgatus	1.2637588919723681	cpd21472	6-Carboxy-5,6,7,8-Tetrahydropterin
+cpd03387_c_Bacteroidesvulgatus	1.0556948282487082	cpd03387	Selenite
+cpd01777_c_Bacteroidesvulgatus	4.217258063878532	cpd01777	Phosphoribosyl-Amp
+cpd12285_c_Bacteroidesvulgatus	3.535479636956695	cpd12285	N-Formylmethionyl-Trna
+cpd02217_c_Bacteroidesvulgatus	1.0765591107470374	cpd02217	N-Acetyl-D-Glucosaminide
+cpd11211_c_Bacteroidesvulgatus	5.442020643741498	cpd11211	Dihydromonacolin L
+cpd00776_c_Bacteroidesvulgatus	2.0	cpd00776	Squalene 2,3-Oxide
+cpd03221_c_Bacteroidesvulgatus	2.0	cpd03221	Zymosterol
+cpd15738_c_Bacteroidesvulgatus	3.7331046548782316	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd15729_c_Bacteroidesvulgatus	4.326977115132355	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd00869_c_Bacteroidesvulgatus	3.1026382728734276	cpd00869	4-Methylthio 2-Oxobutyrate
+cpd00099_c_Bacteroidesvulgatus	1.2460822347293186	cpd00099	Cl-
+cpd15307_c_Bacteroidesvulgatus	2.0	cpd15307	1,2-Diacyl-Sn-Glycerol Ditetradecanoyl
+cpd00205_c_Bacteroidesvulgatus	1.492164469458637	cpd00205	K+
+cpd00971_c_Bacteroidesvulgatus	1.9607833629693439	cpd00971	Na+
+cpd11459_c_Bacteroidesvulgatus	11.065384841633076	cpd11459	Tcam
+cpd29330_c_Bacteroidesvulgatus	4.827590302633709	cpd29330	Long-Chain-Acyl-Coas
+cpd15540_c_Bacteroidesvulgatus	4.866679027825304	cpd15540	Phosphatidylglycerol Dioctadecanoyl
+cpd17041_c_Bacteroidesvulgatus	96.71105454433388	cpd17041	Protein Biosynthesis
+cpd17043_c_Bacteroidesvulgatus	12.23380714207994	cpd17043	Rna Transcription
+cpd17042_c_Bacteroidesvulgatus	23.287867874054026	cpd17042	Dna Replication
+cpd11852_c_Bacteroidesvulgatus	1.1536010031174853	cpd11852	Lipid
+cpd11450_c_Bacteroidesvulgatus	1.3160310189778333	cpd11450	M12Dg_Bs
+cpd15737_c_Bacteroidesvulgatus	3.7331046548782316	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd15728_c_Bacteroidesvulgatus	4.326977115132355	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd15309_c_Bacteroidesvulgatus	2.0	cpd15309	1,2-Diacyl-Sn-Glycerol Dihexadecanoyl
+cpd15545_c_Bacteroidesvulgatus	4.866679027825304	cpd15545	Phosphatidylglycerophosphate Dihexadecanoyl
+cpd00030_c_Bacteroidesvulgatus	1.492164469458637	cpd00030	Mn2+
+cpd00063_c_Bacteroidesvulgatus	2.0	cpd00063	Ca2+
+cpd15543_c_Bacteroidesvulgatus	4.866679027825304	cpd15543	Phosphatidylglycerophosphate Ditetradecanoyl
+cpd00166_e	4.7813676526254705	cpd00166	Calomide
+cpd00002_c_Faecalibacteriumprausnitzii	2.458554795861817	cpd00002	Atp
+cpd00067_c_Faecalibacteriumprausnitzii	1.226956993173594	cpd00067	H+
+cpd12003_c_Faecalibacteriumprausnitzii	1.2834922754219984	cpd12003	L-Leucyl-Trna
+cpd00069_c_Faecalibacteriumprausnitzii	2.83471925287912	cpd00069	L-Tyrosine
+cpd12194_c_Faecalibacteriumprausnitzii	1.779656943792764	cpd12194	L-Tyrosyl-Trna(Tyr)
+cpd00201_c_Faecalibacteriumprausnitzii	2.6577411691561474	cpd00201	10-Formyltetrahydrofolate
+cpd12105_c_Faecalibacteriumprausnitzii	3.494886802744274	cpd12105	L-Methionyl-Trna
+cpd12285_c_Faecalibacteriumprausnitzii	5.450768086084784	cpd12285	N-Formylmethionyl-Trna
+cpd00035_c_Faecalibacteriumprausnitzii	1.0981465043571716	cpd00035	L-Alanine
+cpd00006_c_Faecalibacteriumprausnitzii	1.415280747120881	cpd00006	Nadp
+cpd00003_c_Faecalibacteriumprausnitzii	1.4593994637803689	cpd00003	Nad
+cpd00103_c_Faecalibacteriumprausnitzii	4.320393420320508	cpd00103	Prpp
+cpd00082_c_Faecalibacteriumprausnitzii	1.7365787641592965	cpd00082	D-Fructose
+cpd00356_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00356	Dctp
+cpd00115_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00115	Datp
+cpd00357_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00357	Ttp
+cpd00241_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00241	Dgtp
+cpd00873_c_Faecalibacteriumprausnitzii	4.04505144560798	cpd00873	Nicotinate Ribonucleotide
+cpd00638_c_Faecalibacteriumprausnitzii	5.194746636392794	cpd00638	Deamido-Nad
+cpd00890_c_Faecalibacteriumprausnitzii	4.794237775751833	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd00525_c_Faecalibacteriumprausnitzii	5.173468230617185	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd00001_c_Faecalibacteriumprausnitzii	1.3382313722485455	cpd00001	H2O
+cpd03760_c_Faecalibacteriumprausnitzii	1.243117881949685	cpd03760	Precorrin 6B
+cpd03761_c_Faecalibacteriumprausnitzii	2.2696790692159476	cpd03761	Precorrin 6A
+cpd03422_c_Faecalibacteriumprausnitzii	7.320210526177695	cpd03422	Cobinamide
+cpd03918_c_Faecalibacteriumprausnitzii	8.621572382937753	cpd03918	Adenosyl Cobinamide
+cpd00635_c_Faecalibacteriumprausnitzii	4.685887079205925	cpd00635	Cbl
+cpd00166_c_Faecalibacteriumprausnitzii	5.987248935965983	cpd00166	Calomide
+cpd00076_c_Faecalibacteriumprausnitzii	2.0441187166594883	cpd00076	Sucrose
+cpd19001_c_Faecalibacteriumprausnitzii	1.6326573527909394	cpd19001	Alpha-D-Glucose
+cpd00179_c_Faecalibacteriumprausnitzii	2.927083333333333	cpd00179	Maltose
+cpd30321_c_Faecalibacteriumprausnitzii	2.632657352790939	cpd30321	Beta-D-Fructose
+cpd00793_c_Faecalibacteriumprausnitzii	5.059938440608203	cpd00793	Thiamine Phosphate
+cpd00305_c_Faecalibacteriumprausnitzii	1.063995556023058	cpd00305	Thiamin
+cpd02978_c_Faecalibacteriumprausnitzii	2.583115148536441	cpd02978	7,8-Dihydroneopterin 3'-Triphosphate
+cpd02961_c_Faecalibacteriumprausnitzii	12.513513750370265	cpd02961	Dihydroneopterin
+cpd00517_c_Faecalibacteriumprausnitzii	1.3749106541804845	cpd00517	1-Acyl-Sn-Glycerol 3-Phosphate
+cpd00198_c_Faecalibacteriumprausnitzii	2.7242445863289277	cpd00198	D-Xylulose5-Phosphate
+cpd00102_c_Faecalibacteriumprausnitzii	1.812283003072941	cpd00102	Glyceraldehyde3-Phosphate
+cpd00101_c_Faecalibacteriumprausnitzii	2.5505301373076836	cpd00101	Ribose-5-Phosphate
+cpd08994_c_Faecalibacteriumprausnitzii	1.2091114139192607	cpd08994	Iminoerythrose 4-Phosphate
+cpd00072_c_Faecalibacteriumprausnitzii	2.088538636131455	cpd00072	D-Fructose-6-Phosphate
+cpd00236_c_Faecalibacteriumprausnitzii	1.065163090329909	cpd00236	D-Erythrose4-Phosphate
+cpd19035_c_Faecalibacteriumprausnitzii	2.5885386361314513	cpd19035	Beta-D-Fructose 6-Phosphate
+cpd02678_c_Faecalibacteriumprausnitzii	6.487801618906048	cpd02678	N-Formyl-Gar
+cpd00347_c_Faecalibacteriumprausnitzii	1.5464667900811961	cpd00347	5-10-Methenyltetrahydrofolate
+cpd02394_c_Faecalibacteriumprausnitzii	5.5319203355655375	cpd02394	Gar
+cpd00135_c_Faecalibacteriumprausnitzii	1.9455480162672123	cpd00135	Homocysteine
+cpd00242_c_Faecalibacteriumprausnitzii	1.6863479712438723	cpd00242	H2Co3
+cpd03917_c_Faecalibacteriumprausnitzii	7.621572382937755	cpd03917	Adenosylcobyric Acid
+cpd03919_c_Faecalibacteriumprausnitzii	8.577453666278265	cpd03919	Adenosyl Cobinamide Phosphate
+cpd11427_c_Faecalibacteriumprausnitzii	2.6187136491196914	cpd11427	Cdp-Diacylglycerol
+cpd11454_c_Faecalibacteriumprausnitzii	5.251788605354292	cpd11454	Phosphatidylglycerophosphate
+cpd03396_c_Faecalibacteriumprausnitzii	1.2941829501009723	cpd03396	Selenate
+cpd00011_c_Faecalibacteriumprausnitzii	1.0272724366959731	cpd00011	Co2
+cpd00699_c_Faecalibacteriumprausnitzii	6.198171853174555	cpd00699	5-Dehydroquinate
+cpd01716_c_Faecalibacteriumprausnitzii	5.85994048092601	cpd01716	3-Dehydroshikimate
+cpd11482_c_Faecalibacteriumprausnitzii	2.7889801198551716	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd11475_c_Faecalibacteriumprausnitzii	1.2237917544330321	cpd11475	(2E)-Decenoyl-[Acp]
+cpd11480_c_Faecalibacteriumprausnitzii	2.4148306164953306	cpd11480	D-3-Hydroxydodecanoyl-[Acp]
+cpd11469_c_Faecalibacteriumprausnitzii	1.494248087203854	cpd11469	(2E)-Dodecenoyl-[Acp]
+cpd00290_c_Faecalibacteriumprausnitzii	1.6483413308403203	cpd00290	D-Fructose-1,6-Bisphosphate
+cpd19036_c_Faecalibacteriumprausnitzii	3.0915436464921937	cpd19036	Beta-D-Fructose 1,6-Bisphosphate
+cpd00805_c_Faecalibacteriumprausnitzii	1.9460357814846683	cpd00805	D-Tagatose 6-Phosphate
+cpd02371_c_Faecalibacteriumprausnitzii	3.624566006145882	cpd02371	D-Tagatose 1,6-Biphosphate
+cpd11911_c_Faecalibacteriumprausnitzii	7.268663745285052	cpd11911	Trna(Gln)
+cpd12060_c_Faecalibacteriumprausnitzii	2.8690418658271835	cpd12060	Gln-Trna(Gln)
+cpd00939_c_Faecalibacteriumprausnitzii	1.6734586946839953	cpd00939	Toxopyrimidine
+cpd08288_c_Faecalibacteriumprausnitzii	2.1253164456583074	cpd08288	2-Phospho-4--Cytidine5-Diphospho-2-C-Methyl-D-Erythritol
+cpd00834_c_Faecalibacteriumprausnitzii	1.1996845564776208	cpd00834	Phosphopantetheine
+cpd02201_c_Faecalibacteriumprausnitzii	2.0	cpd02201	4-Phosphopantothenate
+cpd00052_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00052	Ctp
+cpd02857_c_Faecalibacteriumprausnitzii	3.9269915071611625	cpd02857	Dahp
+cpd02832_c_Faecalibacteriumprausnitzii	4.047041597608423	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd16422_c_Faecalibacteriumprausnitzii	5.411834157123232	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd00497_c_Faecalibacteriumprausnitzii	2.261736865290727	cpd00497	Xmp
+cpd00156_c_Faecalibacteriumprausnitzii	1.4945232927959926	cpd00156	L-Valine
+cpd00123_c_Faecalibacteriumprausnitzii	2.659804039916872	cpd00123	3-Methyl-2-Oxobutanoate
+cpd00508_c_Faecalibacteriumprausnitzii	2.0	cpd00508	3Mop
+cpd00200_c_Faecalibacteriumprausnitzii	1.746314771240718	cpd00200	4Mop
+cpd00616_c_Faecalibacteriumprausnitzii	3.1770182319906564	cpd00616	Pretyrosine
+cpd00066_c_Faecalibacteriumprausnitzii	1.6856904828801424	cpd00066	L-Phenylalanine
+cpd00219_c_Faecalibacteriumprausnitzii	3.9469401580680503	cpd00219	Prephenate
+cpd00143_c_Faecalibacteriumprausnitzii	2.850971230001022	cpd00143	Phenylpyruvate
+cpd00216_c_Faecalibacteriumprausnitzii	4.138719559854617	cpd00216	Chorismate
+cpd02884_c_Faecalibacteriumprausnitzii	1.2351756780244647	cpd02884	Faicar
+cpd00774_c_Faecalibacteriumprausnitzii	4.444295198534266	cpd00774	Uroporphyrinogeniii
+cpd02083_c_Faecalibacteriumprausnitzii	6.243033424444749	cpd02083	Coproporphyrinogeniii
+cpd00977_c_Faecalibacteriumprausnitzii	1.4691214626322289	cpd00977	Ditp
+cpd00530_c_Faecalibacteriumprausnitzii	3.2829066972241785	cpd00530	Xtp
+cpd00068_c_Faecalibacteriumprausnitzii	1.918114137709371	cpd00068	Itp
+cpd00358_c_Faecalibacteriumprausnitzii	3.4494878241879556	cpd00358	Dutp
+cpd11735_c_Faecalibacteriumprausnitzii	1.7944259805423906	cpd11735	Amylose
+cpd11657_c_Faecalibacteriumprausnitzii	2.5888519610847878	cpd11657	Starch
+cpd03839_c_Faecalibacteriumprausnitzii	1.181601802648768	cpd03839	Precorrin 5
+cpd08371_c_Faecalibacteriumprausnitzii	1.084059804813808	cpd08371	Cobalt-Precorrin 5
+cpd11652_c_Faecalibacteriumprausnitzii	10.625541664080778	cpd11652	Phosphatidylglycerol
+cpd12801_c_Faecalibacteriumprausnitzii	20.08771694177914	cpd12801	Cardiolipin
+cpd02229_c_Faecalibacteriumprausnitzii	2.0	cpd02229	Bactoprenyl Diphosphate
+cpd01270_c_Faecalibacteriumprausnitzii	1.92420916327626	cpd01270	Fmnh2
+cpd00050_c_Faecalibacteriumprausnitzii	1.9507703505425222	cpd00050	Fmn
+cpd16423_c_Faecalibacteriumprausnitzii	1.1879492093121051	cpd16423	6-Thioguanosine Monophosphate
+cpd00516_c_Faecalibacteriumprausnitzii	2.2273639651659414	cpd00516	Meso-2,6-Diaminopimelate
+cpd00039_c_Faecalibacteriumprausnitzii	3.427048521643562	cpd00039	L-Lysine
+cpd17467_c_Faecalibacteriumprausnitzii	1.2574742193157271	cpd17467	Trna Containing S2U
+cpd16329_c_Faecalibacteriumprausnitzii	2.3656765530282122	cpd16329	Doxifluridine
+cpd00309_c_Faecalibacteriumprausnitzii	1.3014206439390046	cpd00309	Xan
+cpd11485_c_Faecalibacteriumprausnitzii	1.5208333333333335	cpd11485	3-Oxohexadecanoyl-Acp
+cpd11487_c_Faecalibacteriumprausnitzii	1.8155413071214341	cpd11487	3-Oxodecanoyl-Acp
+cpd11468_c_Faecalibacteriumprausnitzii	2.6946438931111856	cpd11468	Dodecanoyl-Acp
+cpd11491_c_Faecalibacteriumprausnitzii	2.2428830147880996	cpd11491	3-Oxotetradecanoyl-Acp
+cpd11490_c_Faecalibacteriumprausnitzii	1.1600054348362507	cpd11490	3-Oxooctanoyl-Acp
+cpd11474_c_Faecalibacteriumprausnitzii	1.1201096752582735	cpd11474	Decanoyl-Acp
+cpd11489_c_Faecalibacteriumprausnitzii	2.668348796935187	cpd11489	3-Oxododecanoyl-Acp
+cpd02760_c_Faecalibacteriumprausnitzii	1.3300021274271385	cpd02760	Cellobiose 6-Phoshate
+cpd00863_c_Faecalibacteriumprausnitzii	1.0885386361314549	cpd00863	Beta-D-Glucose 6-Phosphate
+cpd01553_c_Faecalibacteriumprausnitzii	1.2496927361170904	cpd01553	Saligenin
+cpd03697_c_Faecalibacteriumprausnitzii	1.1699542319348253	cpd03697	Arbutin-6P
+cpd12335_c_Faecalibacteriumprausnitzii	2.7162077090222754	cpd12335	L-Phenylalanyl-Trna(Phe)
+cpd00214_c_Faecalibacteriumprausnitzii	4.097834205099659	cpd00214	Palmitate
+cpd00810_c_Faecalibacteriumprausnitzii	3.187949209312106	cpd00810	Orotidylic Acid
+cpd00113_c_Faecalibacteriumprausnitzii	2.275301353865546	cpd00113	Isopentenyldiphosphate
+cpd00042_c_Faecalibacteriumprausnitzii	1.5765591107470374	cpd00042	Gsh
+cpd15565_c_Faecalibacteriumprausnitzii	2.009939056960116	cpd15565	L-Seryl-Trna(Sec)
+cpd02775_c_Faecalibacteriumprausnitzii	2.870980871827192	cpd02775	4-Amino-5-Phosphomethyl-2-Methylpyrimidine
+cpd02894_c_Faecalibacteriumprausnitzii	6.053819148341298	cpd02894	4-Amino-2-Methyl-5-Diphosphomethylpyrimidine
+cpd03608_c_Faecalibacteriumprausnitzii	2.0962560661014717	cpd03608	4-Hydroxy-L-Threonine
+cpd00171_c_Faecalibacteriumprausnitzii	3.5505301373076836	cpd00171	D-Ribulose5-Phosphate
+cpd02140_c_Faecalibacteriumprausnitzii	2.6734586946839953	cpd02140	Air
+cpd00878_c_Faecalibacteriumprausnitzii	1.6771307826270263	cpd00878	Glucocerebroside
+cpd20970_c_Faecalibacteriumprausnitzii	5.346291368710744	cpd20970	[Trna(Ile2)]-Lysidine34
+cpd01977_c_Faecalibacteriumprausnitzii	2.0321342376445397	cpd01977	4-Phospho-L-Aspartate
+cpd00346_c_Faecalibacteriumprausnitzii	4.344981250324599	cpd00346	L-Aspartate4-Semialdehyde
+cpd01502_c_Faecalibacteriumprausnitzii	3.606379832495184	cpd01502	Citraconate
+cpd03593_c_Faecalibacteriumprausnitzii	5.94461120474373	cpd03593	D-Erythro-3-Methylmalate
+cpd01700_c_Faecalibacteriumprausnitzii	5.898971153027018	cpd01700	D-Citramalate
+cpd00504_c_Faecalibacteriumprausnitzii	1.2273639651659414	cpd00504	Ll-2,6-Diaminopimelate
+cpd08301_c_Faecalibacteriumprausnitzii	5.925645839841055	cpd08301	2-C-Methyl-D-Erythritol2-4-Cyclodiphosphate
+cpd08615_c_Faecalibacteriumprausnitzii	4.498731072337433	cpd08615	1-Hydroxy-2-Methyl-2-Butenyl 4-Diphosphate
+cpd00015_c_Faecalibacteriumprausnitzii	1.3620463233524451	cpd00015	Fad
+cpd00120_c_Faecalibacteriumprausnitzii	1.251807327643177	cpd00120	Butyryl-Coa
+cpd00982_c_Faecalibacteriumprausnitzii	2.0	cpd00982	Fadh2
+cpd00295_c_Faecalibacteriumprausnitzii	1.7226489413207022	cpd00295	Dgdp
+cpd00177_c_Faecalibacteriumprausnitzii	1.7226489413207022	cpd00177	Dadp
+cpd02862_c_Faecalibacteriumprausnitzii	10.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd02948_c_Faecalibacteriumprausnitzii	10.874408740507668	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd02968_c_Faecalibacteriumprausnitzii	4.292509529951599	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd03494_c_Faecalibacteriumprausnitzii	3.4285362857316466	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd00118_c_Faecalibacteriumprausnitzii	1.1996845564776208	cpd00118	Putrescine
+cpd00383_c_Faecalibacteriumprausnitzii	4.833379293659748	cpd00383	Shikimate
+cpd01775_c_Faecalibacteriumprausnitzii	5.201215467427792	cpd01775	Phosphoribosyl-Atp
+cpd01777_c_Faecalibacteriumprausnitzii	4.1800456354943405	cpd01777	Phosphoribosyl-Amp
+cpd02979_c_Faecalibacteriumprausnitzii	6.518277007742886	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd00978_c_Faecalibacteriumprausnitzii	3.2666495476738486	cpd00978	Dudp
+cpd00533_c_Faecalibacteriumprausnitzii	1.7226489413207022	cpd00533	Dcdp
+cpd00297_c_Faecalibacteriumprausnitzii	1.7226489413207007	cpd00297	Dtdp
+cpd00062_c_Faecalibacteriumprausnitzii	1.9054872178348092	cpd00062	Utp
+cpd00202_c_Faecalibacteriumprausnitzii	1.439110371973614	cpd00202	Dmapp
+cpd12546_c_Faecalibacteriumprausnitzii	1.7758769129122616	cpd12546	Trna Containing 6-Isopentenyladenosine
+cpd00283_c_Faecalibacteriumprausnitzii	2.0890989635479107	cpd00283	Geranyldiphosphate
+cpd00350_c_Faecalibacteriumprausnitzii	3.2319561064050535	cpd00350	Farnesyldiphosphate
+cpd00646_c_Faecalibacteriumprausnitzii	1.3382313722485437	cpd00646	Pnp
+cpd00227_c_Faecalibacteriumprausnitzii	3.8112925055125455	cpd00227	L-Homoserine
+cpd00822_c_Faecalibacteriumprausnitzii	5.877732297714439	cpd00822	O-Succinyl-L-Homoserine
+cpd00790_c_Faecalibacteriumprausnitzii	1.8723616304554305	cpd00790	O-Acetyl-L-Homoserine
+cpd02711_c_Faecalibacteriumprausnitzii	2.0	cpd02711	2-Keto-3-Deoxy-6-Phosphogluconate
+cpd00251_c_Faecalibacteriumprausnitzii	1.9618061101176065	cpd00251	Adpribose
+cpd00226_c_Faecalibacteriumprausnitzii	2.564769742852002	cpd00226	Hyxn
+cpd01590_c_Faecalibacteriumprausnitzii	1.974974477209976	cpd01590	Mercaptopurine
+cpd00668_c_Faecalibacteriumprausnitzii	2.0245965994316797	cpd00668	Alctt
+cpd02498_c_Faecalibacteriumprausnitzii	2.998035412165417	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd19047_c_Faecalibacteriumprausnitzii	2.0245965994316797	cpd19047	(S)-2-Acetolactate
+cpd19030_c_Faecalibacteriumprausnitzii	2.998035412165417	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd02569_c_Faecalibacteriumprausnitzii	3.0245965994316797	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd00498_c_Faecalibacteriumprausnitzii	2.7018285998739326	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd10162_c_Faecalibacteriumprausnitzii	2.267318890592706	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd02535_c_Faecalibacteriumprausnitzii	3.2407577033264436	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd12829_c_Faecalibacteriumprausnitzii	1.5789155016147942	cpd12829	Asp-Trna(Asn)
+cpd03832_c_Faecalibacteriumprausnitzii	2.680870979520782	cpd03832	Hydrogenobyrinate
+cpd03913_c_Faecalibacteriumprausnitzii	5.99165717098966	cpd03913	Hydrogenobyrinate Diamide
+cpd03833_c_Faecalibacteriumprausnitzii	1.6244042410760797	cpd03833	Precorrin 3B
+cpd08369_c_Faecalibacteriumprausnitzii	1.072948256893926	cpd08369	Cobalt-Precorrin 3
+cpd00387_c_Faecalibacteriumprausnitzii	1.347493558569409	cpd00387	Adpglucose
+cpd00043_c_Faecalibacteriumprausnitzii	1.794425980542399	cpd00043	Udp-Galactose
+cpd02338_c_Faecalibacteriumprausnitzii	2.7944259805423988	cpd02338	Udp-D-Galacto-1,4-Furanose
+cpd00060_c_Faecalibacteriumprausnitzii	2.0370457289163166	cpd00060	L-Methionine
+cpd03163_c_Faecalibacteriumprausnitzii	4.326147959352274	cpd03163	Selenomethionine
+cpd03392_c_Faecalibacteriumprausnitzii	9.99048991645423	cpd03392	Se-Adenosylselenomethionine
+cpd00722_c_Faecalibacteriumprausnitzii	1.4884805483614352	cpd00722	O-Acetyl-L-Serine
+cpd02465_c_Faecalibacteriumprausnitzii	1.8274563468646816	cpd02465	Tetrahydrodipicolinate
+cpd20345_c_Faecalibacteriumprausnitzii	2.5530675780270076	cpd20345	Trna With A 3' Cca End
+cpd20340_c_Faecalibacteriumprausnitzii	1.226956993173594	cpd20340	Trna With A 3' Cc End
+cpd20338_c_Faecalibacteriumprausnitzii	2.0	cpd20338	Trna With A 3' Cytidine
+cpd01919_c_Faecalibacteriumprausnitzii	2.8829646166738447	cpd01919	Maltose-6-Phosphate
+cpd19006_c_Faecalibacteriumprausnitzii	1.5885386361314515	cpd19006	Alpha-D-Glucose 6-Phosphate
+cpd00523_c_Faecalibacteriumprausnitzii	1.3300021274271385	cpd00523	Trehalose 6-Phosphate
+cpd03123_c_Faecalibacteriumprausnitzii	3.8230579001289886	cpd03123	3-Oxohexanoyl-Coa
+cpd03398_c_Faecalibacteriumprausnitzii	1.2549418500626717	cpd03398	Selenocystathionine
+cpd03397_c_Faecalibacteriumprausnitzii	1.9812053884402605	cpd03397	Selenohomocysteine
+cpd19019_c_Faecalibacteriumprausnitzii	2.007921995329901	cpd19019	L-Cystathionine
+cpd00117_c_Faecalibacteriumprausnitzii	1.3382313722485453	cpd00117	D-Alanine
+cpd02120_c_Faecalibacteriumprausnitzii	1.854017534130944	cpd02120	Dihydrodipicolinate
+cpd00794_c_Faecalibacteriumprausnitzii	3.374120844086627	cpd00794	Trhl
+cpd03696_c_Faecalibacteriumprausnitzii	1.2140729485943134	cpd03696	Ursin
+cpd02210_c_Faecalibacteriumprausnitzii	2.4837058000905214	cpd02210	Indoleglycerol Phosphate
+cpd00359_c_Faecalibacteriumprausnitzii	1.6714227970175801	cpd00359	Indol
+cpd02030_c_Faecalibacteriumprausnitzii	5.747216551554118	cpd02030	3-Phosphoshikimate
+cpd00932_c_Faecalibacteriumprausnitzii	10.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd00918_c_Faecalibacteriumprausnitzii	1.2402427214260783	cpd00918	2-Acetamido-5-Oxopentanoate
+cpd02724_c_Faecalibacteriumprausnitzii	1.1652807471208795	cpd02724	N-Succinyl-L-2-Amino-6-Oxopimelate
+cpd00218_c_Faecalibacteriumprausnitzii	1.6301452431222807	cpd00218	Niacin
+cpd03049_c_Faecalibacteriumprausnitzii	3.6121405779546505	cpd03049	2-Hydroxyethyl-Thpp
+cpd00056_c_Faecalibacteriumprausnitzii	2.0	cpd00056	Tpp
+cpd00094_c_Faecalibacteriumprausnitzii	1.0896880219192826	cpd00094	2-Oxobutyrate
+cpd03078_c_Faecalibacteriumprausnitzii	4.620735072115259	cpd03078	Selenophosphate
+cpd00868_c_Faecalibacteriumprausnitzii	4.0	cpd00868	P-Hydroxyphenylpyruvate
+cpd03285_c_Faecalibacteriumprausnitzii	1.222016921076262	cpd03285	3-Sulfopyruvate
+cpd00706_c_Faecalibacteriumprausnitzii	1.6059545541763496	cpd00706	Mercaptopyruvate
+cpd02016_c_Faecalibacteriumprausnitzii	4.501294642960958	cpd02016	N-Ribosylnicotinamide
+cpd01217_c_Faecalibacteriumprausnitzii	1.7929016367978194	cpd01217	Xanthosine
+cpd03471_c_Faecalibacteriumprausnitzii	4.857102236295873	cpd03471	Nicotinate D-Ribonucleoside
+cpd00246_c_Faecalibacteriumprausnitzii	4.564769742852	cpd00246	Inosine
+cpd02964_c_Faecalibacteriumprausnitzii	3.336628246611089	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd02943_c_Faecalibacteriumprausnitzii	2.4787236300167503	cpd02943	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd00620_c_Faecalibacteriumprausnitzii	1.2438032731371087	cpd00620	Pantetheine
+cpd02991_c_Faecalibacteriumprausnitzii	7.518277007742886	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd12100_c_Faecalibacteriumprausnitzii	1.3163489723386737	cpd12100	Glycyl-Trna(Gly)
+cpd06227_c_Faecalibacteriumprausnitzii	2.891418730768719	cpd06227	Thf-L-Glutamate
+cpd00683_c_Faecalibacteriumprausnitzii	13.450343900110067	cpd00683	Dihydropteroate
+cpd00330_c_Faecalibacteriumprausnitzii	1.3677293509925974	cpd00330	Dihydrofolate
+cpd00215_c_Faecalibacteriumprausnitzii	1.0265611872662623	cpd00215	Pyridoxal
+cpd00263_c_Faecalibacteriumprausnitzii	2.0	cpd00263	Pyridoxol
+cpd00478_c_Faecalibacteriumprausnitzii	3.565347158845465	cpd00478	Pyridoxine Phosphate
+cpd00133_c_Faecalibacteriumprausnitzii	3.2743376497873657	cpd00133	Nicotinamide
+cpd00453_c_Faecalibacteriumprausnitzii	1.311717888073675	cpd00453	1,2-Propanediol
+cpd00334_c_Faecalibacteriumprausnitzii	1.3382790753399374	cpd00334	L-Lactaldehyde
+cpd01982_c_Faecalibacteriumprausnitzii	1.294156214229572	cpd01982	5-Phosphoribosylamine
+cpd12704_c_Faecalibacteriumprausnitzii	8.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd01107_c_Faecalibacteriumprausnitzii	3.7701877329730626	cpd01107	Decanoate
+cpd01741_c_Faecalibacteriumprausnitzii	5.074044430439892	cpd01741	Ddca
+cpd03920_c_Faecalibacteriumprausnitzii	5.804410659451859	cpd03920	Adenosylcobinamide-Gdp
+cpd04135_c_Faecalibacteriumprausnitzii	2.4651050753290424	cpd04135	Chloroacetic Acid
+cpd00099_c_Faecalibacteriumprausnitzii	1.6029406416702563	cpd00099	Cl-
+cpd00791_c_Faecalibacteriumprausnitzii	1.3206265591107087	cpd00791	Protoporphyrinogenix
+cpd01029_c_Faecalibacteriumprausnitzii	1.228030777425022	cpd01029	Base Q
+cpd11986_c_Faecalibacteriumprausnitzii	1.5840380045242197	cpd11986	Trna Queuine
+cpd01326_c_Faecalibacteriumprausnitzii	6.320679836064778	cpd01326	L-Lysyl-Trna
+cpd02843_c_Faecalibacteriumprausnitzii	6.100263053204301	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd00930_c_Faecalibacteriumprausnitzii	5.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00408_c_Faecalibacteriumprausnitzii	6.539416528690786	cpd00408	Pantoate
+cpd00712_c_Faecalibacteriumprausnitzii	5.5659777159570485	cpd00712	2-Dehydropantoate
+cpd03495_c_Faecalibacteriumprausnitzii	3.0	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd03491_c_Faecalibacteriumprausnitzii	12.44587245477602	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd11920_c_Faecalibacteriumprausnitzii	1.738558400547721	cpd11920	Trna(Pro)
+cpd19503_c_Faecalibacteriumprausnitzii	1.1461998402407756	cpd19503	Molybdoenzyme Molybdenum Cofactor
+cpd00351_c_Faecalibacteriumprausnitzii	1.688117577286433	cpd00351	Saccharopine
+cpd00842_c_Faecalibacteriumprausnitzii	1.115939957705361	cpd00842	(S)-3-Hydroxybutyryl-Coa
+cpd00807_c_Faecalibacteriumprausnitzii	1.9644382848262296	cpd00807	L-Histidinol-Phosphate
+cpd12371_c_Faecalibacteriumprausnitzii	2.9045470887801232	cpd12371	Mgdg
+cpd00382_c_Faecalibacteriumprausnitzii	1.1395716278793648	cpd00382	Melitose
+cpd00588_c_Faecalibacteriumprausnitzii	1.3979901028012254	cpd00588	Sorbitol
+cpd01743_c_Faecalibacteriumprausnitzii	2.0765591107470374	cpd01743	Cerebroside
+cpd00910_c_Faecalibacteriumprausnitzii	3.6734297479308182	cpd00910	Galactinol
+cpd00121_c_Faecalibacteriumprausnitzii	5.071419850732043	cpd00121	L-Inositol
+cpd02642_c_Faecalibacteriumprausnitzii	3.548536194661482	cpd02642	N-5-Phosphoribosyl-Anthranilate
+cpd00956_c_Faecalibacteriumprausnitzii	3.0619192234597783	cpd00956	1-(2-Carboxyphenylamino)-1-Deoxyribulose 5-Phosphate
+cpd00905_c_Faecalibacteriumprausnitzii	4.109753044017727	cpd00905	Guanosine 3',5'-Bis(Diphosphate)
+cpd15097_c_Faecalibacteriumprausnitzii	1.3913537467810702	cpd15097	Trinitrotoluene
+cpd00349_c_Faecalibacteriumprausnitzii	2.87744609340285	cpd00349	Sedoheptulose 1,7-Bisphosphate
+cpd15364_c_Faecalibacteriumprausnitzii	3.376252404443986	cpd15364	2'-(5''-Triphosphoribosyl)-3'-Dephospho-Coa
+cpd11669_c_Faecalibacteriumprausnitzii	1.4945040536145449	cpd11669	Q
+cpd11665_c_Faecalibacteriumprausnitzii	3.494504053614545	cpd11665	Qh2
+cpd21149_c_Faecalibacteriumprausnitzii	2.4124560214770296	cpd21149	N-Acetyl-Beta-Neuraminate
+cpd00492_c_Faecalibacteriumprausnitzii	3.0	cpd00492	N-Acetyl-D-Mannosamine
+cpd11461_c_Faecalibacteriumprausnitzii	1.3185505784353257	cpd11461	Dna
+cpd00235_c_Faecalibacteriumprausnitzii	3.5885386361314513	cpd00235	D-Mannose-6-Phosphate
+cpd00831_c_Faecalibacteriumprausnitzii	1.1505620784128785	cpd00831	L-Rhamnulose 1-Phosphate
+cpd20163_c_Faecalibacteriumprausnitzii	1.5026281258560217	cpd20163	Methylselenic Acid
+cpd02738_c_Faecalibacteriumprausnitzii	1.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd00806_c_Faecalibacteriumprausnitzii	3.1505620784128787	cpd00806	L-Fuculose1-Phosphate
+cpd12512_c_Faecalibacteriumprausnitzii	1.5810704778861595	cpd12512	Citrate (Pro-3S)-Lyase (Thiol Form)
+cpd12133_c_Faecalibacteriumprausnitzii	2.525040518938126	cpd12133	L-Valyl-Trna(Val)
+cpd01620_c_Faecalibacteriumprausnitzii	6.779861605621528	cpd01620	Precorrin 2
+cpd03420_c_Faecalibacteriumprausnitzii	6.171938882994672	cpd03420	Precorrin 3A
+cpd03043_c_Faecalibacteriumprausnitzii	1.115939957705361	cpd03043	3-Hydroxybutanoyl-Coa
+cpd15543_c_Faecalibacteriumprausnitzii	6.294112655589055	cpd15543	Phosphatidylglycerophosphate Ditetradecanoyl
+cpd11211_c_Faecalibacteriumprausnitzii	7.027679529854103	cpd11211	Dihydromonacolin L
+cpd02967_c_Faecalibacteriumprausnitzii	4.571149149516568	cpd02967	N-Acetyl-Beta-D-Mannosaminyl-1,4-N-Acetyl-D- Glucosaminyldiphosphoundecaprenol
+cpd12894_c_Faecalibacteriumprausnitzii	7.980944419204265	cpd12894	Teichoic acid
+cpd00776_c_Faecalibacteriumprausnitzii	2.0	cpd00776	Squalene 2,3-Oxide
+cpd17041_c_Faecalibacteriumprausnitzii	108.79005863494143	cpd17041	Protein Biosynthesis
+cpd01311_c_Faecalibacteriumprausnitzii	2.0	cpd01311	Dethiobiotin
+cpd04358_c_Faecalibacteriumprausnitzii	1.709004273476022	cpd04358	Styrene
+cpd01306_c_Faecalibacteriumprausnitzii	3.0	cpd01306	Cycloartenol
+cpd03221_c_Faecalibacteriumprausnitzii	4.0	cpd03221	Zymosterol
+cpd00030_c_Faecalibacteriumprausnitzii	3.027633557766241	cpd00030	Mn2+
+cpd28246_c_Faecalibacteriumprausnitzii	6.1637826957183695	cpd28246	Teichoic-P-Gro
+cpd28247_c_Faecalibacteriumprausnitzii	6.2355597349400655	cpd28247	Teichoic-P-Gro-Glc
+cpd00861_c_Faecalibacteriumprausnitzii	1.863658679468167	cpd00861	Udp-N-Acetyl-D-Mannosamine
+cpd15307_c_Faecalibacteriumprausnitzii	2.0	cpd15307	1,2-Diacyl-Sn-Glycerol Ditetradecanoyl
+cpd15738_c_Faecalibacteriumprausnitzii	4.071777039221696	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd00443_c_Faecalibacteriumprausnitzii	2.271715169747894	cpd00443	Abee
+cpd00254_c_Faecalibacteriumprausnitzii	2.411762566681025	cpd00254	Mg
+cpd00971_c_Faecalibacteriumprausnitzii	3.0	cpd00971	Na+
+cpd00205_c_Faecalibacteriumprausnitzii	2.411762566681025	cpd00205	K+
+cpd15545_c_Faecalibacteriumprausnitzii	6.294112655589055	cpd15545	Phosphatidylglycerophosphate Dihexadecanoyl
+cpd15309_c_Faecalibacteriumprausnitzii	2.0	cpd15309	1,2-Diacyl-Sn-Glycerol Dihexadecanoyl
+cpd15737_c_Faecalibacteriumprausnitzii	4.071777039221696	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd16661_c_Faecalibacteriumprausnitzii	18.33953197892003	cpd16661	Generic Peptidoglycan (Mass)
+cpd15729_c_Faecalibacteriumprausnitzii	4.326977115132355	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd03490_c_Faecalibacteriumprausnitzii	11.46923497945523	cpd03490	Udp-N-Acetylmuramoyl-L-Alanyl-Gamma-D-Glutamyl-L-Lysine
+cellwall_c_Faecalibacteriumprausnitzii	28.908345189340256	cellwall	Cell Wall polymer
+cpd11459_c_Faecalibacteriumprausnitzii	11.065384841633076	cpd11459	Tcam
+cpd15540_c_Faecalibacteriumprausnitzii	6.294112655589055	cpd15540	Phosphatidylglycerol Dioctadecanoyl
+cpd15728_c_Faecalibacteriumprausnitzii	4.326977115132355	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd11852_c_Faecalibacteriumprausnitzii	1.1783992313773766	cpd11852	Lipid
+cpd24596_c_Faecalibacteriumprausnitzii	4.7539874260306725	cpd24596	Prenyl-P-P-Glcnac-Mannac-P-Gro
+cpd23343_c_Faecalibacteriumprausnitzii	1.1691156861242726	cpd23343	A Peptidoglycan Dimer (Tetrapeptide)
+cpd00946_c_Faecalibacteriumprausnitzii	1.4301394113691037	cpd00946	Undecaprenyl Diphospho N-Acetyl-Glucosamine
+cpd17043_c_Faecalibacteriumprausnitzii	13.270130030780958	cpd17043	Rna Transcription
+cpd17042_c_Faecalibacteriumprausnitzii	27.880558913974586	cpd17042	Dna Replication
+cpd02416_c_Bifidobacteriumpseudocatenulatum	1.125	cpd02416	N-Acetyl-Beta-D-Glucosamine
+cpd11421_c_Bifidobacteriumpseudocatenulatum	1.0416666666666667	cpd11421	Trdrd
+cpd00978_c_Bifidobacteriumpseudocatenulatum	1.5706782304584275	cpd00978	Dudp
+cpd00295_c_Bifidobacteriumpseudocatenulatum	1.411250138540182	cpd00295	Dgdp
+cpd00177_c_Bifidobacteriumpseudocatenulatum	2.363752874215118	cpd00177	Dadp
+cpd00387_c_Bifidobacteriumpseudocatenulatum	1.3840776472598553	cpd00387	Adpglucose
+cpd11735_c_Bifidobacteriumpseudocatenulatum	1.46875	cpd11735	Amylose
+cpd00002_c_Bifidobacteriumpseudocatenulatum	1.8206871822824644	cpd00002	Atp
+cpd00297_c_Bifidobacteriumpseudocatenulatum	2.0001276828122	cpd00297	Dtdp
+cpd00035_c_Bifidobacteriumpseudocatenulatum	1.0981465043571716	cpd00035	L-Alanine
+cpd11770_c_Bifidobacteriumpseudocatenulatum	1.1286637304993048	cpd11770	L-Alanyl-Trna
+cpd02210_c_Bifidobacteriumpseudocatenulatum	3.094329547531901	cpd02210	Indoleglycerol Phosphate
+cpd00359_c_Bifidobacteriumpseudocatenulatum	3.67142279701758	cpd00359	Indol
+cpd00005_c_Bifidobacteriumpseudocatenulatum	1.5901814618275005	cpd00005	Nadph
+cpd00668_c_Bifidobacteriumpseudocatenulatum	2.6946964839972427	cpd00668	Alctt
+cpd00006_c_Bifidobacteriumpseudocatenulatum	1.7360147951608338	cpd00006	Nadp
+cpd02498_c_Bifidobacteriumpseudocatenulatum	3.7363631506639097	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd19047_c_Bifidobacteriumpseudocatenulatum	1.9563687454987504	cpd19047	(S)-2-Acetolactate
+cpd19030_c_Bifidobacteriumpseudocatenulatum	2.998035412165417	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd02569_c_Bifidobacteriumpseudocatenulatum	2.6946964839972427	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd00498_c_Bifidobacteriumpseudocatenulatum	1.2673188905927062	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd10162_c_Bifidobacteriumpseudocatenulatum	2.267318890592706	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd02535_c_Bifidobacteriumpseudocatenulatum	1.3089855572593727	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd02857_c_Bifidobacteriumpseudocatenulatum	3.9269915071611625	cpd02857	Dahp
+cpd00699_c_Bifidobacteriumpseudocatenulatum	4.198171853174555	cpd00699	5-Dehydroquinate
+cpd00383_c_Bifidobacteriumpseudocatenulatum	4.833379293659748	cpd00383	Shikimate
+cpd02030_c_Bifidobacteriumpseudocatenulatum	4.551238828682357	cpd02030	3-Phosphoshikimate
+cpd00238_c_Bifidobacteriumpseudocatenulatum	2.195207890900162	cpd00238	Sedoheptulose7-Phosphate
+cpd00072_c_Bifidobacteriumpseudocatenulatum	2.588538636131454	cpd00072	D-Fructose-6-Phosphate
+cpd01777_c_Bifidobacteriumpseudocatenulatum	4.2172580638785355	cpd01777	Phosphoribosyl-Amp
+cpd02979_c_Bifidobacteriumpseudocatenulatum	5.3422580638785355	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd02338_c_Bifidobacteriumpseudocatenulatum	1.1634885575661782	cpd02338	Udp-D-Galacto-1,4-Furanose
+cpd00087_c_Bifidobacteriumpseudocatenulatum	1.3368914911308198	cpd00087	Tetrahydrofolate
+cpd00214_c_Bifidobacteriumpseudocatenulatum	2.097834205099659	cpd00214	Palmitate
+cpd00052_c_Bifidobacteriumpseudocatenulatum	1.4760509150842873	cpd00052	Ctp
+cpd11422_c_Bifidobacteriumpseudocatenulatum	1.8847947464931334	cpd11422	1,2-Diacyl-Sn-Glycerol 3-Phosphate
+cpd11427_c_Bifidobacteriumpseudocatenulatum	2.239880008010661	cpd11427	Cdp-Diacylglycerol
+cpd00103_c_Bifidobacteriumpseudocatenulatum	3.2809364271469157	cpd00103	Prpp
+cpd00135_c_Bifidobacteriumpseudocatenulatum	1.9455480162672123	cpd00135	Homocysteine
+cpd02738_c_Bifidobacteriumpseudocatenulatum	1.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd00060_c_Bifidobacteriumpseudocatenulatum	2.3541247489273758	cpd00060	L-Methionine
+cpd03397_c_Bifidobacteriumpseudocatenulatum	3.9812053884402605	cpd03397	Selenohomocysteine
+cpd03163_c_Bifidobacteriumpseudocatenulatum	6.326147959352274	cpd03163	Selenomethionine
+cpd11454_c_Bifidobacteriumpseudocatenulatum	4.260082028212681	cpd11454	Phosphatidylglycerophosphate
+cpd01977_c_Bifidobacteriumpseudocatenulatum	2.0321342376445397	cpd01977	4-Phospho-L-Aspartate
+cpd00346_c_Bifidobacteriumpseudocatenulatum	2.3449812503245995	cpd00346	L-Aspartate4-Semialdehyde
+cpd00003_c_Bifidobacteriumpseudocatenulatum	2.5314870128915863	cpd00003	Nad
+cpd00004_c_Bifidobacteriumpseudocatenulatum	3.385653679558253	cpd00004	Nadh
+cpd00171_c_Bifidobacteriumpseudocatenulatum	3.7242445863289277	cpd00171	D-Ribulose5-Phosphate
+cpd00198_c_Bifidobacteriumpseudocatenulatum	2.7242445863289277	cpd00198	D-Xylulose5-Phosphate
+cpd00062_c_Bifidobacteriumpseudocatenulatum	1.9054872178348092	cpd00062	Utp
+cpd00939_c_Bifidobacteriumpseudocatenulatum	1.6734586946839953	cpd00939	Toxopyrimidine
+cpd02140_c_Bifidobacteriumpseudocatenulatum	2.6734586946839953	cpd02140	Air
+cpd00095_c_Bifidobacteriumpseudocatenulatum	1.2008690405273827	cpd00095	Glycerone-Phosphate
+cpd01716_c_Bifidobacteriumpseudocatenulatum	5.073171853174555	cpd01716	3-Dehydroshikimate
+cpd00810_c_Bifidobacteriumpseudocatenulatum	1.187949209312106	cpd00810	Orotidylic Acid
+cpd00263_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00263	Pyridoxol
+cpd00082_c_Bifidobacteriumpseudocatenulatum	1.8968144557163888	cpd00082	D-Fructose
+cpd00932_c_Bifidobacteriumpseudocatenulatum	8.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd00216_c_Bifidobacteriumpseudocatenulatum	4.336911108846275	cpd00216	Chorismate
+cpd11652_c_Bifidobacteriumpseudocatenulatum	12.625541664080778	cpd11652	Phosphatidylglycerol
+cpd12801_c_Bifidobacteriumpseudocatenulatum	18.08771694177914	cpd12801	Cardiolipin
+cpd02097_c_Bifidobacteriumpseudocatenulatum	2.089861401542026	cpd02097	L-Glutamyl 5-Phosphate
+cpd00356_c_Bifidobacteriumpseudocatenulatum	1.9054872178348092	cpd00356	Dctp
+cpd00115_c_Bifidobacteriumpseudocatenulatum	1.9054872178348092	cpd00115	Datp
+cpd00357_c_Bifidobacteriumpseudocatenulatum	1.9054872178348092	cpd00357	Ttp
+cpd00241_c_Bifidobacteriumpseudocatenulatum	1.9054872178348092	cpd00241	Dgtp
+cpd00093_c_Bifidobacteriumpseudocatenulatum	1.271715169747894	cpd00093	Anthranilate
+cpd00099_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00099	Cl-
+cpd00878_c_Bifidobacteriumpseudocatenulatum	1.6771307826270263	cpd00878	Glucocerebroside
+cpd01775_c_Bifidobacteriumpseudocatenulatum	5.00863639159457	cpd01775	Phosphoribosyl-Atp
+cpd00125_c_Bifidobacteriumpseudocatenulatum	1.29294860964134	cpd00125	5-10-Methylenetetrahydrofolate
+cpd02991_c_Bifidobacteriumpseudocatenulatum	6.3422580638785355	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd02843_c_Bifidobacteriumpseudocatenulatum	6.2547190319471095	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd11423_c_Bifidobacteriumpseudocatenulatum	2.1669352114705243	cpd11423	1,2-Diacyl-Sn-Glycerol
+cpd00050_c_Bifidobacteriumpseudocatenulatum	2.6732916090510255	cpd00050	Fmn
+cpd01270_c_Bifidobacteriumpseudocatenulatum	1.714958275717692	cpd01270	Fmnh2
+cpd00977_c_Bifidobacteriumpseudocatenulatum	1.4691214626322289	cpd00977	Ditp
+cpd00530_c_Bifidobacteriumpseudocatenulatum	5.2829066972241785	cpd00530	Xtp
+cpd00068_c_Bifidobacteriumpseudocatenulatum	1.918114137709371	cpd00068	Itp
+cpd00358_c_Bifidobacteriumpseudocatenulatum	3.7845557747304452	cpd00358	Dutp
+cpd03389_c_Bifidobacteriumpseudocatenulatum	1.466406517952467	cpd03389	Selenocysteine
+cpd12371_c_Bifidobacteriumpseudocatenulatum	2.3419669032081067	cpd12371	Mgdg
+cpd00100_c_Bifidobacteriumpseudocatenulatum	1.2749157456763853	cpd00100	Glycerol
+cpd00588_c_Bifidobacteriumpseudocatenulatum	1.3979901028012254	cpd00588	Sorbitol
+cpd01743_c_Bifidobacteriumpseudocatenulatum	2.125	cpd01743	Cerebroside
+cpd00910_c_Bifidobacteriumpseudocatenulatum	1.6734297479308182	cpd00910	Galactinol
+cpd00121_c_Bifidobacteriumpseudocatenulatum	4.182969210026011	cpd00121	L-Inositol
+cpd00322_c_Bifidobacteriumpseudocatenulatum	2.6856904828801422	cpd00322	L-Isoleucine
+cpd00508_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00508	3Mop
+cpd12105_c_Bifidobacteriumpseudocatenulatum	3.494886802744274	cpd12105	L-Methionyl-Trna
+cpd12704_c_Bifidobacteriumpseudocatenulatum	8.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd00355_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00355	Nicotinamide Ribonucleotide
+cpd00873_c_Bifidobacteriumpseudocatenulatum	2.3275569736224844	cpd00873	Nicotinate Ribonucleotide
+cpd00638_c_Bifidobacteriumpseudocatenulatum	3.194746636392794	cpd00638	Deamido-Nad
+cpd00133_c_Bifidobacteriumpseudocatenulatum	2.265667654901383	cpd00133	Nicotinamide
+cpd00218_c_Bifidobacteriumpseudocatenulatum	2.6216438386879073	cpd00218	Niacin
+cpd02229_c_Bifidobacteriumpseudocatenulatum	2.327271253284547	cpd02229	Bactoprenyl Diphosphate
+cpd01663_c_Bifidobacteriumpseudocatenulatum	1.125	cpd01663	Chenodiol
+cpd03245_c_Bifidobacteriumpseudocatenulatum	1.3763562223603825	cpd03245	Glycodeoxycholate
+cpd02733_c_Bifidobacteriumpseudocatenulatum	2.076559110747038	cpd02733	Deoxycholate
+cpd00526_c_Bifidobacteriumpseudocatenulatum	1.0765591107470374	cpd00526	Cholate
+cpd02832_c_Bifidobacteriumpseudocatenulatum	5.2716703070499005	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd16422_c_Bifidobacteriumpseudocatenulatum	4.250747846713409	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd00345_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00345	5-Methyltetrahydrofolate
+cpd00305_c_Bifidobacteriumpseudocatenulatum	1.4173606920267856	cpd00305	Thiamin
+cpd02636_c_Bifidobacteriumpseudocatenulatum	1.7287682335876082	cpd02636	4-Methyl-5--2-Hydroxyethyl-Thiazole
+cpd11485_c_Bifidobacteriumpseudocatenulatum	1.5208333333333335	cpd11485	3-Oxohexadecanoyl-Acp
+cpd11480_c_Bifidobacteriumpseudocatenulatum	2.7255068192445626	cpd11480	D-3-Hydroxydodecanoyl-[Acp]
+cpd11489_c_Bifidobacteriumpseudocatenulatum	2.093236170237158	cpd11489	3-Oxododecanoyl-Acp
+cpd11482_c_Bifidobacteriumpseudocatenulatum	2.1707319495565427	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd11487_c_Bifidobacteriumpseudocatenulatum	1.129065282889876	cpd11487	3-Oxodecanoyl-Acp
+cpd14939_c_Bifidobacteriumpseudocatenulatum	1.4488399670230294	cpd14939	3-Hydroxystearoyl-[Acp]
+cpd11484_c_Bifidobacteriumpseudocatenulatum	1.0970496814547661	cpd11484	Hma
+cpd11491_c_Bifidobacteriumpseudocatenulatum	2.2428830147880996	cpd11491	3-Oxotetradecanoyl-Acp
+cpd30321_c_Bifidobacteriumpseudocatenulatum	1.8968144557163888	cpd30321	Beta-D-Fructose
+cpd15309_c_Bifidobacteriumpseudocatenulatum	2.0	cpd15309	1,2-Diacyl-Sn-Glycerol Dihexadecanoyl
+cpd00982_c_Bifidobacteriumpseudocatenulatum	1.615686346089602	cpd00982	Fadh2
+cpd11455_c_Bifidobacteriumpseudocatenulatum	4.379405253573984	cpd11455	Ps_Bs
+cpd11456_c_Bifidobacteriumpseudocatenulatum	3.1669352114705243	cpd11456	Phosphatidylethanolamine
+cpd00869_c_Bifidobacteriumpseudocatenulatum	2.668434266047234	cpd00869	4-Methylthio 2-Oxobutyrate
+cpd01335_c_Bifidobacteriumpseudocatenulatum	1.4174874596334472	cpd01335	Octanoyl-Coa
+cpd03846_c_Bifidobacteriumpseudocatenulatum	2.3549874596334472	cpd03846	Octanoate
+cpd11594_c_Bifidobacteriumpseudocatenulatum	1.125	cpd11594	Dextrin
+cpd00890_c_Bifidobacteriumpseudocatenulatum	2.7942377757518333	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd00525_c_Bifidobacteriumpseudocatenulatum	3.1734682306171846	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd28247_c_Bifidobacteriumpseudocatenulatum	2.327271253284547	cpd28247	Teichoic-P-Gro-Glc
+cpd23224_c_Bifidobacteriumpseudocatenulatum	7.312238673543346	cpd23224	Salicylate-Adenylate
+cpd16880_c_Bifidobacteriumpseudocatenulatum	8.25471903194711	cpd16880	Episterol Ester, Yeast-Specific
+cpd00930_c_Bifidobacteriumpseudocatenulatum	7.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00015_c_Bifidobacteriumpseudocatenulatum	3.362046323352445	cpd00015	Fad
+cpd15269_c_Bifidobacteriumpseudocatenulatum	1.6580731866446037	cpd15269	Octadecenoate
+cpd15498_c_Bifidobacteriumpseudocatenulatum	2.0	cpd15498	L-Methionine Sulfoxide
+cpd00205_c_Bifidobacteriumpseudocatenulatum	4.490676553028213	cpd00205	K+
+cpd03495_c_Bifidobacteriumpseudocatenulatum	3.327271253284547	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd11463_c_Bifidobacteriumpseudocatenulatum	1.6535370426341764	cpd11463	Protein
+cpd00226_c_Bifidobacteriumpseudocatenulatum	1.2367391044918996	cpd00226	Hyxn
+cpd08766_c_Bifidobacteriumpseudocatenulatum	4.443505648953943	cpd08766	6,8A-Seco-6,8A-Deoxy-5-Oxoavermectin ''2A'' Aglycone
+cpd24596_c_Bifidobacteriumpseudocatenulatum	4.3356444847356626	cpd24596	Prenyl-P-P-Glcnac-Mannac-P-Gro
+cpd28246_c_Bifidobacteriumpseudocatenulatum	4.1637826957183695	cpd28246	Teichoic-P-Gro
+cpd02968_c_Bifidobacteriumpseudocatenulatum	3.01240240571521	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd03494_c_Bifidobacteriumpseudocatenulatum	3.276845776270101	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd22495_c_Bifidobacteriumpseudocatenulatum	1.84375	cpd22495	Glcnac-(1->4)-Murnac-Pentapeptide-Diphosphoundecaprenol
+cpd19471_c_Bifidobacteriumpseudocatenulatum	3.8099060489180605	cpd19471	8-Methyl-6-Nonenoic Acid
+cpd01334_c_Bifidobacteriumpseudocatenulatum	1.203163835318389	cpd01334	Obtusifoliol
+cpd00143_c_Bifidobacteriumpseudocatenulatum	1.3768708645227612	cpd00143	Phenylpyruvate
+cpd00464_c_Bifidobacteriumpseudocatenulatum	1.959154126300114	cpd00464	Alpha-Tolualdehyde
+cpd00516_c_Bifidobacteriumpseudocatenulatum	3.4522712532845476	cpd00516	Meso-2,6-Diaminopimelate
+cpd00039_c_Bifidobacteriumpseudocatenulatum	5.306726867802045	cpd00039	L-Lysine
+cpd01451_c_Bifidobacteriumpseudocatenulatum	2.203163835318389	cpd01451	Cycloeucalenol
+cpd15522_c_Bifidobacteriumpseudocatenulatum	1.905359535022609	cpd15522	1,2-Ditetradecanoyl-Sn-Glycerol 3-Phosphate
+cpd01080_c_Bifidobacteriumpseudocatenulatum	3.033073186644604	cpd01080	Ocdca
+cpd36077_c_Bifidobacteriumpseudocatenulatum	1.784667493662276	cpd36077	Tyr-S-Novh
+cpd00056_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00056	Tpp
+cpd08672_c_Bifidobacteriumpseudocatenulatum	3.0624999999999987	cpd08672	Kaurenic Acid
+cpd11640_c_Bifidobacteriumpseudocatenulatum	1.3168280434429867	cpd11640	H2
+cpd00492_c_Bifidobacteriumpseudocatenulatum	2.125	cpd00492	N-Acetyl-D-Mannosamine
+cpd34477_c_Bifidobacteriumpseudocatenulatum	1.5082682661695304	cpd34477	Udp-N-Acetyl-Alpha-D-Muramoyl-L-Alanyl-L-Glutamate
+cpd00946_c_Bifidobacteriumpseudocatenulatum	2.6597637587525083	cpd00946	Undecaprenyl Diphospho N-Acetyl-Glucosamine
+cpd00791_c_Bifidobacteriumpseudocatenulatum	1.3206265591107087	cpd00791	Protoporphyrinogenix
+cpd02967_c_Bifidobacteriumpseudocatenulatum	4.695006273752956	cpd02967	N-Acetyl-Beta-D-Mannosaminyl-1,4-N-Acetyl-D- Glucosaminyldiphosphoundecaprenol
+cpd12894_c_Bifidobacteriumpseudocatenulatum	6.5231444847356626	cpd12894	Teichoic acid
+cpd01306_c_Bifidobacteriumpseudocatenulatum	3.0	cpd01306	Cycloartenol
+cpd05727_c_Bifidobacteriumpseudocatenulatum	3.922387669632749	cpd05727	24-Methylenecycloartanol
+cpd02964_c_Bifidobacteriumpseudocatenulatum	2.023362524679209	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd03490_c_Bifidobacteriumpseudocatenulatum	9.46923497945523	cpd03490	Udp-N-Acetylmuramoyl-L-Alanyl-Gamma-D-Glutamyl-L-Lysine
+cpd15307_c_Bifidobacteriumpseudocatenulatum	2.0	cpd15307	1,2-Diacyl-Sn-Glycerol Ditetradecanoyl
+cpd00069_c_Bifidobacteriumpseudocatenulatum	1.6856904828801424	cpd00069	L-Tyrosine
+cpd00868_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00868	P-Hydroxyphenylpyruvate
+cpd02862_c_Bifidobacteriumpseudocatenulatum	10.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd02948_c_Bifidobacteriumpseudocatenulatum	12.722718231046123	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd00220_c_Bifidobacteriumpseudocatenulatum	2.7679320740284163	cpd00220	Riboflavin
+cpd00443_c_Bifidobacteriumpseudocatenulatum	2.271715169747894	cpd00443	Abee
+cpd00149_c_Bifidobacteriumpseudocatenulatum	1.3843138272631272	cpd00149	Co2+
+cpd00030_c_Bifidobacteriumpseudocatenulatum	3.2453382765141066	cpd00030	Mn2+
+cpd00254_c_Bifidobacteriumpseudocatenulatum	4.490676553028213	cpd00254	Mg
+cpd00063_c_Bifidobacteriumpseudocatenulatum	3.2453382765141066	cpd00063	Ca2+
+cpd10515_c_Bifidobacteriumpseudocatenulatum	2.0	cpd10515	Fe+2
+cofactor_c_Bifidobacteriumpseudocatenulatum	1.5946028298808097	cofactor	Cofactor Pool
+cpd00066_c_Bifidobacteriumpseudocatenulatum	1.6856904828801424	cpd00066	L-Phenylalanine
+cpd17043_c_Bifidobacteriumpseudocatenulatum	2.3056977870668147	cpd17043	Rna Transcription
+cpd03221_c_Bifidobacteriumpseudocatenulatum	4.0	cpd03221	Zymosterol
+cpd15540_c_Bifidobacteriumpseudocatenulatum	2.3272712532845476	cpd15540	Phosphatidylglycerol Dioctadecanoyl
+cpd15545_c_Bifidobacteriumpseudocatenulatum	2.3272712532845476	cpd15545	Phosphatidylglycerophosphate Dihexadecanoyl
+cpd29700_c_Bifidobacteriumpseudocatenulatum	2.327271253284547	cpd29700	L-Met-L-Ala
+cpd15738_c_Bifidobacteriumpseudocatenulatum	2.1634885575661773	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd15729_c_Bifidobacteriumpseudocatenulatum	2.3269771151323546	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd10516_c_Bifidobacteriumpseudocatenulatum	1.5833333333333335	cpd10516	Fe+3
+cpd16661_c_Bifidobacteriumpseudocatenulatum	16.33953197892003	cpd16661	Generic Peptidoglycan (Mass)
+cellwall_c_Bifidobacteriumpseudocatenulatum	25.835455192616827	cellwall	Cell Wall polymer
+cpd00861_c_Bifidobacteriumpseudocatenulatum	1.863658679468167	cpd00861	Udp-N-Acetyl-D-Mannosamine
+cpd15952_c_Bifidobacteriumpseudocatenulatum	3.0	cpd15952	Iron(Iii) Chelated Carboxymycobactin T (R=8 Carbon, Final Carbon Is Carboxyl Group)
+cpd15940_c_Bifidobacteriumpseudocatenulatum	2.0	cpd15940	Carboxymycobactin T (R=8 Carbon, Final Carbon Is Carboxyl Group)
+cpd03491_c_Bifidobacteriumpseudocatenulatum	13.289622454776023	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd15543_c_Bifidobacteriumpseudocatenulatum	2.3272712532845476	cpd15543	Phosphatidylglycerophosphate Ditetradecanoyl
+cpd15728_c_Bifidobacteriumpseudocatenulatum	2.3269771151323546	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd15737_c_Bifidobacteriumpseudocatenulatum	2.1634885575661773	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd11852_c_Bifidobacteriumpseudocatenulatum	1.0798137255262539	cpd11852	Lipid
+cpd17041_c_Bifidobacteriumpseudocatenulatum	8.498917476121937	cpd17041	Protein Biosynthesis
+cpd00268_c_Bifidobacteriumpseudocatenulatum	1.0718138272631272	cpd00268	H2S2O3
+cpd17042_c_Bifidobacteriumpseudocatenulatum	6.642133959813625	cpd17042	Dna Replication
+cpd11459_c_Bifidobacteriumpseudocatenulatum	9.065384841633076	cpd11459	Tcam
+cpd00776_c_Bifidobacteriumpseudocatenulatum	2.0	cpd00776	Squalene 2,3-Oxide
+cpd00067_c_Parabacteroidesdistasonis	1.4945040536145258	cpd00067	H+
+cpd03422_c_Parabacteroidesdistasonis	6.906324713275282	cpd03422	Cobinamide
+cpd03918_c_Parabacteroidesdistasonis	8.001805286694827	cpd03918	Adenosyl Cobinamide
+cpd00635_c_Parabacteroidesdistasonis	4.685887079205925	cpd00635	Cbl
+cpd00166_c_Parabacteroidesdistasonis	5.7813676526254705	cpd00166	Calomide
+cpd00001_c_Parabacteroidesdistasonis	1.615004193394337	cpd00001	H2O
+cpd00957_c_Parabacteroidesdistasonis	2.456756064932134	cpd00957	2,5-Diamino-6-(5'-Phosphoribosylamino)-4-Pyrimidineone
+cpd00931_c_Parabacteroidesdistasonis	4.9085395748154905	cpd00931	5-Amino-6--5-Phosphoribosylaminouracil
+cpd00006_c_Parabacteroidesdistasonis	1.3677293509925952	cpd00006	Nadp
+cpd02720_c_Parabacteroidesdistasonis	5.035314277437421	cpd02720	5-Amino-6--5-Phosphoribitylaminouracil
+cpd01157_c_Parabacteroidesdistasonis	1.7074086794681655	cpd01157	Chitobiose
+cpd02416_c_Parabacteroidesdistasonis	1.1612064364312513	cpd02416	N-Acetyl-Beta-D-Glucosamine
+cpd00863_c_Parabacteroidesdistasonis	1.8363909222093007	cpd00863	Beta-D-Glucose 6-Phosphate
+cpd00911_c_Parabacteroidesdistasonis	1.70961621958737	cpd00911	6-Phospho-D-Glucono-1-5-Lactone
+cpd19006_c_Parabacteroidesdistasonis	1.4651460542103387	cpd19006	Alpha-D-Glucose 6-Phosphate
+cpd19036_c_Parabacteroidesdistasonis	2.4017380810547655	cpd19036	Beta-D-Fructose 1,6-Bisphosphate
+cpd19035_c_Parabacteroidesdistasonis	2.4651460542103387	cpd19035	Beta-D-Fructose 6-Phosphate
+cpd00290_c_Parabacteroidesdistasonis	2.4017380810547655	cpd00290	D-Fructose-1,6-Bisphosphate
+cpd00072_c_Parabacteroidesdistasonis	2.8363909222093007	cpd00072	D-Fructose-6-Phosphate
+cpd00202_c_Parabacteroidesdistasonis	1.439110371973614	cpd00202	Dmapp
+cpd12546_c_Parabacteroidesdistasonis	1.7758769129122616	cpd12546	Trna Containing 6-Isopentenyladenosine
+cpd00027_c_Parabacteroidesdistasonis	1.2710437633638352	cpd00027	D-Glucose
+cpd19001_c_Parabacteroidesdistasonis	1.7710437633638352	cpd19001	Alpha-D-Glucose
+cpd12754_c_Parabacteroidesdistasonis	1.2055740194576028	cpd12754	Cyanohydrin
+cpd02197_c_Parabacteroidesdistasonis	1.3002098807426052	cpd02197	5-Formyltetrahydrofolate
+cpd00060_c_Parabacteroidesdistasonis	2.449412118551902	cpd00060	L-Methionine
+cpd00017_c_Parabacteroidesdistasonis	1.4572148373407146	cpd00017	S-Adenosyl-L-Methionine
+cpd03163_c_Parabacteroidesdistasonis	4.326147959352274	cpd03163	Selenomethionine
+cpd03392_c_Parabacteroidesdistasonis	10.602106713684849	cpd03392	Se-Adenosylselenomethionine
+cpd00890_c_Parabacteroidesdistasonis	2.7942377757518333	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd00525_c_Parabacteroidesdistasonis	3.1734682306171846	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd12371_c_Parabacteroidesdistasonis	1.6771307826270265	cpd12371	Mgdg
+cpd00100_c_Parabacteroidesdistasonis	1.2325595916688556	cpd00100	Glycerol
+cpd00076_c_Parabacteroidesdistasonis	2.2056813356814127	cpd00076	Sucrose
+cpd00588_c_Parabacteroidesdistasonis	1.3979901028012254	cpd00588	Sorbitol
+cpd01743_c_Parabacteroidesdistasonis	3.615004193394337	cpd01743	Cerebroside
+cpd00910_c_Parabacteroidesdistasonis	3.6734297479308182	cpd00910	Galactinol
+cpd00121_c_Parabacteroidesdistasonis	4.140613056018481	cpd00121	L-Inositol
+cpd02021_c_Parabacteroidesdistasonis	4.805640283841042	cpd02021	Succinylbenzoyl-Coa
+cpd11217_c_Parabacteroidesdistasonis	5.669754980149474	cpd11217	1,4-Dihydroxy-2-Naphthoyl-Coa
+cpd12344_c_Parabacteroidesdistasonis	2.7844830619782472	cpd12344	R-S-Alanine
+cpd00003_c_Parabacteroidesdistasonis	1.8023821921471306	cpd00003	Nad
+cpd00102_c_Parabacteroidesdistasonis	2.2008690405273827	cpd00102	Glyceraldehyde3-Phosphate
+cpd00011_c_Parabacteroidesdistasonis	1.032284202988183	cpd00011	Co2
+cpd00024_c_Parabacteroidesdistasonis	1.240146595306379	cpd00024	2-Oxoglutarate
+cpd01270_c_Parabacteroidesdistasonis	1.714958275717692	cpd01270	Fmnh2
+cpd00050_c_Parabacteroidesdistasonis	3.9507703505425225	cpd00050	Fmn
+cpd00075_c_Parabacteroidesdistasonis	1.2430555555555556	cpd00075	Nitrite
+cpd11652_c_Parabacteroidesdistasonis	11.160138266723997	cpd11652	Phosphatidylglycerol
+cpd12801_c_Parabacteroidesdistasonis	20.08771694177914	cpd12801	Cardiolipin
+cpd00408_c_Parabacteroidesdistasonis	4.539416528690786	cpd00408	Pantoate
+cpd00712_c_Parabacteroidesdistasonis	5.5659777159570485	cpd00712	2-Dehydropantoate
+cpd00497_c_Parabacteroidesdistasonis	2.087584415870968	cpd00497	Xmp
+cpd16422_c_Parabacteroidesdistasonis	6.250747846713409	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd16423_c_Parabacteroidesdistasonis	2.1819927734109195	cpd16423	6-Thioguanosine Monophosphate
+cpd02642_c_Parabacteroidesdistasonis	4.061919223459778	cpd02642	N-5-Phosphoribosyl-Anthranilate
+cpd00956_c_Parabacteroidesdistasonis	3.0619192234597783	cpd00956	1-(2-Carboxyphenylamino)-1-Deoxyribulose 5-Phosphate
+cpd00171_c_Parabacteroidesdistasonis	3.671832345098617	cpd00171	D-Ribulose5-Phosphate
+cpd00198_c_Parabacteroidesdistasonis	4.671832345098617	cpd00198	D-Xylulose5-Phosphate
+cpd00216_c_Parabacteroidesdistasonis	4.336911108846275	cpd00216	Chorismate
+cpd00658_c_Parabacteroidesdistasonis	3.336911108846275	cpd00658	Isochorismate
+cpd00251_c_Parabacteroidesdistasonis	1.9618061101176067	cpd00251	Adpribose
+cpd00101_c_Parabacteroidesdistasonis	2.671832345098617	cpd00101	Ribose-5-Phosphate
+cpd11621_c_Parabacteroidesdistasonis	1.3077471185560343	cpd11621	Oxidizedferredoxin
+cpd00873_c_Parabacteroidesdistasonis	2.3275569736224844	cpd00873	Nicotinate Ribonucleotide
+cpd00082_c_Parabacteroidesdistasonis	1.8968144557163888	cpd00082	D-Fructose
+cpd30321_c_Parabacteroidesdistasonis	2.8997988953648735	cpd30321	Beta-D-Fructose
+cpd00156_c_Parabacteroidesdistasonis	1.3621158725748261	cpd00156	L-Valine
+cpd00123_c_Parabacteroidesdistasonis	2.57225227879917	cpd00123	3-Methyl-2-Oxobutanoate
+cpd00508_c_Parabacteroidesdistasonis	2.0	cpd00508	3Mop
+cpd00200_c_Parabacteroidesdistasonis	2.0	cpd00200	4Mop
+cpd03917_c_Parabacteroidesdistasonis	6.476196424070684	cpd03917	Adenosylcobyric Acid
+cpd03919_c_Parabacteroidesdistasonis	7.567152445540293	cpd03919	Adenosyl Cobinamide Phosphate
+cpd02295_c_Parabacteroidesdistasonis	8.095161387694763	cpd02295	1-4-Dihydroxy-2-Naphthoate
+cpd09410_c_Parabacteroidesdistasonis	5.3564227522341525	cpd09410	Demethylphylloquinone
+cpd11425_c_Parabacteroidesdistasonis	1.1960516931144038	cpd11425	2Dmmq7
+cpd02083_c_Parabacteroidesdistasonis	8.24303342444475	cpd02083	Coproporphyrinogeniii
+cpd00791_c_Parabacteroidesdistasonis	3.3206265591107087	cpd00791	Protoporphyrinogenix
+cpd00831_c_Parabacteroidesdistasonis	1.1505620784128785	cpd00831	L-Rhamnulose 1-Phosphate
+cpd00095_c_Parabacteroidesdistasonis	1.2008690405273827	cpd00095	Glycerone-Phosphate
+cpd00834_c_Parabacteroidesdistasonis	1.1996845564776208	cpd00834	Phosphopantetheine
+cpd02201_c_Parabacteroidesdistasonis	2.5725663722362473	cpd02201	4-Phosphopantothenate
+cpd11669_c_Parabacteroidesdistasonis	1.4945040536145449	cpd11669	Q
+cpd11665_c_Parabacteroidesdistasonis	3.494504053614545	cpd11665	Qh2
+cpd00878_c_Parabacteroidesdistasonis	3.6771307826270263	cpd00878	Glucocerebroside
+cpd02210_c_Parabacteroidesdistasonis	2.9091348806917843	cpd02210	Indoleglycerol Phosphate
+cpd00299_c_Parabacteroidesdistasonis	1.4778186954358183	cpd00299	Dump
+cpd02730_c_Parabacteroidesdistasonis	5.066165997422209	cpd02730	3-Deoxy-D-Manno-Octulosonate8-Phosphate
+cpd08449_c_Parabacteroidesdistasonis	2.453436781893121	cpd08449	3-Amino-2-Oxopropyl Phosphate
+cpd00478_c_Parabacteroidesdistasonis	1.5653471588454648	cpd00478	Pyridoxine Phosphate
+cpd00932_c_Parabacteroidesdistasonis	8.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd00073_c_Parabacteroidesdistasonis	2.2797038965856293	cpd00073	Urea
+cpd00157_c_Parabacteroidesdistasonis	2.18992757364868	cpd00157	Glycerone
+cpd00516_c_Parabacteroidesdistasonis	3.9648286710172194	cpd00516	Meso-2,6-Diaminopimelate
+cpd02414_c_Parabacteroidesdistasonis	6.174965077241564	cpd02414	L-2-Amino-6-Oxopimelate
+cpd00807_c_Parabacteroidesdistasonis	1.9644382848262296	cpd00807	L-Histidinol-Phosphate
+cpd00817_c_Parabacteroidesdistasonis	4.671832345098617	cpd00817	D-Arabinose5-Phosphate
+cpd00179_c_Parabacteroidesdistasonis	2.927083333333333	cpd00179	Maltose
+cpd21149_c_Parabacteroidesdistasonis	2.4124560214770296	cpd21149	N-Acetyl-Beta-Neuraminate
+cpd03653_c_Parabacteroidesdistasonis	5.41245602147703	cpd03653	Gm4
+cpd11468_c_Parabacteroidesdistasonis	1.7317813820866819	cpd11468	Dodecanoyl-Acp
+cpd11474_c_Parabacteroidesdistasonis	1.682502458784136	cpd11474	Decanoyl-Acp
+cpd00383_c_Parabacteroidesdistasonis	4.833379293659748	cpd00383	Shikimate
+cpd01716_c_Parabacteroidesdistasonis	4.844187438323697	cpd01716	3-Dehydroshikimate
+cpd02964_c_Parabacteroidesdistasonis	2.023362524679209	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd00201_c_Parabacteroidesdistasonis	2.878488539814515	cpd00201	10-Formyltetrahydrofolate
+cpd12105_c_Parabacteroidesdistasonis	4.645999204371234	cpd12105	L-Methionyl-Trna
+cpd12285_c_Parabacteroidesdistasonis	5.535479636956695	cpd12285	N-Formylmethionyl-Trna
+cpd11422_c_Parabacteroidesdistasonis	2.228179524624644	cpd11422	1,2-Diacyl-Sn-Glycerol 3-Phosphate
+cpd11427_c_Parabacteroidesdistasonis	2.6187136491196914	cpd11427	Cdp-Diacylglycerol
+cpd01620_c_Parabacteroidesdistasonis	6.990337080345905	cpd01620	Precorrin 2
+cpd03420_c_Parabacteroidesdistasonis	6.990337080345924	cpd03420	Precorrin 3A
+cpd00103_c_Parabacteroidesdistasonis	4.219479512311926	cpd00103	Prpp
+cpd00039_c_Parabacteroidesdistasonis	5.427048521643562	cpd00039	L-Lysine
+cpd20970_c_Parabacteroidesdistasonis	5.346291368710744	cpd20970	[Trna(Ile2)]-Lysidine34
+cpd02894_c_Parabacteroidesdistasonis	4.053819148341298	cpd02894	4-Amino-2-Methyl-5-Diphosphomethylpyrimidine
+cpd00793_c_Parabacteroidesdistasonis	4.646109002403955	cpd00793	Thiamine Phosphate
+cpd00167_c_Parabacteroidesdistasonis	4.521091212657528	cpd00167	Ceramide
+cpd11657_c_Parabacteroidesdistasonis	2.312079139938996	cpd11657	Starch
+cpd11594_c_Parabacteroidesdistasonis	2.79669478382146	cpd11594	Dextrin
+cpd01982_c_Parabacteroidesdistasonis	1.294156214229572	cpd01982	5-Phosphoribosylamine
+cpd12100_c_Parabacteroidesdistasonis	1.4726810807945898	cpd12100	Glycyl-Trna(Gly)
+cpd02882_c_Parabacteroidesdistasonis	11.11187338818446	cpd02882	4--1-D-Ribitylamino-5-Aminouracil
+cpd02656_c_Parabacteroidesdistasonis	5.692650704299176	cpd02656	6-7-Dimethyl-8--1-D-Ribityllumazine
+cpd00517_c_Parabacteroidesdistasonis	1.5194706505673008	cpd00517	1-Acyl-Sn-Glycerol 3-Phosphate
+cpd00905_c_Parabacteroidesdistasonis	2.109753044017727	cpd00905	Guanosine 3',5'-Bis(Diphosphate)
+cpd00722_c_Parabacteroidesdistasonis	2.4496707249420995	cpd00722	O-Acetyl-L-Serine
+cpd11421_c_Parabacteroidesdistasonis	1.109386224045545	cpd11421	Trdrd
+cpd00790_c_Parabacteroidesdistasonis	1.8723616304554305	cpd00790	O-Acetyl-L-Homoserine
+cpd00359_c_Parabacteroidesdistasonis	1.7082658401644015	cpd00359	Indol
+cpd08994_c_Parabacteroidesdistasonis	1.0421277137775888	cpd08994	Iminoerythrose 4-Phosphate
+cpd00204_c_Parabacteroidesdistasonis	1.3212544144075267	cpd00204	Co
+cpd00840_c_Parabacteroidesdistasonis	4.427048521643562	cpd00840	L-Beta-Lysine
+cpd00349_c_Parabacteroidesdistasonis	2.87744609340285	cpd00349	Sedoheptulose 1,7-Bisphosphate
+cpd00802_c_Parabacteroidesdistasonis	1.6924600474998082	cpd00802	D-Fructose-1-Phosphate
+cpd02211_c_Parabacteroidesdistasonis	1.4559452877842207	cpd02211	L-2-Amino-Acetoacetate
+cpd08367_c_Parabacteroidesdistasonis	1.3613163240771362	cpd08367	(2R)-3-Sulfolactate
+cpd03285_c_Parabacteroidesdistasonis	1.7479165555980014	cpd03285	3-Sulfopyruvate
+cpd00235_c_Parabacteroidesdistasonis	2.530268877616938	cpd00235	D-Mannose-6-Phosphate
+cpd00918_c_Parabacteroidesdistasonis	3.2402427214260783	cpd00918	2-Acetamido-5-Oxopentanoate
+cpd01997_c_Parabacteroidesdistasonis	1.7679320740284161	cpd01997	Dimethylbenzimidazole
+cpd00218_c_Parabacteroidesdistasonis	1.645103710695854	cpd00218	Niacin
+cpd02904_c_Parabacteroidesdistasonis	1.9558812833405206	cpd02904	Alpha-Ribazole 5'-Phosphate
+cpd15565_c_Parabacteroidesdistasonis	4.009939056960116	cpd15565	L-Seryl-Trna(Sec)
+cpd00259_c_Parabacteroidesdistasonis	3.1064851862531517	cpd00259	D-Lyxulose
+cpd12704_c_Parabacteroidesdistasonis	10.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd02920_c_Parabacteroidesdistasonis	13.412126220190332	cpd02920	2-Amino-4-Hydroxy-6-Hydroxymethyl-7-8-Dihydropteridinediphosphate
+cpd00683_c_Parabacteroidesdistasonis	15.450343900110067	cpd00683	Dihydropteroate
+cpd00954_c_Parabacteroidesdistasonis	15.358983106591548	cpd00954	6-Hydroxymethyl Dihydropterin
+cpd17467_c_Parabacteroidesdistasonis	3.257474219315727	cpd17467	Trna Containing S2U
+cpd02862_c_Parabacteroidesdistasonis	10.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd02948_c_Parabacteroidesdistasonis	12.722718231046123	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd02968_c_Parabacteroidesdistasonis	4.502086154695959	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd03494_c_Parabacteroidesdistasonis	4.766529525250851	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd00083_c_Parabacteroidesdistasonis	1.8291928686289394	cpd00083	Gdp-Mannose
+cpd00214_c_Parabacteroidesdistasonis	4.097834205099659	cpd00214	Palmitate
+cpd02678_c_Parabacteroidesdistasonis	6.336689217279089	cpd02678	N-Formyl-Gar
+cpd00347_c_Parabacteroidesdistasonis	1.768735495796787	cpd00347	5-10-Methenyltetrahydrofolate
+cpd02394_c_Parabacteroidesdistasonis	5.447208784693627	cpd02394	Gar
+cpd02229_c_Parabacteroidesdistasonis	2.0	cpd02229	Bactoprenyl Diphosphate
+cpd03495_c_Parabacteroidesdistasonis	4.7845521993441995	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd03491_c_Parabacteroidesdistasonis	12.44587245477602	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd11454_c_Parabacteroidesdistasonis	5.331911615707186	cpd11454	Phosphatidylglycerophosphate
+cpd00485_c_Parabacteroidesdistasonis	1.5302688776169382	cpd00485	D-Mannose1-Phosphate
+cpd01775_c_Parabacteroidesdistasonis	3.240625326077434	cpd01775	Phosphoribosyl-Atp
+cpd01777_c_Parabacteroidesdistasonis	3.9611341944079106	cpd01777	Phosphoribosyl-Amp
+cpd02979_c_Parabacteroidesdistasonis	6.5761383878022475	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd06201_c_Parabacteroidesdistasonis	1.842527302698298	cpd06201	Sulfur Dioxide
+cpd03666_c_Parabacteroidesdistasonis	3.241743142987132	cpd03666	2,5-Diamino-6-(5'-Triphosphoryl-3',4'-Trihydroxy-2'-Oxopentyl)- Amino-4-Oxopyrimidine
+cpd03519_c_Parabacteroidesdistasonis	2.241743142987132	cpd03519	2,5-Diaminopyrimidine Nucleoside Triphosphate
+cpd00026_c_Parabacteroidesdistasonis	1.0087238760997541	cpd00026	Udp-Glucose
+cpd00242_c_Parabacteroidesdistasonis	1.6863479712438723	cpd00242	H2Co3
+cpd00056_c_Parabacteroidesdistasonis	2.0	cpd00056	Tpp
+cpd14698_c_Parabacteroidesdistasonis	3.4622198506263424	cpd14698	3-Methyl-1-Hydroxybutyl-Tpp
+cpd14702_c_Parabacteroidesdistasonis	5.462219850626342	cpd14702	2-Methyl-1-Hydroxybutyl-Tpp
+cpd14703_c_Parabacteroidesdistasonis	1.9451889117601227	cpd14703	S-(2-Methylbutanoyl)-Dihydrolipoamide-E
+cpd02700_c_Parabacteroidesdistasonis	3.0119452441738197	cpd02700	S-(2-Methylpropionyl)-Dihydrolipoamide
+cpd14700_c_Parabacteroidesdistasonis	6.034472129425513	cpd14700	2-Methyl-1-Hydroxypropyl-Tpp
+cpd00118_c_Parabacteroidesdistasonis	1.1996845564776208	cpd00118	Putrescine
+cpd12407_c_Parabacteroidesdistasonis	4.439831434177069	cpd12407	Dolichyl Phosphate D-Mannose
+cpd00510_c_Parabacteroidesdistasonis	1.2008690405273827	cpd00510	Deoxyribose-5-Phosphate
+cpd00350_c_Parabacteroidesdistasonis	1.2319561064050535	cpd00350	Farnesyldiphosphate
+cpd02991_c_Parabacteroidesdistasonis	7.5761383878022475	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd02843_c_Parabacteroidesdistasonis	5.744723225341446	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd00305_c_Parabacteroidesdistasonis	2.4523528327866906	cpd00305	Thiamin
+cpd02961_c_Parabacteroidesdistasonis	12.513513750370265	cpd02961	Dihydroneopterin
+cpd02016_c_Parabacteroidesdistasonis	5.45319189277583	cpd02016	N-Ribosylnicotinamide
+cpd01217_c_Parabacteroidesdistasonis	1.7929016367978194	cpd01217	Xanthosine
+cpd03471_c_Parabacteroidesdistasonis	3.823957953684318	cpd03471	Nicotinate D-Ribonucleoside
+cpd00246_c_Parabacteroidesdistasonis	3.24911993222594	cpd00246	Inosine
+cpd00311_c_Parabacteroidesdistasonis	1.666763841059339	cpd00311	Guanosine
+cpd02140_c_Parabacteroidesdistasonis	2.6734586946839953	cpd02140	Air
+cpd03606_c_Parabacteroidesdistasonis	1.8372799912219504	cpd03606	2-Oxo-3-Hydroxy-4-Phosphobutanoate
+cpd00284_c_Parabacteroidesdistasonis	1.8577222422559425	cpd00284	6-Phospho-D-Gluconate
+cpd00069_c_Parabacteroidesdistasonis	2.7898635937756557	cpd00069	L-Tyrosine
+cpd00868_c_Parabacteroidesdistasonis	4.0	cpd00868	P-Hydroxyphenylpyruvate
+cpd00930_c_Parabacteroidesdistasonis	5.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00143_c_Parabacteroidesdistasonis	3.376870864522761	cpd00143	Phenylpyruvate
+cpd00066_c_Parabacteroidesdistasonis	2.166734458298417	cpd00066	L-Phenylalanine
+cpd00351_c_Parabacteroidesdistasonis	3.688117577286433	cpd00351	Saccharopine
+cpd12370_c_Parabacteroidesdistasonis	2.0328148655908844	cpd12370	Apo-Acp
+cpd03397_c_Parabacteroidesdistasonis	1.9812053884402605	cpd03397	Selenohomocysteine
+cpd12543_c_Parabacteroidesdistasonis	2.777303992713481	cpd12543	Carboxybiotin-Carboxyl-Carrier Protein
+cpd11492_c_Parabacteroidesdistasonis	1.576200701280485	cpd11492	Malonyl-Acyl-Carrierprotein-
+cpd03732_c_Parabacteroidesdistasonis	1.7123055117863208	cpd03732	Udp-N-Acetyl-D-Mannosaminouronate
+cpd02857_c_Parabacteroidesdistasonis	1.9269915071611625	cpd02857	Dahp
+cpd00699_c_Parabacteroidesdistasonis	6.198171853174555	cpd00699	5-Dehydroquinate
+cpd00638_c_Parabacteroidesdistasonis	3.194746636392794	cpd00638	Deamido-Nad
+cpd00016_c_Parabacteroidesdistasonis	1.3333680764232378	cpd00016	Pyridoxal Phosphate
+cpd00263_c_Parabacteroidesdistasonis	2.0	cpd00263	Pyridoxol
+cpd11485_c_Parabacteroidesdistasonis	2.3567374582216467	cpd11485	3-Oxohexadecanoyl-Acp
+cpd11489_c_Parabacteroidesdistasonis	4.093236170237158	cpd11489	3-Oxododecanoyl-Acp
+cpd11482_c_Parabacteroidesdistasonis	2.1707319495565427	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd11487_c_Parabacteroidesdistasonis	2.043957246934612	cpd11487	3-Oxodecanoyl-Acp
+cpd11491_c_Parabacteroidesdistasonis	2.2428830147880996	cpd11491	3-Oxotetradecanoyl-Acp
+cpd11490_c_Parabacteroidesdistasonis	1.1600054348362507	cpd11490	3-Oxooctanoyl-Acp
+cpd02315_c_Parabacteroidesdistasonis	1.0079910931383358	cpd02315	6-Pyruvoyltetrahydropterin
+cpd21472_c_Parabacteroidesdistasonis	1.2637588919723681	cpd21472	6-Carboxy-5,6,7,8-Tetrahydropterin
+cpd00504_c_Parabacteroidesdistasonis	3.2273639651659414	cpd00504	Ll-2,6-Diaminopimelate
+cpd02835_c_Parabacteroidesdistasonis	2.359166309546759	cpd02835	Udp-2,3-Bis(3-Hydroxytetradecanoyl)Glucosamine
+cpd03920_c_Parabacteroidesdistasonis	5.866076436552294	cpd03920	Adenosylcobinamide-Gdp
+cpd00227_c_Parabacteroidesdistasonis	3.811292505512545	cpd00227	L-Homoserine
+cpd00822_c_Parabacteroidesdistasonis	5.877732297714439	cpd00822	O-Succinyl-L-Homoserine
+cpd08210_c_Parabacteroidesdistasonis	2.0	cpd08210	Adc
+cpd02724_c_Parabacteroidesdistasonis	1.1652807471208795	cpd02724	N-Succinyl-L-2-Amino-6-Oxopimelate
+cpd11455_c_Parabacteroidesdistasonis	5.358251433766833	cpd11455	Ps_Bs
+cpd11456_c_Parabacteroidesdistasonis	5.166935211470524	cpd11456	Phosphatidylethanolamine
+cpd11911_c_Parabacteroidesdistasonis	5.268663745285052	cpd11911	Trna(Gln)
+cpd12060_c_Parabacteroidesdistasonis	3.6039227748993126	cpd12060	Gln-Trna(Gln)
+cpd00149_c_Parabacteroidesdistasonis	1.103155170606371	cpd00149	Co2+
+cpd00644_c_Parabacteroidesdistasonis	2.044118716659488	cpd00644	Pan
+cpd00805_c_Parabacteroidesdistasonis	3.9460357814846683	cpd00805	D-Tagatose 6-Phosphate
+cpd02371_c_Parabacteroidesdistasonis	3.511382940330133	cpd02371	D-Tagatose 1,6-Biphosphate
+cpd00068_c_Parabacteroidesdistasonis	1.918114137709371	cpd00068	Itp
+cpd00090_c_Parabacteroidesdistasonis	1.4120931718084364	cpd00090	Idp
+cpd01487_c_Parabacteroidesdistasonis	4.106485186253152	cpd01487	Alpha-D-Xylose
+cpd08615_c_Parabacteroidesdistasonis	4.498731072337433	cpd08615	1-Hydroxy-2-Methyl-2-Butenyl 4-Diphosphate
+cpd11451_c_Parabacteroidesdistasonis	1.196051693114423	cpd11451	Mql7
+cpd03447_c_Parabacteroidesdistasonis	2.338420878784599	cpd03447	2-Octaprenyl-6-Methoxy-1,4-Benzoquinone
+cpd01401_c_Parabacteroidesdistasonis	3.0180018734495535	cpd01401	Vitamin K1
+cpd00809_c_Parabacteroidesdistasonis	2.423104585988407	cpd00809	O-Phospho-L-Homoserine
+cpd03398_c_Parabacteroidesdistasonis	1.2549418500626714	cpd03398	Selenocystathionine
+cpd02030_c_Parabacteroidesdistasonis	6.398726452505213	cpd02030	3-Phosphoshikimate
+cpd21032_c_Parabacteroidesdistasonis	1.2043004475260166	cpd21032	5'-S-Methyl-5'-Thioinosine
+cpd00810_c_Parabacteroidesdistasonis	1.187949209312106	cpd00810	Orotidylic Acid
+cpd06227_c_Parabacteroidesdistasonis	3.615470264166169	cpd06227	Thf-L-Glutamate
+cpd02535_c_Parabacteroidesdistasonis	2.615004193394337	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd19030_c_Parabacteroidesdistasonis	3.187256472193507	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd02498_c_Parabacteroidesdistasonis	3.1872564721935084	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd00764_c_Parabacteroidesdistasonis	3.4301138071881314	cpd00764	7-8-Diaminononanoate
+cpd01311_c_Parabacteroidesdistasonis	2.0	cpd01311	Dethiobiotin
+cpd00668_c_Parabacteroidesdistasonis	3.060481769571578	cpd00668	Alctt
+cpd03049_c_Parabacteroidesdistasonis	3.2613508100989606	cpd03049	2-Hydroxyethyl-Thpp
+cpd19047_c_Parabacteroidesdistasonis	3.0604817695715765	cpd19047	(S)-2-Acetolactate
+cpd00094_c_Parabacteroidesdistasonis	1.005968080493746	cpd00094	2-Oxobutyrate
+cpd00498_c_Parabacteroidesdistasonis	3.267318890592706	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd00939_c_Parabacteroidesdistasonis	1.6734586946839953	cpd00939	Toxopyrimidine
+cpd00159_c_Parabacteroidesdistasonis	2.2208036548069736	cpd00159	L-Lactate
+cpd01502_c_Parabacteroidesdistasonis	3.606379832495184	cpd01502	Citraconate
+cpd03593_c_Parabacteroidesdistasonis	5.94461120474373	cpd03593	D-Erythro-3-Methylmalate
+cpd02693_c_Parabacteroidesdistasonis	1.0007192132456362	cpd02693	3-Isopropylmalate
+cpd01700_c_Parabacteroidesdistasonis	4.221384025889521	cpd01700	D-Citramalate
+cpd11920_c_Parabacteroidesdistasonis	1.102834588955493	cpd11920	Trna(Pro)
+cpd00226_c_Parabacteroidesdistasonis	2.564769742852002	cpd00226	Hyxn
+cpd00133_c_Parabacteroidesdistasonis	3.2743376497873657	cpd00133	Nicotinamide
+cpd03279_c_Parabacteroidesdistasonis	2.9741542567019437	cpd03279	Deoxyinosine
+cpd00977_c_Parabacteroidesdistasonis	3.469121462632229	cpd00977	Ditp
+cpd00530_c_Parabacteroidesdistasonis	3.2829066972241785	cpd00530	Xtp
+cpd00358_c_Parabacteroidesdistasonis	1.7845557747304452	cpd00358	Dutp
+cpd02738_c_Parabacteroidesdistasonis	1.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd12335_c_Parabacteroidesdistasonis	3.8088944076769167	cpd12335	L-Phenylalanyl-Trna(Phe)
+cpd00978_c_Parabacteroidesdistasonis	1.2666495476738486	cpd00978	Dudp
+cpd00346_c_Parabacteroidesdistasonis	3.6845178028906145	cpd00346	L-Aspartate4-Semialdehyde
+cpd00074_c_Parabacteroidesdistasonis	1.5780605489244213	cpd00074	S
+cpd03388_c_Parabacteroidesdistasonis	3.924032702029593	cpd03388	Adenylylselenate
+cpd03395_c_Parabacteroidesdistasonis	5.489379860875058	cpd03395	3'-Phosphoadenylylselenate
+cpd14955_c_Parabacteroidesdistasonis	1.4530702985658113	cpd14955	Lipoyl-Amp
+cpd03914_c_Parabacteroidesdistasonis	2.316133216511492	cpd03914	Cob(Ii)Yrinate Diamide
+cpd03832_c_Parabacteroidesdistasonis	4.253558958954317	cpd03832	Hydrogenobyrinate
+cpd03913_c_Parabacteroidesdistasonis	7.99165717098966	cpd03913	Hydrogenobyrinate Diamide
+cpd00105_c_Parabacteroidesdistasonis	3.1064851862531517	cpd00105	D-Ribose
+cpd16443_c_Parabacteroidesdistasonis	3.2993543827682745	cpd16443	Beta-D-Ribofuranose
+cpd12479_c_Parabacteroidesdistasonis	1.4945040536145449	cpd12479	Rrna Containing N2-Methylguanine
+cpd16329_c_Parabacteroidesdistasonis	2.8314151624608	cpd16329	Doxifluridine
+cpd00196_c_Parabacteroidesdistasonis	1.0431154194496233	cpd00196	Acetylphosphate
+cpd00492_c_Parabacteroidesdistasonis	2.161206436431251	cpd00492	N-Acetyl-D-Mannosamine
+cpd02832_c_Parabacteroidesdistasonis	5.2716703070499005	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd02142_c_Parabacteroidesdistasonis	2.462219850626343	cpd02142	Bis(3-Aminopropyl)Amine
+cpd02255_c_Parabacteroidesdistasonis	2.462219850626343	cpd02255	3-Oxoadipate-Enol-Lactone
+cpd12678_c_Parabacteroidesdistasonis	3.1669352114705243	cpd12678	1-Radyl-2-Acyl-Sn-Glycero-3-Phosphocholine
+cpd00049_c_Parabacteroidesdistasonis	6.287435351250336	cpd00049	Carboxylic Acid
+cpd12606_c_Parabacteroidesdistasonis	3.1669352114705243	cpd12606	Plasmenylethanolamine
+cpd02886_c_Parabacteroidesdistasonis	1.108959244507843	cpd02886	Udp-3-O-(Beta-Hydroxymyristoyl)-N-Acetylglucosamine
+cpd00220_c_Parabacteroidesdistasonis	2.7679320740284163	cpd00220	Riboflavin
+cpd03846_c_Parabacteroidesdistasonis	2.3549874596334472	cpd03846	Octanoate
+cpd01107_c_Parabacteroidesdistasonis	3.7701877329730626	cpd01107	Decanoate
+cpd01741_c_Parabacteroidesdistasonis	3.0740444304398924	cpd01741	Ddca
+cpd03387_c_Parabacteroidesdistasonis	1.0625000000000009	cpd03387	Selenite
+cpd20163_c_Parabacteroidesdistasonis	1.5026281258560217	cpd20163	Methylselenic Acid
+cpd00219_c_Parabacteroidesdistasonis	3.9469401580680503	cpd00219	Prephenate
+cpd11986_c_Parabacteroidesdistasonis	1.5840380045242197	cpd11986	Trna Queuine
+cpd00406_c_Parabacteroidesdistasonis	1.4622198506263429	cpd00406	Hypotaurine
+cpd20921_c_Parabacteroidesdistasonis	1.6022529282708706	cpd20921	Malonyl-Coa Methyl Ester
+cpd01326_c_Parabacteroidesdistasonis	6.320679836064778	cpd01326	L-Lysyl-Trna
+cpd00283_c_Parabacteroidesdistasonis	2.0890989635479107	cpd00283	Geranyldiphosphate
+cpd08301_c_Parabacteroidesdistasonis	5.925645839841055	cpd08301	2-C-Methyl-D-Erythritol2-4-Cyclodiphosphate
+cpd02569_c_Parabacteroidesdistasonis	3.060481769571578	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd10162_c_Parabacteroidesdistasonis	4.267318890592707	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd00755_c_Parabacteroidesdistasonis	5.520854309281303	cpd00755	Hydroxymethylbilane
+cpd00774_c_Parabacteroidesdistasonis	4.444295198534266	cpd00774	Uroporphyrinogeniii
+cpd19041_c_Parabacteroidesdistasonis	1.210136406224344	cpd19041	D-4-Hydroxy-2-Oxoglutarate
+cpd03284_c_Parabacteroidesdistasonis	1.210136406224344	cpd03284	3-Sulfinopyruvate
+cpd12194_c_Parabacteroidesdistasonis	1.779656943792764	cpd12194	L-Tyrosyl-Trna(Tyr)
+cpd01772_c_Parabacteroidesdistasonis	4.163480334462542	cpd01772	Succinylbenzoate
+cpd03584_c_Parabacteroidesdistasonis	1.7406992309125475	cpd03584	Udp-3-O-(Beta-Hydroxymyristoyl)-D-Glucosamine
+cpd03396_c_Parabacteroidesdistasonis	1.2941829501009723	cpd03396	Selenate
+cpd11423_c_Parabacteroidesdistasonis	2.6628323657791793	cpd11423	1,2-Diacyl-Sn-Glycerol
+cpd12003_c_Parabacteroidesdistasonis	1.2834922754219984	cpd12003	L-Leucyl-Trna
+cpd03736_c_Parabacteroidesdistasonis	2.9381591267483245	cpd03736	Lauroyl-Kdo2-Lipid Iv(A)
+cpd16419_c_Parabacteroidesdistasonis	2.6902334393302585	cpd16419	6-Methylthioinosine-5'-Monophosphate
+cpd01590_c_Parabacteroidesdistasonis	2.4521820661873095	cpd01590	Mercaptopurine
+cpd02775_c_Parabacteroidesdistasonis	2.870980871827192	cpd02775	4-Amino-5-Phosphomethyl-2-Methylpyrimidine
+cpd00616_c_Parabacteroidesdistasonis	3.1770182319906564	cpd00616	Pretyrosine
+cpd01486_c_Parabacteroidesdistasonis	4.106485186253152	cpd01486	Alpha-D-Lyxose
+cpd12133_c_Parabacteroidesdistasonis	3.004275821953326	cpd12133	L-Valyl-Trna(Val)
+cpd02711_c_Parabacteroidesdistasonis	2.0	cpd02711	2-Keto-3-Deoxy-6-Phosphogluconate
+cpd03566_c_Parabacteroidesdistasonis	2.6131139589182535	cpd03566	Acetyl Adenylate
+cpd03560_c_Parabacteroidesdistasonis	2.513298665174265	cpd03560	Propionyladenylate
+cpd03418_c_Parabacteroidesdistasonis	13.347813465230637	cpd03418	Coproporphyrin Iii
+cpd00030_c_Parabacteroidesdistasonis	1.9383342228995808	cpd00030	Mn2+
+cpd08766_c_Parabacteroidesdistasonis	6.443505648953943	cpd08766	6,8A-Seco-6,8A-Deoxy-5-Oxoavermectin ''2A'' Aglycone
+cpd15309_c_Parabacteroidesdistasonis	1.9999999999999956	cpd15309	1,2-Diacyl-Sn-Glycerol Dihexadecanoyl
+cpd15737_c_Parabacteroidesdistasonis	4.163087870724931	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd17042_c_Parabacteroidesdistasonis	25.767818929400498	cpd17042	Dna Replication
+cpd15307_c_Parabacteroidesdistasonis	1.9999999999999956	cpd15307	1,2-Diacyl-Sn-Glycerol Ditetradecanoyl
+cpd15738_c_Parabacteroidesdistasonis	4.163087870724931	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd11211_c_Parabacteroidesdistasonis	5.027679529854103	cpd11211	Dihydromonacolin L
+cpd11459_c_Parabacteroidesdistasonis	11.065384841633076	cpd11459	Tcam
+cpd15540_c_Parabacteroidesdistasonis	6.429187393718154	cpd15540	Phosphatidylglycerol Dioctadecanoyl
+cpd00099_c_Parabacteroidesdistasonis	1.4691671114497904	cpd00099	Cl-
+cpd01306_c_Parabacteroidesdistasonis	3.0	cpd01306	Cycloartenol
+cpd03221_c_Parabacteroidesdistasonis	4.0	cpd03221	Zymosterol
+cpd00254_c_Parabacteroidesdistasonis	1.8766684457991616	cpd00254	Mg
+cpd00971_c_Parabacteroidesdistasonis	2.22528350070661	cpd00971	Na+
+cpd00063_c_Parabacteroidesdistasonis	1.9383342228995808	cpd00063	Ca2+
+cpd10515_c_Parabacteroidesdistasonis	1.5	cpd10515	Fe+2
+cpd00205_c_Parabacteroidesdistasonis	1.8766684457991616	cpd00205	K+
+cpd00015_c_Parabacteroidesdistasonis	3.362046323352445	cpd00015	Fad
+cpd17041_c_Parabacteroidesdistasonis	116.32083083146826	cpd17041	Protein Biosynthesis
+cpd15729_c_Parabacteroidesdistasonis	4.326977115132355	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd29330_c_Parabacteroidesdistasonis	3.835697465852861	cpd29330	Long-Chain-Acyl-Coas
+cpd15543_c_Parabacteroidesdistasonis	6.429187393718154	cpd15543	Phosphatidylglycerophosphate Ditetradecanoyl
+cpd17043_c_Parabacteroidesdistasonis	13.888129947986013	cpd17043	Rna Transcription
+cpd11852_c_Parabacteroidesdistasonis	1.1813384607643453	cpd11852	Lipid
+cpd11450_c_Parabacteroidesdistasonis	1.3314161828895892	cpd11450	M12Dg_Bs
+cpd00776_c_Parabacteroidesdistasonis	2.0	cpd00776	Squalene 2,3-Oxide
+cpd15545_c_Parabacteroidesdistasonis	6.429187393718154	cpd15545	Phosphatidylglycerophosphate Dihexadecanoyl
+cpd15728_c_Parabacteroidesdistasonis	4.326977115132355	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd12704_e	9.037536165015188	cpd12704	Selenomethionyl-Trna(Met)
+cpd02140_e	1.6734586946839953	cpd02140	Air
+cpd11427_e	1.6187136491196914	cpd11427	Cdp-Diacylglycerol
+cpd00443_e	1.271715169747894	cpd00443	Abee
+cpd00123_e	1.6598040399168723	cpd00123	3-Methyl-2-Oxobutanoate
+cpd12507_e	2.4938306912775827	cpd12507	O-D-Alanyl-Poly(Ribitol Phosphate)
+cpd12335_e	2.8088944076769167	cpd12335	L-Phenylalanyl-Trna(Phe)
+cpd00143_e	2.376870864522761	cpd00143	Phenylpyruvate
+cpd00238_e	1.195207890900162	cpd00238	Sedoheptulose7-Phosphate
+cpd03561_e	1.635534297687259	cpd03561	2-Hydroxybutyrate
+cpd03914_e	1.3161332165114923	cpd03914	Cob(Ii)Yrinate Diamide
+cpd00918_e	2.2402427214260783	cpd00918	2-Acetamido-5-Oxopentanoate
+cpd00890_e	3.7942377757518333	cpd00890	Udp-N-Acetylmuramoyl-L-Alanine
+cpd03420_e	7.171938882994672	cpd03420	Precorrin 3A
+cpd00083_e	2.4991576271216	cpd00083	Gdp-Mannose
+cpd28246_e	5.1637826957183695	cpd28246	Teichoic-P-Gro
+cpd01502_e	2.606379832495184	cpd01502	Citraconate
+cpd00120_e	2.251807327643177	cpd00120	Butyryl-Coa
+cpd00069_e	2.310535481160535	cpd00069	L-Tyrosine
+cpd02843_e	6.422310352478944	cpd02843	D-Erythro-Imidazol-Glycerol-Phosphate
+cpd00809_e	1.423104585988407	cpd00809	O-Phospho-L-Homoserine
+cpd03495_e	3.7845521993441995	cpd03495	Undecaprenyl-Diphospho-N-Acetylmuramoyl--N-Acetylglucosamine-L-Ala-D-Glu-Meso-2-6-Diaminopimeloyl-D-Ala-D-Ala
+cpd02142_e	1.8250837188157933	cpd02142	Bis(3-Aminopropyl)Amine
+cpd03517_e	1.4718212003287643	cpd03517	Biotinyl-5-Amp
+cpd01775_e	4.201215467427792	cpd01775	Phosphoribosyl-Atp
+cpd30321_e	1.8997988953648735	cpd30321	Beta-D-Fructose
+cpd02255_e	1.8250837188157933	cpd02255	3-Oxoadipate-Enol-Lactone
+cpd11211_e	6.027679529854103	cpd11211	Dihydromonacolin L
+cpd00039_e	4.427048521643562	cpd00039	L-Lysine
+cpd00350_e	2.2319561064050535	cpd00350	Farnesyldiphosphate
+cpd00668_e	3.0245965994316797	cpd00668	Alctt
+cpd00620_e	1.6712369009008614	cpd00620	Pantetheine
+cpd02882_e	10.11187338818446	cpd02882	4--1-D-Ribitylamino-5-Aminouracil
+cpd00868_e	3.0	cpd00868	P-Hydroxyphenylpyruvate
+cpd02693_e	1.3382313722485455	cpd02693	3-Isopropylmalate
+cpd19030_e	3.998035412165417	cpd19030	(R)-2,3-Dihydroxy-3-Methylbutanoate
+cpd00650_e	1.7777085854568155	cpd00650	Crotonyl-Coa
+cpd00956_e	4.061919223459778	cpd00956	1-(2-Carboxyphenylamino)-1-Deoxyribulose 5-Phosphate
+cpd00226_e	1.5647697428520022	cpd00226	Hyxn
+cpd00015_e	2.362046323352445	cpd00015	Fad
+cpd02857_e	2.9269915071611625	cpd02857	Dahp
+cpd00138_e	1.4671833080876624	cpd00138	D-Mannose
+cpd03919_e	8.531968805074744	cpd03919	Adenosyl Cobinamide Phosphate
+cpd12256_e	1.219622215471888	cpd12256	L-Isoleucyl-Trna(Ile)
+cpd15738_e	3.1634885575661773	cpd15738	Monoglucosyl-1,2 Dimyristoylglycerol
+cpd08615_e	3.498731072337433	cpd08615	1-Hydroxy-2-Methyl-2-Butenyl 4-Diphosphate
+cpd11468_e	1.6946438931111856	cpd11468	Dodecanoyl-Acp
+cpd00383_e	5.833379293659748	cpd00383	Shikimate
+cpd11456_e	4.166935211470524	cpd11456	Phosphatidylethanolamine
+cpd08287_e	1.559969286812842	cpd08287	4--Cytidine5-Diphospho-2-C-Methyl-D-Erythritol
+cpd00358_e	2.7845557747304452	cpd00358	Dutp
+cpd11491_e	1.2428830147880998	cpd11491	3-Oxotetradecanoyl-Acp
+cpd03606_e	1.8653564672089584	cpd03606	2-Oxo-3-Hydroxy-4-Phosphobutanoate
+cpd00118_e	2.199684556477621	cpd00118	Putrescine
+cpd02371_e	4.511382940330133	cpd02371	D-Tagatose 1,6-Biphosphate
+cpd02991_e	7.29381717462557	cpd02991	Phosphoribulosylformimino-Aicar-Phosphate
+cpd00349_e	1.8774460934028498	cpd00349	Sedoheptulose 1,7-Bisphosphate
+cpd16661_e	17.33953197892003	cpd16661	Generic Peptidoglycan (Mass)
+cpd02120_e	1.1204049565060217	cpd02120	Dihydrodipicolinate
+cpd00421_e	1.1571929391017588	cpd00421	Triphosphate
+cpd20345_e	1.5530675780270076	cpd20345	Trna With A 3' Cca End
+cpd00498_e	2.267318890592706	cpd00498	2-Aceto-2-Hydroxybutanoate
+cpd00655_e	1.2261836361236553	cpd00655	Dephospho-Coa
+cpd00525_e	4.173468230617185	cpd00525	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamate
+cpd00492_e	2.0	cpd00492	N-Acetyl-D-Mannosamine
+cpd02893_e	1.9406738070554697	cpd02893	5'-Phosphoribosyl-4-Carboxy-5-Aminoimidazole
+cpd02678_e	5.487801618906048	cpd02678	N-Formyl-Gar
+cpd15729_e	3.3269771151323546	cpd15729	Diglucosyl-1,2 Dimyristoylglycerol
+cpd00706_e	1.8688366264313503	cpd00706	Mercaptopyruvate
+cpd18071_e	1.6318385444299779	cpd18071	Ethylnitronate
+cpd03049_e	4.2613508100989606	cpd03049	2-Hydroxyethyl-Thpp
+cpd00478_e	2.565347158845465	cpd00478	Pyridoxine Phosphate
+cpd00202_e	2.439110371973614	cpd00202	Dmapp
+cpd01716_e	5.844187438323697	cpd01716	3-Dehydroshikimate
+cpd03426_e	1.7616611049032225	cpd03426	Sirohydrochlorin
+cpd00100_e	1.1633663863824177	cpd00100	Glycerol
+cpd00218_e	1.6216438386879073	cpd00218	Niacin
+cpd00050_e	2.9507703505425225	cpd00050	Fmn
+cpd02656_e	4.692650704299176	cpd02656	6-7-Dimethyl-8--1-D-Ribityllumazine
+cpd00121_e	5.140613056018481	cpd00121	L-Inositol
+cpd00530_e	4.2829066972241785	cpd00530	Xtp
+cpd00793_e	5.109753044017728	cpd00793	Thiamine Phosphate
+cpd00171_e	2.7242445863289277	cpd00171	D-Ribulose5-Phosphate
+cpd00978_e	2.2666495476738486	cpd00978	Dudp
+cpd12815_e	4.606314116316609	cpd12815	Diglucosyl-Diacylglycerol
+cpd00408_e	5.539416528690786	cpd00408	Pantoate
+cpd19036_e	2.0915436464921937	cpd19036	Beta-D-Fructose 1,6-Bisphosphate
+cpd00297_e	1.0001276828122	cpd00297	Dtdp
+cpd00616_e	4.177018231990656	cpd00616	Pretyrosine
+cpd00946_e	1.9875975942847903	cpd00946	Undecaprenyl Diphospho N-Acetyl-Glucosamine
+cpd01326_e	7.320679836064778	cpd01326	L-Lysyl-Trna
+cpd00133_e	2.2743376497873657	cpd00133	Nicotinamide
+cpd00076_e	1.9627531681589534	cpd00076	Sucrose
+cpd00939_e	2.6734586946839953	cpd00939	Toxopyrimidine
+cpd02394_e	6.447208784693627	cpd02394	Gar
+cpd20970_e	4.346291368710744	cpd20970	[Trna(Ile2)]-Lysidine34
+cpd03455_e	2.468254626605772	cpd03455	3-Mercaptolactate
+cpd00157_e	1.18992757364868	cpd00157	Glycerone
+cpd12133_e	3.525040518938126	cpd12133	L-Valyl-Trna(Val)
+cpd03833_e	2.6244042410760797	cpd03833	Precorrin 3B
+cpd00102_e	1.2008690405273827	cpd00102	Glyceraldehyde3-Phosphate
+cpd03388_e	2.924032702029593	cpd03388	Adenylylselenate
+cpd00905_e	3.109753044017727	cpd00905	Guanosine 3',5'-Bis(Diphosphate)
+cpd02775_e	1.870980871827192	cpd02775	4-Amino-5-Phosphomethyl-2-Methylpyrimidine
+cpd00072_e	2.6909387124425654	cpd00072	D-Fructose-6-Phosphate
+cpd00086_e	1.0896880219192828	cpd00086	Propionyl-Coa
+cpd00346_e	3.3449812503245995	cpd00346	L-Aspartate4-Semialdehyde
+cpd00359_e	2.67142279701758	cpd00359	Indol
+cpd00931_e	5.328262887078761	cpd00931	5-Amino-6--5-Phosphoribosylaminouracil
+cpd00382_e	1.528550553054386	cpd00382	Melitose
+cpd00214_e	3.097834205099659	cpd00214	Palmitate
+cpd16880_e	7.2547190319471095	cpd16880	Episterol Ester, Yeast-Specific
+cpd11459_e	10.065384841633076	cpd11459	Tcam
+cpd06227_e	3.891418730768719	cpd06227	Thf-L-Glutamate
+cpd03279_e	1.9741542567019437	cpd03279	Deoxyinosine
+cpd00851_e	1.1304307073453543	cpd00851	Trans-4-Hydroxy-L-Proline
+cpd01217_e	2.7929016367978194	cpd01217	Xanthosine
+cpd02338_e	2.163488557566178	cpd02338	Udp-D-Galacto-1,4-Furanose
+cpd00305_e	2.063995556023058	cpd00305	Thiamin
+cpd02720_e	6.035314277437421	cpd02720	5-Amino-6--5-Phosphoribitylaminouracil
+cpd00259_e	4.106485186253152	cpd00259	D-Lyxulose
+cpd19006_e	1.1909387124425646	cpd19006	Alpha-D-Glucose 6-Phosphate
+cpd03846_e	1.3549874596334472	cpd03846	Octanoate
+cpd00279_e	1.1425011449716234	cpd00279	Acetoacetyl-Coa
+cpd01982_e	2.294156214229572	cpd01982	5-Phosphoribosylamine
+cpd02968_e	4.012402405715211	cpd02968	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-6-Carboxy-L-Lysyl-D-Alanyl- D-Alanine
+cpd01977_e	1.0321342376445397	cpd01977	4-Phospho-L-Aspartate
+cpd08288_e	1.1253164456583071	cpd08288	2-Phospho-4--Cytidine5-Diphospho-2-C-Methyl-D-Erythritol
+cpd11986_e	2.5840380045242197	cpd11986	Trna Queuine
+cpd00043_e	1.1634885575661782	cpd00043	Udp-Galactose
+cpd00246_e	3.5647697428520004	cpd00246	Inosine
+cpd03913_e	6.99165717098966	cpd03913	Hydrogenobyrinate Diamide
+cpd00504_e	2.2273639651659414	cpd00504	Ll-2,6-Diaminopimelate
+cpd02569_e	2.9652418918700603	cpd02569	2-Oxo-3-Hydroxyisovalerate
+cpd08369_e	1.2053253475642205	cpd08369	Cobalt-Precorrin 3
+cpd12255_e	1.4711910331976028	cpd12255	L-Cysteinyl-Trna(Cys)
+cpd03398_e	2.2549418500626714	cpd03398	Selenocystathionine
+cpd00764_e	2.4301138071881314	cpd00764	7-8-Diaminononanoate
+cpd00930_e	6.1297190319471095	cpd00930	Imidazole Acetol-Phosphate
+cpd00055_e	1.4692238343143598	cpd00055	Formaldehyde
+cpd02210_e	3.4837058000905214	cpd02210	Indoleglycerol Phosphate
+cpd03491_e	13.44587245477602	cpd03491	Undecaprenyl-Diphospho-N-Acetylmuramoyl-(N-Acetylglucosamine)-L-Alanyl-Gamma-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd00774_e	5.444295198534266	cpd00774	Uroporphyrinogeniii
+cpd00020_e	1.4124560214770294	cpd00020	Pyruvate
+cpd00485_e	2.530268877616938	cpd00485	D-Mannose1-Phosphate
+cpd03123_e	2.8230579001289886	cpd03123	3-Oxohexanoyl-Coa
+cpd10162_e	3.267318890592706	cpd10162	(R)-3-Hydroxy-3-Methyl-2-Oxopentanoate
+cpd00198_e	3.7242445863289277	cpd00198	D-Xylulose5-Phosphate
+cpd20338_e	2.168989930767152	cpd20338	Trna With A 3' Cytidine
+cpd16422_e	5.250747846713409	cpd16422	6-Thioxanthine 5'-Monophosphate
+cpd00497_e	1.9809284792882378	cpd00497	Xmp
+cpd21090_e	1.5530675780270076	cpd21090	Adenylated Molybdopterin
+cpd11469_e	1.1105026258502255	cpd11469	(2E)-Dodecenoyl-[Acp]
+cpd19047_e	2.0604817695715765	cpd19047	(S)-2-Acetolactate
+cpd11911_e	6.268663745285052	cpd11911	Trna(Gln)
+cpd16494_e	1.5525207465799422	cpd16494	Dl-Glyceryl 1-Phosphate
+cpd02498_e	2.7363631506639097	cpd02498	2,3-Dihydroxy-Isovalerate
+cpd00516_e	3.2273639651659414	cpd00516	Meso-2,6-Diaminopimelate
+cpd03471_e	4.145844471933993	cpd03471	Nicotinate D-Ribonucleoside
+cpd00878_e	2.6771307826270263	cpd00878	Glucocerebroside
+cpd12194_e	2.779656943792764	cpd12194	L-Tyrosyl-Trna(Tyr)
+cpd00003_e	1.5314870128915863	cpd00003	Nad
+cpd11482_e	3.1707319495565427	cpd11482	(R)-3-Hydroxydecanoyl-[Acyl-Carrier Protein]
+cpd08301_e	4.925645839841055	cpd08301	2-C-Methyl-D-Erythritol2-4-Cyclodiphosphate
+cpd03760_e	1.0322842029881443	cpd03760	Precorrin 6B
+cpd00722_e	1.6766725922296404	cpd00722	O-Acetyl-L-Serine
+cpd03832_e	3.5775915271506467	cpd03832	Hydrogenobyrinate
+cpd03392_e	9.602106713684849	cpd03392	Se-Adenosylselenomethionine
+cpd00533_e	1.032827113298496	cpd00533	Dcdp
+cpd00016_e	1.6761928683559426	cpd00016	Pyridoxal Phosphate
+cpd02642_e	3.944482981598926	cpd02642	N-5-Phosphoribosyl-Anthranilate
+cpd00810_e	2.187949209312106	cpd00810	Orotidylic Acid
+cpd00179_e	1.9270833333333333	cpd00179	Maltose
+cpd19035_e	1.588538636131454	cpd19035	Beta-D-Fructose 6-Phosphate
+cpd12801_e	19.08771694177914	cpd12801	Cardiolipin
+cpd00251_e	2.9618061101176067	cpd00251	Adpribose
+cpd11422_e	1.228179524624644	cpd11422	1,2-Diacyl-Sn-Glycerol 3-Phosphate
+cpd03917_e	7.003521149497985	cpd03917	Adenosylcobyric Acid
+cpd00689_e	1.4109885220866805	cpd00689	Porphobilinogen
+cpd00005_e	1.1617625666810247	cpd00005	Nadph
+cpd02862_e	9.458274860491231	cpd02862	Udpmurac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)
+cpd00644_e	1.0441187166594879	cpd00644	Pan
+cpd11450_e	1.2599872822363247	cpd11450	M12Dg_Bs
+cpd00220_e	1.7679320740284161	cpd00220	Riboflavin
+cpd00103_e	3.9999760966820426	cpd00103	Prpp
+cpd00177_e	1.363752874215118	cpd00177	Dadp
+cpd00066_e	2.6856904828801422	cpd00066	L-Phenylalanine
+cpd01743_e	3.0765591107470374	cpd01743	Cerebroside
+cpd00977_e	2.469121462632229	cpd00977	Ditp
+cpd03494_e	4.2768457762701	cpd03494	Undecaprenyl-Diphospho-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-Meso-2-6-Diaminopimeloyl-D-Alanyl-D-Alanine
+cpd02535_e	2.2407577033264436	cpd02535	2,3-Dihydroxy-3-Methylvalerate
+cpd02605_e	1.3647925595148078	cpd02605	2-Isopropyl-3-Oxosuccinate
+cpd01080_e	4.033073186644604	cpd01080	Ocdca
+cpd00807_e	2.9644382848262296	cpd00807	L-Histidinol-Phosphate
+cpd00932_e	9.06499109313067	cpd00932	5-O--1-Carboxyvinyl-3-Phosphoshikimate
+cpd03608_e	1.0962560661014717	cpd03608	4-Hydroxy-L-Threonine
+cpd03593_e	4.94461120474373	cpd03593	D-Erythro-3-Methylmalate
+cpd11480_e	1.7255068192445626	cpd11480	D-3-Hydroxydodecanoyl-[Acp]
+cpd00219_e	2.9469401580680503	cpd00219	Prephenate
+cpd01741_e	4.074044430439892	cpd01741	Ddca
+cpd11454_e	5.260082028212681	cpd11454	Phosphatidylglycerophosphate
+cpd00842_e	2.0702999059886498	cpd00842	(S)-3-Hydroxybutyryl-Coa
+cpd12371_e	2.6771307826270263	cpd12371	Mgdg
+cpd02967_e	3.6950062737529557	cpd02967	N-Acetyl-Beta-D-Mannosaminyl-1,4-N-Acetyl-D- Glucosaminyldiphosphoundecaprenol
+cpd12105_e	4.494886802744274	cpd12105	L-Methionyl-Trna
+cpd11487_e	1.3996106907626933	cpd11487	3-Oxodecanoyl-Acp
+cpd11474_e	2.031332444669367	cpd11474	Decanoyl-Acp
+cpd15728_e	3.3269771151323546	cpd15728	Diglucosyl-1,2 Dipalmitoylglycerol
+cpd11489_e	3.093236170237158	cpd11489	3-Oxododecanoyl-Acp
+cpd02030_e	5.551238828682357	cpd02030	3-Phosphoshikimate
+cpd00101_e	1.671832345098617	cpd00101	Ribose-5-Phosphate
+cpd01211_e	1.4902091565232933	cpd01211	Thiocyanate
+cpd00290_e	1.9537097668699106	cpd00290	D-Fructose-1,6-Bisphosphate
+cpd00227_e	4.8112925055125455	cpd00227	L-Homoserine
+cpd03078_e	5.620735072115259	cpd03078	Selenophosphate
+cpd00216_e	3.336911108846275	cpd00216	Chorismate
+cpd00510_e	1.3569723882924907	cpd00510	Deoxyribose-5-Phosphate
+cpd03043_e	1.3095913538693438	cpd03043	3-Hydroxybutanoyl-Coa
+cpd03422_e	6.630550570219826	cpd03422	Cobinamide
+cpd00635_e	5.685887079205925	cpd00635	Cbl
+cpd03847_e	1.397476392254144	cpd03847	Myristic Acid
+cpd00588_e	2.3979901028012254	cpd00588	Sorbitol
+cpd00910_e	2.6734297479308182	cpd00910	Galactinol
+cpd03395_e	4.489379860875058	cpd03395	3'-Phosphoadenylylselenate
+cpd02943_e	1.4787236300167506	cpd02943	Udp-N-Acetylmuramoyl-L-Alanyl-D-Glutamyl-L-Lysyl-D-Alanyl-D-Alanine
+cpd00808_e	4.611220106989011	cpd00808	L-Ribulose-5-Phosphate
+cpd11483_e	1.2016721015029175	cpd11483	(R)-3-Hydroxyoctanoyl-[Acyl-Carrier Protein]
+cpd00638_e	4.194746636392794	cpd00638	Deamido-Nad
+cpd02894_e	5.053819148341298	cpd02894	4-Amino-2-Methyl-5-Diphosphomethylpyrimidine
+cpd12285_e	4.535479636956695	cpd12285	N-Formylmethionyl-Trna
+cpd11455_e	5.379405253573984	cpd11455	Ps_Bs
+cpd00805_e	2.9460357814846683	cpd00805	D-Tagatose 6-Phosphate
+cpd03920_e	5.312246189993234	cpd03920	Adenosylcobinamide-Gdp
+cpd01620_e	5.990337080345905	cpd01620	Precorrin 2
+cpd02979_e	6.29381717462557	cpd02979	Phosphoribosylformiminoaicar-Phosphate
+cpd02948_e	11.722718231046123	cpd02948	Murac(Oyl-L-Ala-D-Gamma-Glu-L-Lys-D-Ala-D-Ala)-Diphospho- Undecaprenol
+cpd12370_e	1.0328148655908844	cpd12370	Apo-Acp
+cpd00822_e	6.877732297714439	cpd00822	O-Succinyl-L-Homoserine
+cpd02182_e	1.8416845987312405	cpd02182	(R)-S-Lactoylglutathione
+cpd00712_e	4.5659777159570485	cpd00712	2-Dehydropantoate
+cpd01981_e	1.0163324015511628	cpd01981	5-Methylthio-D-Ribose
+cpd11735_e	1.425262111293148	cpd11735	Amylose
+cpd11485_e	2.5208333333333335	cpd11485	3-Oxohexadecanoyl-Acp
+cpd12344_e	1.7844830619782472	cpd12344	R-S-Alanine
+cpd17467_e	2.257474219315727	cpd17467	Trna Containing S2U
+cpd00755_e	6.520854309281303	cpd00755	Hydroxymethylbilane
+cpd16329_e	2.8715068221466273	cpd16329	Doxifluridine
+cpd00557_e	1.7347708604449257	cpd00557	Siroheme
+cpd24596_e	3.7539874260306725	cpd24596	Prenyl-P-P-Glcnac-Mannac-P-Gro
+cpd01270_e	2.714958275717692	cpd01270	Fmnh2
+cpd00957_e	1.4567560649321338	cpd00957	2,5-Diamino-6-(5'-Phosphoribosylamino)-4-Pyrimidineone
+cpd00235_e	3.530268877616938	cpd00235	D-Mannose-6-Phosphate
+cpd00501_e	1.0885386361314549	cpd00501	Beta-D-Glucose 1-Phosphate
+cpd02738_e	2.3449425709120133	cpd02738	5-Methyltetrahydropteroyltri-L-Glutamate
+cpd16423_e	1.6902334393302585	cpd16423	6-Thioguanosine Monophosphate
+cpd00794_e	4.374120844086627	cpd00794	Trhl
+cpd11640_e	2.3168280434429867	cpd11640	H2
+cpd12894_e	6.980944419204265	cpd12894	Teichoic acid
+cpd00873_e	3.3275569736224844	cpd00873	Nicotinate Ribonucleotide
+cpd00863_e	1.6909387124425654	cpd00863	Beta-D-Glucose 6-Phosphate
+cpd11652_e	11.625541664080778	cpd11652	Phosphatidylglycerol
+cpd00060_e	3.0370457289163166	cpd00060	L-Methionine
+cpd00683_e	14.450343900110067	cpd00683	Dihydropteroate
+cpd01700_e	4.898971153027018	cpd01700	D-Citramalate
+cpd11423_e	1.6628323657791793	cpd11423	1,2-Diacyl-Sn-Glycerol
+cpd12452_e	2.4428255587504317	cpd12452	Glcbeta1->3Acyl2Gro
+cpd02097_e	1.0898614015420258	cpd02097	L-Glutamyl 5-Phosphate
+cpd11594_e	1.7966947838214602	cpd11594	Dextrin
+cpd08371_e	2.084059804813808	cpd08371	Cobalt-Precorrin 5
+cpd00322_e	1.789863593775656	cpd00322	L-Isoleucine
+cpd03918_e	9.001805286694827	cpd03918	Adenosyl Cobinamide
+cpd00201_e	1.8784885398145148	cpd00201	10-Formyltetrahydrofolate
+cpd11920_e	2.102834588955493	cpd11920	Trna(Pro)
+cpd19019_e	1.0079219953299006	cpd19019	L-Cystathionine
+cpd01107_e	2.7701877329730626	cpd01107	Decanoate
+cpd00248_e	6.905223243533215	cpd00248	Quinate
+cpd11657_e	1.5888519610847878	cpd11657	Starch
+cpd03490_e	10.46923497945523	cpd03490	Udp-N-Acetylmuramoyl-L-Alanyl-Gamma-D-Glutamyl-L-Lysine
+cpd00306_e	3.318271497347671	cpd00306	Xylitol
+cpd00351_e	2.688117577286433	cpd00351	Saccharopine
+cpd12060_e	2.6039227748993126	cpd12060	Gln-Trna(Gln)
+cpd12546_e	2.7758769129122616	cpd12546	Trna Containing 6-Isopentenyladenosine
+cpd00517_e	2.122289053595467	cpd00517	1-Acyl-Sn-Glycerol 3-Phosphate
+cpd03704_e	1.4479516306987772	cpd03704	Dimp
+cpd00159_e	1.2208036548069736	cpd00159	L-Lactate
+cpd16419_e	1.6902334393302585	cpd16419	6-Methylthioinosine-5'-Monophosphate
+cpd15565_e	3.009939056960116	cpd15565	L-Seryl-Trna(Sec)
+cpd02832_e	4.2716703070499005	cpd02832	6-Thioinosine 5'-Monophosphate
+cpd00283_e	3.0890989635479107	cpd00283	Geranyldiphosphate
+cpd00699_e	5.198171853174555	cpd00699	5-Dehydroquinate
+cpd02724_e	2.1652807471208795	cpd02724	N-Succinyl-L-2-Amino-6-Oxopimelate
+cpd15737_e	3.1634885575661773	cpd15737	Monoglucosyl-1,2 Dipalmitoylglycerol
+cpd19001_e	1.1909387124425646	cpd19001	Alpha-D-Glucose
+cpd11470_e	1.2673021854445206	cpd11470	Octanoyl-Acp
+cpd02201_e	1.5725663722362473	cpd02201	4-Phosphopantothenate
+cpd03397_e	2.9812053884402605	cpd03397	Selenohomocysteine
+cpd02964_e	3.023362524679209	cpd02964	Udp-N-Acetylmuramoyl-L-Alanyl-D-Gamma-Glutamyl-Meso-2-6-Diaminopimelate
+cpd02016_e	5.457175926301472	cpd02016	N-Ribosylnicotinamide
+cpd01590_e	2.974974477209976	cpd01590	Mercaptopurine
+cpd08372_e	1.0427220760423537	cpd08372	Cobalt-Precorrin 6
+cpd00113_e	1.275301353865546	cpd00113	Isopentenyldiphosphate
+cpd01777_e	3.2172580638785355	cpd01777	Phosphoribosyl-Amp
+cpd03163_e	5.326147959352274	cpd03163	Selenomethionine
+cpd21472_e	2.263758891972368	cpd21472	6-Carboxy-5,6,7,8-Tetrahydropterin
+cpd02961_e	13.513513750370265	cpd02961	Dihydroneopterin
+cpd01401_e	4.0180018734495535	cpd01401	Vitamin K1
+cpd14698_e	4.462219850626342	cpd14698	3-Methyl-1-Hydroxybutyl-Tpp
+cpd00430_e	1.7610734482769623	cpd00430	Pact
+cpd03584_e	2.7406992309125475	cpd03584	Udp-3-O-(Beta-Hydroxymyristoyl)-D-Glucosamine
+cpd02663_e	1.0706799039257502	cpd02663	2,5-Diketo-3-Deoxy-D-Gluconate
+cpd11217_e	6.669754980149474	cpd11217	1,4-Dihydroxy-2-Naphthoyl-Coa
+cpd02886_e	2.108959244507843	cpd02886	Udp-3-O-(Beta-Hydroxymyristoyl)-N-Acetylglucosamine
+cpd21017_e	1.0036677299418217	cpd21017	Alpha-D-Glucopyranosyl-Diphospho-Ditrans,Octacis-Undecaprenol
+cpd03449_e	1.9890081072290329	cpd03449	2-Octaprenyl-3-Methyl-5-Hydroxy-6-Methoxy-1,4-Benzoquinone
+cpd16497_e	1.118895714864609	cpd16497	S-Glutaryldihydrolipoamide-E
+cpd00786_e	2.442953603892466	cpd00786	Ribitol 5-Phosphate
+cpd03653_e	4.41245602147703	cpd03653	Gm4
+cpd03666_e	4.241743142987132	cpd03666	2,5-Diamino-6-(5'-Triphosphoryl-3',4'-Trihydroxy-2'-Oxopentyl)- Amino-4-Oxopyrimidine
+cpd02835_e	3.359166309546759	cpd02835	Udp-2,3-Bis(3-Hydroxytetradecanoyl)Glucosamine
+cpd14702_e	6.462219850626342	cpd14702	2-Methyl-1-Hydroxybutyl-Tpp
+cpd02978_e	1.5831151485364414	cpd02978	7,8-Dihydroneopterin 3'-Triphosphate
+cpd01772_e	4.626039925062535	cpd01772	Succinylbenzoate
+cpd03566_e	2.316820233367823	cpd03566	Acetyl Adenylate
+cpd01306_e	2.0	cpd01306	Cycloartenol
+cpd11669_e	2.494504053614545	cpd11669	Q
+cpd02733_e	3.076559110747038	cpd02733	Deoxycholate
+cpd00526_e	2.0765591107470374	cpd00526	Cholate
+cpd12543_e	1.777303992713481	cpd12543	Carboxybiotin-Carboxyl-Carrier Protein
+cpd01914_e	1.4165850052534061	cpd01914	L-Methionine S-Oxide
+cpd02021_e	5.805640283841042	cpd02021	Succinylbenzoyl-Coa
+cpd03221_e	3.0	cpd03221	Zymosterol
+cpd21149_e	1.4124560214770296	cpd21149	N-Acetyl-Beta-Neuraminate
+cpd00869_e	2.1026382728734276	cpd00869	4-Methylthio 2-Oxobutyrate
+cpd12407_e	5.439831434177069	cpd12407	Dolichyl Phosphate D-Mannose
+cpd03560_e	1.9365867427868104	cpd03560	Propionyladenylate
+cpd00658_e	4.336911108846275	cpd00658	Isochorismate
+cpd29330_e	4.835697465852861	cpd29330	Long-Chain-Acyl-Coas
+cpd19179_e	1.066439792201893	cpd19179	[Dihydrolipoyllysine-Residue Succinyltransferase] S-Succinyldihydrolipoyllysine
+cpd01663_e	2.125	cpd01663	Chenodiol
+cpd03447_e	1.338420878784599	cpd03447	2-Octaprenyl-6-Methoxy-1,4-Benzoquinone
+cpd00167_e	3.5210912126575282	cpd00167	Ceramide
+cpd00954_e	14.381729988682848	cpd00954	6-Hydroxymethyl Dihydropterin
+cpd01662_e	1.5413284314968987	cpd01662	Butanoylphosphate
+cpd02083_e	7.243033424444749	cpd02083	Coproporphyrinogeniii
+cpd08449_e	3.453436781893121	cpd08449	3-Amino-2-Oxopropyl Phosphate
+cpd00211_e	1.0722069688646698	cpd00211	Butyrate
+cpd00523_e	2.124141337871061	cpd00523	Trehalose 6-Phosphate
+cpd09410_e	6.3564227522341525	cpd09410	Demethylphylloquinone
+cpd04539_e	1.991216931266778	cpd04539	2-Amino-3-Oxo-4-Phosphonooxybutyrate
+cpd14700_e	6.245035401553396	cpd14700	2-Methyl-1-Hydroxypropyl-Tpp
+cpd01486_e	3.1064851862531517	cpd01486	Alpha-D-Lyxose
+cpd03732_e	2.3044061549309163	cpd03732	Udp-N-Acetyl-D-Mannosaminouronate
+cpd03736_e	3.9381591267483245	cpd03736	Lauroyl-Kdo2-Lipid Iv(A)
+cpd00176_e	1.0441187166594879	cpd00176	2-Keto-3-Deoxygluconate
+cpd00608_e	1.3823500889080333	cpd00608	D-Altronate
+cpd00584_e	2.410126490593968	cpd00584	Cdp-Ribitol
+cpd11665_e	4.494504053614545	cpd11665	Qh2
+cpd02730_e	6.066165997422209	cpd02730	3-Deoxy-D-Manno-Octulosonate8-Phosphate
+cpd03519_e	1.241743142987132	cpd03519	2,5-Diaminopyrimidine Nucleoside Triphosphate
+cpd00840_e	3.427048521643562	cpd00840	L-Beta-Lysine
+cpd03245_e	2.3763562223603825	cpd03245	Glycodeoxycholate
+cpd02890_e	1.0765591107470374	cpd02890	15(S)-Hete
+cpd00653_e	1.238430698875725	cpd00653	D-Galactonate
+cpd03247_e	1.4247971116133447	cpd03247	Glycochenodeoxycholate
+cpd00817_e	3.671832345098617	cpd00817	D-Arabinose5-Phosphate
+cpd02920_e	14.412126220190332	cpd02920	2-Amino-4-Hydroxy-6-Hydroxymethyl-7-8-Dihydropteridinediphosphate
+cpd00406_e	2.462219850626343	cpd00406	Hypotaurine
+cpd02414_e	5.174965077241564	cpd02414	L-2-Amino-6-Oxopimelate
+cpd01487_e	3.1064851862531517	cpd01487	Alpha-D-Xylose
+cpd02295_e	9.095161387694763	cpd02295	1-4-Dihydroxy-2-Naphthoate
+cpd01318_e	1.376356222360382	cpd01318	Glycocholate
+cpd11425_e	2.196051693114404	cpd11425	2Dmmq7
+cpd02700_e	4.01194524417382	cpd02700	S-(2-Methylpropionyl)-Dihydrolipoamide
+cpd00403_e	1.3823500889080333	cpd00403	D-Mannonate
+cpd01919_e	1.8829646166738447	cpd01919	Maltose-6-Phosphate
+cpd19503_e	2.146199840240776	cpd19503	Molybdoenzyme Molybdenum Cofactor
+cpd03697_e	2.1699542319348253	cpd03697	Arbutin-6P
+cpd08375_e	1.226956993173594	cpd08375	Cobalt-Precorrin 8
+cpd01553_e	2.2496927361170904	cpd01553	Saligenin
+cpd03761_e	3.2696790692159476	cpd03761	Precorrin 6A
+cpd04358_e	2.709004273476022	cpd04358	Styrene
+cpd00806_e	2.1505620784128787	cpd00806	L-Fuculose1-Phosphate
+cpd00073_e	1.3905687737589183	cpd00073	Urea
+cpd15364_e	2.376252404443986	cpd15364	2'-(5''-Triphosphoribosyl)-3'-Dephospho-Coa
+cpd04135_e	1.4651050753290424	cpd04135	Chloroacetic Acid
+cpd12512_e	2.5810704778861595	cpd12512	Citrate (Pro-3S)-Lyase (Thiol Form)
+cpd00791_e	2.3206265591107087	cpd00791	Protoporphyrinogenix
+cpd15522_e	2.905359535022609	cpd15522	1,2-Ditetradecanoyl-Sn-Glycerol 3-Phosphate
+cpd08672_e	4.062499999999998	cpd08672	Kaurenic Acid
+cpd08347_e	1.9583333333333335	cpd08347	Delta8,14 -Sterol
+cpd05727_e	2.922387669632749	cpd05727	24-Methylenecycloartanol
+cpd01335_e	2.4174874596334472	cpd01335	Octanoyl-Coa
+cpd00004_e	2.385653679558253	cpd00004	Nadh
+cpd01451_e	3.203163835318389	cpd01451	Cycloeucalenol
+cpd28293_e	1.174879121833542	cpd28293	Udp-Glucose
+cpd28082_e	1.1084947101096534	cpd28082	Reduced-Ferredoxins
+cpd23318_e	1.1579574934309056	cpd23318	A Peptidoglycan With D,D Cross-Links (Meso-Diaminopimelate Containing)
+cpd23224_e	8.312238673543346	cpd23224	Salicylate-Adenylate
+cpd27839_e	1.3267685213170881	cpd27839	Peptides
+cpd19471_e	4.8099060489180605	cpd19471	8-Methyl-6-Nonenoic Acid
+cpd08766_e	5.443505648953943	cpd08766	6,8A-Seco-6,8A-Deoxy-5-Oxoavermectin ''2A'' Aglycone
+cpd21032_e	2.2043004475260166	cpd21032	5'-S-Methyl-5'-Thioinosine
+cpd16443_e	4.299354382768275	cpd16443	Beta-D-Ribofuranose
+cpd12606_e	2.1669352114705243	cpd12606	Plasmenylethanolamine
+cpd00049_e	5.287435351250336	cpd00049	Carboxylic Acid
+cpd03380_e	1.5054959463854742	cpd03380	Cmp-2-Trimethylaminoethylphosphonate
+cpd00170_e	1.846304474798026	cpd00170	Gluconolactone
+cpd00105_e	2.1064851862531517	cpd00105	D-Ribose
+cpd12678_e	2.1669352114705243	cpd12678	1-Radyl-2-Acyl-Sn-Glycero-3-Phosphocholine
+cpd03418_e	14.347813465230637	cpd03418	Coproporphyrin Iii
